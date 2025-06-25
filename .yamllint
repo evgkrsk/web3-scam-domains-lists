@@ -1,0 +1,11 @@
+# -*- mode: yaml; mode: view -*-
+---
+yaml-files:
+  - '*.yaml'
+  - '*.yml'
+  - '.yamllint'
+
+rules:
+  comments: disable
+  line-length:
+    level: warning
