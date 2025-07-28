@@ -1112,6 +1112,7 @@
 1hhaihl.cc
 1hi06y.pro
 1hwul7mo1cqa4ae.hair
+1hyperliquid.pages.dev
 1i-nch-drops.site
 1i-nch-ex.site
 1i-nch-sale.site
@@ -3687,6 +3688,7 @@
 82674-coinbase.com
 827032971.pages.dev
 82713-coinbase.com
+82732-ledger.com
 828387.pages.dev
 828768840-5em.pages.dev
 828768840-96b.pages.dev
@@ -5304,6 +5306,7 @@ abstractschain.com
 abstractscore.xyz
 abstractseasons.xyz
 abstracttensei.net
+abstractx1.lol
 abstrakey.com
 abstrakterio.com
 abstraktio.xyz
@@ -10601,6 +10604,7 @@ airdrop-nillion.app
 airdrop-nim.network
 airdrop-nkn.com
 airdrop-nodefoundation.xyz
+airdrop-nodego.cloudaccess.host
 airdrop-nodepay.site
 airdrop-nohandle.network
 airdrop-norigo.com
@@ -12640,6 +12644,7 @@ airdrop.swisscheese-fi.com
 airdrop.synfutures.click
 airdrop.synthetix.vc
 airdrop.synthetixapp.com
+airdrop.t3rn.lol
 airdrop.tabl.lol
 airdrop.takker.xyz
 airdrop.talko.us.com
@@ -13638,6 +13643,7 @@ airdropsynfutures.vercel.app
 airdropsystem.buzz
 airdropszetachain.com
 airdropt.com
+airdropt3rn.xyz
 airdroptapswap.live
 airdropten.xyz
 airdroptether.xyz
@@ -18429,6 +18435,7 @@ altbot.online
 altcoin-gordon.com
 altcoinchange.com
 altcoinfun.com
+altcoinonsol.com
 altcoinsmoney.xyz
 altcoinst.com
 altcoinst.xyz
@@ -19388,6 +19395,7 @@ amlchecking.info
 amlchecking.online
 amlchecking.pages.dev
 amlchecking.site
+amlcheckington.net
 amlcheckit.live
 amlchecknow.net
 amlchecknow.org
@@ -25020,13 +25028,16 @@ app.cryptobladesgame.com
 app.cryptodogs.net
 app.cryptorank-hyperlane.xyz
 app.curnve.fi-t1.top
+app.curvc-fi.com
 app.curvc.fi-t2.digital
 app.curvc.io-t2.icu
+app.curve-fin.eu.com
 app.curve.finance-ex1.icu
 app.curvefinance.ac
 app.curveliquidity.io
 app.curves.eu.com
 app.cuurve.finance
+app.cvruc-fi.com
 app.cyberc.site
 app.cymbiotic.xyz
 app.dackieswap.finance
@@ -25439,6 +25450,7 @@ app.hyperlisqib.xyz
 app.hyperljquid.xyz
 app.hyperlock.exchange
 app.hyperluiqid.xyz
+app.hyperswap.exchange.mypcpwallet.com
 app.hyperviquid.com
 app.hyperyiquid.com
 app.hyperzwap.finance
@@ -32631,6 +32643,7 @@ aurbitrum.foundation
 aurealone-an.web.app
 aurealone-app.pages.dev
 aurealone-dlume.com
+aurealone.io
 aurealonesite.web.app
 aurealoneweb.com
 aurefund-services.top
@@ -33770,6 +33783,7 @@ ave-network-sec.com
 ave.web3dashbord.cloud
 aveaorg.com
 aveave.xyz
+avebsc.top
 avecardpal.pages.dev
 avee.fi
 aveeapp.io
@@ -43318,6 +43332,7 @@ bl.media-clock.site
 bl0ckbalancer.com
 bl0ckchain.cc
 bl0ckdagnetw0rk.net
+bl0ckdagnetwork.com
 bl0ckdagnetwork.net
 bl0el.pro
 bl1ast-program.com
@@ -45300,6 +45315,7 @@ blockdagsupport.network
 blockdagsupport.pages.dev
 blockdagtokens.network
 blockdagwork.com
+blockdagzclaim.network
 blockdaog.network
 blockdapp.net
 blockdappfix-mjb.pages.dev
@@ -46159,6 +46175,7 @@ blumtok.website
 blumtoken.pics
 blumton.app
 blumton.com
+blumton.cx
 blumton.top
 blumton.xyz
 blumve.lol
@@ -47522,6 +47539,7 @@ boardversepromptfil.pages.dev
 boardworken.pages.dev
 boarsnft.art
 boarsnft.live
+boatkidsol.com
 bob-airdrop.com
 bob-airdrop.xyz
 bob-claim.com
@@ -49133,6 +49151,7 @@ bot177.cc
 bot19.cc
 bot2.vip
 bot20.cc
+bot20.vip
 bot21.cc
 bot22.cc
 bot22.vip
@@ -52009,6 +52028,7 @@ bullmassive.info
 bullmassive.xyz
 bullnbearapp.com
 bullonblock.com
+bullpenfi.io
 bullpepes.net
 bullperks-claim.com
 bullperks.pages.dev
@@ -52056,6 +52076,7 @@ bullsstored.com
 bullsstores.com
 bullstradesmarket.com
 bullswitch.com
+bullswitcher.io
 bullsync.pages.dev
 bulltrades.live
 bullvbear.fun
@@ -63475,6 +63496,7 @@ claim-sned.digital
 claim-sned.fit
 claim-sned.fyi
 claim-sned.icu
+claim-snoonaut.xyz
 claim-sns.com
 claim-society.com
 claim-soiayer-foundation.lol
@@ -64432,6 +64454,7 @@ claim-universe.com
 claim-unseth.com
 claim-unsheth.xyz
 claim-uos.com
+claim-uptop.com
 claim-usd.com
 claim-usd.online
 claim-usd.org
@@ -65279,6 +65302,7 @@ claim.blendrnetw0rk.org
 claim.blendrnetwork.org
 claim.blendrrnetwork.org
 claim.blobbet.xyz
+claim.block-dags.info
 claim.blockgame.top
 claim.blockgane.support
 claim.blockganes.network
@@ -66094,6 +66118,7 @@ claim.ifzgroup.xyz
 claim.ignitionfbtc.xyz
 claim.iiquidswap.xyz
 claim.ikadot.top
+claim.ikanetwork.net
 claim.illumicati.io
 claim.illuminex.app
 claim.imgmoney.app
@@ -75688,6 +75713,7 @@ com-airdrop.page
 com-airdropbnb.online
 com-airdrops.com
 com-app.link
+com-assets.sbs
 com-blltcupn-net.1gb.ru
 com-booking.site
 com-c.org
@@ -89348,6 +89374,7 @@ defi-node.org
 defi-node.pages.dev
 defi-node7879.pages.dev
 defi-nodebasdawgz.pages.dev
+defi-nodehub.pages.dev
 defi-nodeportal.online
 defi-nodes.pages.dev
 defi-offer-s003.netlify.app
@@ -90607,8 +90634,10 @@ degamex.net
 degaworld.xyz
 degcds.com
 dege-coin.fun
+dege-coin.xyz
 dege-io.com
 dege.pages.dev
+dege.pro
 degecoin.com
 degecoin.live
 degecoins.com
@@ -94248,6 +94277,7 @@ distribution-bytes.com
 distribution-cartoken.com
 distribution-chain.world
 distribution-chaingpt.org
+distribution-chainiink.live
 distribution-chainlink.com
 distribution-chainlink.org
 distribution-chex.com
@@ -108679,6 +108709,7 @@ ethosmigrate.finance
 ethosn.com
 ethosstake.finance
 ethosstakes.com
+ethox2.com
 ethp2p.org
 ethpa.top
 ethpad.aipad.club
@@ -115422,6 +115453,7 @@ flrnetwork.live
 flrntwork.com
 flroge.xyz
 flrserver.com
+flrsparkchain.com
 flrsparkclaimhub.com
 flrsparkconnect.top
 flrtrstconnect.top
@@ -118166,6 +118198,8 @@ fumomilady.net
 fumzmsaa.top
 fun-connect-wallet-v2.com
 fun-friend.tech
+fun-pump.com
+fun-pump.fun
 fun-virtuals-agent.pages.dev
 fun-virtuals.pages.dev
 fun.businessdogs.cc
@@ -134715,6 +134749,7 @@ inferixperk.uno
 inferno-airdrop.wang
 infernogkf.pages.dev
 infernoshits.pages.dev
+infernostake.com
 infernoverse.com
 infertrated.pages.dev
 inficloud.network
@@ -142414,6 +142449,7 @@ keptokens.store
 keranglogin.site
 kerenevenzour.co.il
 kermit-erc.com
+kermitfrog.lol
 kermitfrogoneth.com
 kermitoneth.info
 kermitpepe.network
@@ -148458,6 +148494,7 @@ lenusd.info
 lenvopro.com
 lenxs.eox.homes
 lenzprotocl.xyz
+leo-aibot.vip
 leo-app.net
 leo-app.vip
 leo-app.xyz
@@ -151273,6 +151310,7 @@ littlemutants.net
 littleopensea.com
 littlepancakeswap.com
 littlepepe.icu
+littlepepegift.co
 littlerabbit-claim.digital
 littlerabbit-manualmigration.pages.dev
 littlerabbit-migrations.pages.dev
@@ -151282,6 +151320,7 @@ littlerabbitclaim.com
 littlerabbitproject.digital
 littlerabbitswap.site
 littlewolvestacos.com
+littllepepe.com
 liummi.top
 liuwfp.top
 liv-raria-coad.blogspot.com
@@ -153457,6 +153496,7 @@ luckycoin.us
 luckycoin666.top
 luckycoin666.vip
 luckycoinsol.net
+luckycoinsolana.com
 luckydrop.pro
 luckyeden.vercel.app
 luckyelephant.cfd
@@ -154142,6 +154182,7 @@ m.dedepepekiiler.com
 m.deficloud166.com
 m.dev.speedycrm.layerzer0.cloud
 m.digiwebvault.site
+m.dovmkb.com
 m.dscd888.com
 m.dzsqc.com
 m.e6297bda36435adc926453ba.y9p8iemap.admin.premgt.store
@@ -190623,6 +190664,7 @@ opepensea.io
 opepfp.co
 opepfp.net
 opera-ch.vercel.app
+operation-coinbase.com
 operationera.xyz
 operationmitsubishis.com
 operationsins.com
@@ -194683,6 +194725,7 @@ pancakerewards-swap.pages.dev
 pancakerewards.exchange
 pancakerfinance.pages.dev
 pancakerswap.com
+pancakerwap.finance
 pancakes-bnb.com
 pancakes-bnbswap.vercel.app
 pancakes-bnbswap1.vercel.app
@@ -201408,6 +201451,7 @@ pi-networks.org
 pi-networks.site
 pi-pioneers.online
 pi09m.pro
+pi4eh89krvk3dn9kx4b.us-central-1.fortisoar.forticloud.com
 piacoin-v1.pages.dev
 piaget-mall.net
 pianetmojo.com
@@ -207000,6 +207044,7 @@ presale-scorploncaslno.com
 presale-sea.xyz
 presale-sealana-io.pages.dev
 presale-seedify.fund
+presale-sis.xyz
 presale-slerf.com
 presale-slerf.wtf
 presale-slingshotdao.com
@@ -210164,6 +210209,7 @@ psyopsgift.fun
 psyopsgift.xyz
 psyopsgifts.live
 psyopsgifts.online
+psyopsolana.com
 psyopstoken.com
 psyoptoken-club.com
 psyoptoken.xyz
@@ -211443,6 +211489,7 @@ pumpdotfun-claim.web.app
 pumpf.online
 pumpfun-7s0.pages.dev
 pumpfun-board.pages.dev
+pumpfun-claim.com
 pumpfun-drop.netlify.app
 pumpfun-pinksale.top
 pumpfun-presales.com
@@ -212475,6 +212522,7 @@ qcem.io
 qcftuk.pro
 qchaos.vip
 qcjzo.com
+qcnc9n.cc
 qcrkccin.com
 qcrkcoin.com
 qculiquid.com
@@ -228559,6 +228607,7 @@ ripple-xrpl.com
 ripple.army
 ripple.casa
 ripple.com-100.top
+ripple.com-award.com
 ripple.com-event.guru
 ripple.com-event.top
 ripple.com-event.us
@@ -230168,6 +230217,7 @@ rpcnodecontract.com
 rpcnodedebug.com
 rpcnodefix.com
 rpcnodefix.net
+rpcnodefix.xyz
 rpcnodefixer.com
 rpcnodefixer.net
 rpcnodefixresolve.pages.dev
@@ -230299,6 +230349,7 @@ rpcwebfixtool.com
 rpcwebnodeprotection.pages.dev
 rpcwebprotocol.org
 rpcwebzone.online
+rpdcnodeupdate.pro
 rpdcnodeupdate.xyz
 rpepe.club
 rpgf.nam-chain.com
@@ -231450,6 +231501,7 @@ safe-reward.site
 safe-rewards.org
 safe-rpc.pages.dev
 safe-scan.app
+safe-stream-high-quality-live-now-1.blogspot.com
 safe-sushi.cc
 safe-sushi.top
 safe-syncbridge.xyz
@@ -255771,6 +255823,7 @@ swiftbloxperps.pages.dev
 swiftcargoex.com
 swiftchain-node.pages.dev
 swiftchain-protocol.pages.dev
+swiftchain.wconnect.world
 swiftchainauth.pages.dev
 swiftchaincloud.live
 swiftchaincloud.site
@@ -256000,6 +256053,7 @@ swiftnetprotocol.web.app
 swiftnetsolutions.pages.dev
 swiftnextchain.pages.dev
 swiftnode.pages.dev
+swiftnode.wconnect.world
 swiftnodeapps.pages.dev
 swiftnodeissuesfix.pages.dev
 swiftnoderesolution.pages.dev
@@ -272121,6 +272175,7 @@ uniswap.digital
 uniswap.directory
 uniswap.ecofuse.ai
 uniswap.es
+uniswap.ethdrop.app
 uniswap.eu
 uniswap.exchnges.com
 uniswap.express
@@ -277323,6 +277378,7 @@ verifyusdt-6be.pages.dev
 verifyvulcan.com
 verifyvulcan.xyz
 verifywallet.website
+verifywalletconnect.com
 veriguardservices.xyz
 verilletcheck.xyz
 verilydepvariate.pages.dev
@@ -278075,6 +278131,7 @@ virtuals-eligibility.net
 virtuals-eligible.com
 virtuals-event.com
 virtuals-events.com
+virtuals-events.org
 virtuals-fixednode.pages.dev
 virtuals-hub.com
 virtuals-labs.xyz
@@ -281812,6 +281869,7 @@ waiietconnecthub.com
 waiietconnects.app
 waiietconnects.com
 waiietconnects.net
+waiietconnects.network
 waiietsconmect.com
 waiietsconnect.network
 waiistmemes.tech
@@ -284162,6 +284220,7 @@ web-securetools.pages.dev
 web-smartchainfix.pages.dev
 web-smartfix.pages.dev
 web-smartresolver.pages.dev
+web-solana.org
 web-solaxy.pages.dev
 web-soldappsfix.pages.dev
 web-solutionlnchpad.xyz
@@ -289649,6 +289708,7 @@ worldlibertyfinancee.vercel.app
 worldlibertyfinances.xyz
 worldlibertyfinanciai.co
 worldlibertyfinanciai.site
+worldlibertyfinanciais.com
 worldlibertyfinancial-7yo.pages.dev
 worldlibertyfinancial-9b6.pages.dev
 worldlibertyfinancial-bfl.pages.dev
@@ -299200,6 +299260,7 @@ www.developers.secure.lawlessmarksman.com
 www.development.ppolkastarter.com
 www.devices-mm.com
 www.devotionnft.xyz
+www.devsyncnode.xyz
 www.devve.subpaths.com
 www.dewe.io
 www.dex-bitconnect.lol
