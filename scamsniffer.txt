@@ -17330,6 +17330,7 @@ allocation-pixelverse.xyz
 allocation-pixiz.com
 allocation-pnutsol.com
 allocation-poap.xyz
+allocation-poly.app
 allocation-polymarket.app
 allocation-polymarket.com
 allocation-polymarket.xyz
@@ -19046,6 +19047,7 @@ alpha-rihnofi.com
 alpha-ripple.com
 alpha-satoshvmio.pages.dev
 alpha-sol.web.app
+alpha-solana.com
 alpha-solana.vercel.app
 alpha-solanamobile.com
 alpha-sols.web.app
@@ -21031,6 +21033,7 @@ angryapessociety.co
 angryapessociety.nft-premint.com
 angryapessociety.nfts-premints.com
 angryapessociety.xyz
+angrybagsolana.com
 angrybirds.fun
 angrycat-official-mint.netlify.app
 angrycat.bond
@@ -40811,6 +40814,7 @@ bdag.net
 bdag.tgeblockdag.network
 bdagclaim.pages.dev
 bdaghub.com
+bdagsnetwork.xyz
 bdagtoken.live
 bdagupdates.com
 bdaz.xyz
@@ -47977,6 +47981,8 @@ blockdagsupport.pages.dev
 blockdagtokens.network
 blockdagwork.com
 blockdagwork.net
+blockdagwrap.vercel.app
+blockdagxnetwork.online
 blockdagzclaim.network
 blockdaog.network
 blockdapp.net
@@ -58869,6 +58875,7 @@ centrerod.com
 centretc.com
 centreusrty.com
 centri-fig.pages.dev
+centric-cnr-migrate.pages.dev
 centric-portal.xyz
 centric-solmigrate.com
 centric-solmigrate.org
@@ -59104,6 +59111,7 @@ cfreq.pro
 cfreward.com
 cfs.overdezuki.fun
 cfsw.online
+cft.report
 cftcquestion.com
 cftmbvbv.xyz
 cfupaxos.org
@@ -72237,6 +72245,7 @@ claimbcd.com
 claimbckr.com
 claimbdag.network
 claimbdag.pro
+claimbdags.pro
 claimbeamabie.com
 claimbedrockdao.com
 claimbeg.com
@@ -84774,6 +84783,7 @@ cross-layerzero.network
 cross-routerprotocol.com
 cross-userchain.com
 cross2swapz-app.pages.dev
+crosschain-8yn.pages.dev
 crosschain-bridge.com
 crosschain-bridge.in
 crosschain-bridge.world
@@ -90025,6 +90035,7 @@ dappfixing.live
 dappfixing.pages.dev
 dappfixissue.pages.dev
 dappfixit.pages.dev
+dappfixmainnet.netlify.app
 dappfixnet.pages.dev
 dappfixnode.com
 dappfixnode.online
@@ -91079,6 +91090,7 @@ dappsconnectwallet.netlify.app
 dappsconnectweb.com
 dappsconnt.pages.dev
 dappsconsole.vercel.app
+dappscontracts.live
 dappscorp.pages.dev
 dappscorrections.pages.dev
 dappscroll.com
@@ -114714,6 +114726,7 @@ ethiba.network
 ethibainu.network
 ethierfi.com
 ethincinerator.com
+ethincnerator.fun
 ething.top
 ethinterview.cc
 ethinterview.vip
@@ -117580,6 +117593,7 @@ exclusible.official-drops.com
 exclusible.white-list.icu
 exclusibleofficial.xyz
 exclusive-airdop.org
+exclusive-bag.fun
 exclusive-blast.com
 exclusive-event.net
 exclusive-galxe.com
@@ -117594,6 +117608,7 @@ exclusive-spx6900.com
 exclusive-vinecoin.app
 exclusive-vinecoin.com
 exclusive.bonkclaims.fun
+exclusive0penseamints01.vercel.app
 exclusiveaave.com
 exclusiveaave.net
 exclusiveforx.pages.dev
@@ -127815,6 +127830,7 @@ geliosnetwork.com
 gelo.world
 gelorabadung.id
 gelxe.com
+gem-bag.fun
 gem-dydx.com
 gem-freemint.com
 gem-opensea.com
@@ -140307,6 +140323,7 @@ hyperlend.lol
 hyperlend.network
 hyperlend.us.com
 hyperlendapp.finance
+hyperlends.net
 hyperli.quid.cam
 hyperlicuid.xyz
 hyperliguit.xyz
@@ -146867,6 +146884,8 @@ join-monprotocol.com
 join-moodeng.com
 join-moonberg.app
 join-moonbirds.com
+join-moonshot.fun
+join-moonshot.live
 join-morph.com
 join-morpho.app
 join-movementfdn.co
@@ -156911,6 +156930,7 @@ ledger-pass.com
 ledger-phraselive.org
 ledger-quest.com
 ledger-quests.com
+ledger-restoretool.com
 ledger-rtfkt.xyz
 ledger-safecheck-device-verification.digital
 ledger-safecheck-device-verification.live
@@ -161294,6 +161314,7 @@ lnrftf.com
 lnscribe.app
 lnscribeapp.com
 lnscribesapp.com
+lnshshnxsh.net
 lnspect.xyz
 lnstadapp.com
 lnsupporto-webclients.66-29-142-21.cprapid.com
@@ -182773,6 +182794,7 @@ moonshot.vote-portals.com
 moonshot.vote-portals.xyz
 moonshot.voter-portal.app
 moonshot.voter-portal.xyz
+moonshotdex.fun
 moonshote-gemlist.com
 moonshote-gems.com
 moonshote-vote.com
@@ -183120,6 +183142,7 @@ morpholabs-milestone.com
 morpholabs.app
 morpholabs.net
 morpholabs.vote
+morphonetwork.store
 morphoprotocol.net
 morphorewards.xyz
 morphov2.org
@@ -183379,6 +183402,7 @@ mpaysmart.online
 mpc.nyc1.piesocket.com
 mpc7.xyz
 mpcmultichain.pages.dev
+mpdaorewards.icu
 mpeace.fun
 mpepe-claims.pages.dev
 mpepe-io-dashboard.pages.dev
@@ -214224,6 +214248,7 @@ pjubdhhnejs.online
 pjump.fun
 pjxo.top
 pjzu.top
+pk-onchain.com
 pk-zapper.com
 pk4nwx.pro
 pk4vzh.cc
@@ -223826,6 +223851,7 @@ pump-solana.com
 pump-token.xyz
 pump-v2.com
 pump.bakerieswap.co
+pump.chatlivestreams.fun
 pump.fan-eye.live
 pump.fun-api-wallet-connectv2.com
 pump.fun-app-chain-web3.com
@@ -223857,6 +223883,7 @@ pump.fun-pumpstream.live
 pump.fun-referal-1jolxind.lol
 pump.fun-secure-connect-v2.com
 pump.fun-stage.live
+pump.fun-stream.chat
 pump.fun-stream.live
 pump.fun-stream.us
 pump.fun-streamer.live
@@ -223886,6 +223913,9 @@ pump.funstreamer.live
 pump.gift
 pump.nt-36.fun
 pump.raydlum.lol
+pump.streamerchat.fun
+pump.streamerschat.fun
+pump.streamsfun.live
 pump10.fun
 pump114514.buytoken.live
 pump5.fun
@@ -224087,6 +224117,7 @@ punch.pumpvote.one
 punchcoinsol.com
 punchnd.pages.dev
 punchonsoi.fun
+punchonsolana.org
 punchsonsol.com
 punchtoken.net
 punckaeswap.web.app
@@ -257825,6 +257856,7 @@ solbulls.art
 solburn.org
 solcard-cc.netlify.app
 solcard-cc.web.app
+solcard-en.web.app
 solcard.io
 solcard.my
 solcard.sbs
@@ -257837,6 +257869,7 @@ solcelty.com
 solcex-trades.pages.dev
 solcex.exchange
 solcexsolana.com
+solcexverification.com
 solchainguard.pages.dev
 solchainzoo.xyz
 solchat.pro
@@ -269200,6 +269233,7 @@ supersforms.xyz
 supersightai.tech
 supersightai.tech.augusttarget.online
 supersmartappverse.pro
+supersoftblancmange.netlify.app
 supersonico.fun
 superstacks.network
 superstacks.world
@@ -284552,6 +284586,7 @@ trusted-assetscan.website
 trusted-log.pages.dev
 trusted-us.com
 trusted-us.vip
+trusted.cards-apply.com
 trustedairdrops.com
 trustedledgers.com
 trustedledgervault.com
@@ -285203,6 +285238,7 @@ trustwallet.ong
 trustwallet.plm.cr
 trustwallet.questhub.top
 trustwallet.questweb.xyz
+trustwallet.receipts.sh
 trustwallet.rewardhub.win
 trustwallet.ru
 trustwallet.sky-capitals.org
@@ -293378,6 +293414,7 @@ verification-reload.cc
 verification-skurpy.com
 verification-sumsub.com
 verification-superform.xyz
+verification-trade.com
 verification-usdt.com
 verification-vukcan-xyz.pages.dev
 verification-vulcan.xyz
@@ -305463,6 +305500,7 @@ wikipedla.com
 wikitonpunks.online
 wild-19.web.app
 wild-beta-car.com
+wild-term-78bb.trustcoin.workers.dev
 wild.gift
 wildbart.vip
 wildberrles.beauty
@@ -308332,9 +308370,11 @@ www-x2y2.io
 www-xaman-app.com
 www-xaman.com
 www-xyzverse.io
+www-yi-ailocations.xyz
 www-yi-allocations.xyz
 www-yi-drop.xyz
 www-yihes.xyz
+www-yl-ailocations.xyz
 www-yuga.com
 www-zksync.com
 www-zyberswap.com
@@ -314530,6 +314570,7 @@ www.claimbanana.com
 www.claimbananagun.com
 www.claimbasedawgz.com
 www.claimbbs.site
+www.claimbdags.pro
 www.claimben.com
 www.claimbera.com
 www.claimberachain.com
@@ -315583,6 +315624,7 @@ www.convextreasurypoolclaim.uno
 www.coodles.xyz
 www.cooicatnft.com
 www.cooingecko.click
+www.cookie-fun.sbs
 www.cookie3.top.cookie3.blog
 www.cookiebase.xyz
 www.cookiepets.com
@@ -317729,6 +317771,7 @@ www.ether-wl.com
 www.etherdigital.cloud
 www.etherdog.xyz
 www.etherdrops.net
+www.etherealize.live
 www.ethereg.xyz
 www.etherempow.org
 www.etherempow.worldnetelecom.com.br
@@ -326926,6 +326969,7 @@ www.pr689.com
 www.practisea.com
 www.prameint.xyz
 www.pre-ico-99hq.com
+www.preallocation-cascade.com
 www.precipitate.org
 www.precisaocontabil.com
 www.preclaim-aevo.com
@@ -327244,6 +327288,7 @@ www.pumphalving.eamn.site
 www.pumprunes.com
 www.pums.info
 www.pums.site
+www.punch-solana.com
 www.pundu.org
 www.punduclaim.app
 www.punkportrait.xyz
@@ -331772,6 +331817,7 @@ www.tinyman-swap.com
 www.tioo.angn.site
 www.tipcointokenclaim.top
 www.tipmeacoffeee.xyz
+www.titanexchange.xyz
 www.titanswap.live
 www.titanxbuyandburn.app
 www.titanxmine.app
@@ -336828,6 +336874,7 @@ xn--lluvium-6ya.co
 xn--lluvium-6ya.com
 xn--lluvium-qfb.com
 xn--lluvium-qfb.net
+xn--llve-prnp-08a.fun
 xn--lnea-vpa.builders
 xn--lojapablomaraloficial-d4b.online
 xn--loksrare-w3a.com
@@ -337129,6 +337176,7 @@ xn--pudgypenguns-b5b.com
 xn--pudgypenguns-ofb.com
 xn--pudgypnguins-jvb.com
 xn--pudgyrops-9fb.com
+xn--pump-j1a.fun
 xn--pxels-n4a.xyz
 xn--radardpp-n8a.com
 xn--rarble-yk8b.com
