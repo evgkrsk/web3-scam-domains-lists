@@ -1,0 +1,30 @@
+name: Update scam domains
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # ежедневно в полночь UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update domains
+        run: ./scamsniffer-dump.sh
+
+      - name: Commit changes
+        run: |
+          if [ -n "$(git diff --stat)" ]; then
+            git config --local user.email "bot@github.com"
+            git config --local user.name "GitHub Bot"
+            git add scamsniffer.txt
+            DATE=$(date +%Y%m%d)
+            git commit -m "bump-$DATE"
+          fi
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
