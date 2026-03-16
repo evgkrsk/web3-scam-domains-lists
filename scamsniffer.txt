@@ -26340,6 +26340,7 @@ app.combineswap.pro
 app.cometafarm.com
 app.community.admin.ethshapella.com
 app.comnpound.finance
+app.compoond.finance
 app.comporund.finance
 app.compound.finance.neonewallet.com
 app.compound.ml
@@ -40291,6 +40292,7 @@ bat7.cc
 bat9.cc
 batcat.pages.dev
 batcatdapp.pages.dev
+batch2blockdag.xyz
 batchenterprise.com
 batchtransfr.com
 batdrainer.pages.dev
@@ -40733,6 +40735,7 @@ bdag-distribution.xyz
 bdag.net
 bdag.tgeblockdag.network
 bdagclaim.pages.dev
+bdagcoin.xyz
 bdaghub.com
 bdagsnetwork.xyz
 bdagtoken.live
@@ -47863,6 +47866,7 @@ blockdagnetworkclaim.pages.dev
 blockdagnetworkclaim.pro
 blockdagnetworks.com
 blockdagnetworks.net
+blockdagnetworks.xyz
 blockdagnetworksop.pages.dev
 blockdagnetworksupport.pages.dev
 blockdagnetworkweb3claim.pages.dev
@@ -49536,6 +49540,7 @@ bnb-1212.club
 bnb-17.cc
 bnb-17.vip
 bnb-19.vip
+bnb-2.cc
 bnb-21.cc
 bnb-22.cc
 bnb-2222.club
@@ -60833,6 +60838,7 @@ check-test.online
 check-tiktok-account.pages.dev
 check-tinys.pl
 check-tokens.web.app
+check-trust.cc
 check-trust.my
 check-tutorialtoken.com
 check-unicross.com
@@ -61605,6 +61611,7 @@ checksart.com
 checksart.net
 checksarts.com
 checksazuki.com
+checksbnb.online
 checksbnb.site
 checksdepths.xyz
 checksi.art
@@ -82699,6 +82706,7 @@ controlaml.online
 controldappsolvedy.netlify.app
 controldapsolvedy.top
 controldextool.pages.dev
+controller.lunafury.games
 controlloautenticita.com
 controlloautenticita.info
 controlloautenticita.xyz
@@ -88242,6 +88250,7 @@ daddyonsolana.net
 daddyonsolana.org
 daddyonsolanas.net
 daddys-allocation.xyz
+daddys-allocations.xyz
 daddys-university.com
 daddys-university.net
 daddys-university.org
@@ -91774,6 +91783,7 @@ darppadar.live
 darpradar.pages.dev
 darptradetech.pro
 darrylpetittandassociates.com
+darsflaretrustline.com
 darulraza.net
 darwin-airdrops.com
 darwin-drop.site
@@ -114565,6 +114575,7 @@ ethiax.wjnhx.com
 ethiba.network
 ethibainu.network
 ethierfi.com
+ethincinerator.app
 ethincinerator.com
 ethincinerator.digital
 ethincnerator.fun
@@ -116045,6 +116056,7 @@ event-spaceid.site
 event-splat.fun
 event-spx6900.com
 event-stakekick.pages.dev
+event-standx.xyz
 event-stark.com
 event-starknet.app
 event-starknet.io
@@ -120791,6 +120803,7 @@ fix-panel.pages.dev
 fix-panels.pages.dev
 fix-path.pages.dev
 fix-paths.pages.dev
+fix-portal.com
 fix-protocol.pages.dev
 fix-reauthorizedx.netlify.app
 fix-resolveractivation.online
@@ -150117,6 +150130,7 @@ kassatrue.ru
 kassavenus.ru
 kassawell.ru
 kassu.site
+kastapp.app
 kasvaultdapp.pages.dev
 kasware-ie.web.app
 kasware-xyz-utxo.pages.dev
@@ -152103,6 +152117,7 @@ knjinter177.com
 knjinter313.com
 knlc.pro
 knlg.zyfi.app
+knotel.app
 knowledgdrop-saharaai.com
 knowledgedrop.saaharaal.xyz
 knowledgedrop.sahaarai.com
@@ -159382,6 +159397,7 @@ linen-otter-906846.hostingersite.com
 linenetworkclaim.xyz
 linera-checkers.site
 linera.cloud
+linera.run
 linera.web.app
 linesa.pages.dev
 linesync.pages.dev
@@ -191145,6 +191161,7 @@ newyorkdineryes.com
 newyorknewyork.site
 newyorkplasmacenters.info
 newzelandpoer.pics
+nex-tracker.xyz
 nex.dezuki.fun
 nexaconnect.ndes.online
 nexade-finance.com
@@ -198339,6 +198356,7 @@ onchain-launch.com
 onchain-live.com
 onchain-offgrid.com
 onchain-official.xyz
+onchain-pak.net
 onchain-particlenetwork.pages.dev
 onchain-pk.net
 onchain-register.com
@@ -203758,6 +203776,7 @@ origo.freemintclaim.com
 origonft.live
 origyn.digital
 orihiro.store
+oriigindefi.xyz
 orikod.com
 oringons.com
 oringons.org
@@ -213137,6 +213156,7 @@ pikachuct0.xyz
 pikachudrops.online
 pikachuinuclaim.live
 pikachusclaim.online
+pikachusports.top
 pikadysvepeloft.dev
 pikahq.net
 pikainfinity-ai.web.app
@@ -217531,6 +217551,7 @@ portal.scrollzkp.network
 portal.sharepool.dev
 portal.sol-incineretor.com
 portal.tf
+portal.thesandbox.games
 portal.tokenallocations.live
 portal.twitter-events22.com
 portal.unclaimed-eigenfoundation.org
@@ -223618,6 +223639,8 @@ pump-token.xyz
 pump-v2.com
 pump.bakerieswap.co
 pump.chatlivestreams.fun
+pump.chatstreamers.fun
+pump.chatstreaming.fun
 pump.chatstreams.fun
 pump.fan-eye.live
 pump.fun-api-wallet-connectv2.com
@@ -223680,8 +223703,10 @@ pump.funstreamer.live
 pump.gift
 pump.nt-36.fun
 pump.raydlum.lol
+pump.streamchats.fun
 pump.streamerchat.fun
 pump.streamerschat.fun
+pump.streamingchat.fun
 pump.streamsfun.live
 pump10.fun
 pump114514.buytoken.live
@@ -230964,6 +230989,7 @@ refundsclaim-app.top
 refundsincomemyg0vservices.top
 refundsmultichain.org
 refundsol.io
+refundsolana.fun
 refundstars.top
 refundswtf.pages.dev
 refundtoken.co
@@ -244941,6 +244967,7 @@ safedapps.web.app
 safedappsconnect.pages.dev
 safedappslink.pages.dev
 safedappsnet.com
+safedevice.help
 safedf11.com
 safedf14.com
 safedf4.com
@@ -248745,6 +248772,7 @@ secureweb3connect.netlify.app
 secureweb3connect.vercel.app
 secureweb3session.pages.dev
 secureweb3solver.pages.dev
+secureweb3wallet.com
 securewebconnect.vercel.app
 securewebdapp.pages.dev
 securewebnodeconnect.com
@@ -311933,6 +311961,7 @@ www.binancedefi.eu
 www.binancedefi.me
 www.binancedex.en-us.io
 www.binancedrops.net
+www.binanceearns.com
 www.binancefarming.com
 www.binanceget.top
 www.binanceglobal.pro
@@ -336868,6 +336897,7 @@ xn--pudgypnguins-jvb.com
 xn--pudgyrops-9fb.com
 xn--pump-80a.fun
 xn--pump-j1a.fun
+xn--pump-tya.fun
 xn--pxels-n4a.xyz
 xn--radardpp-n8a.com
 xn--rarble-yk8b.com
@@ -336971,6 +337001,7 @@ xn--stkewise-ox0d.pages.dev
 xn--stkofficial-x7a9h.com
 xn--stkwis-qta9dd.dappslinks.com
 xn--stonerapecub-e9b.org
+xn--stream-pmp-jdb.fun
 xn--strgate-9va.com
 xn--strknet-bn4c.com
 xn--su-lja.com
@@ -337686,6 +337717,7 @@ xsoldiers.claims
 xsoldiers.mints-livenow.com
 xsonic-boom.web.app
 xspectar.us.com
+xspectarverse.info
 xspliquid.org
 xspott.com
 xsqa314.pages.dev
