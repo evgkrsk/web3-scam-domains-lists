@@ -843,6 +843,7 @@
 111mmde-s3d3.com
 11248-coinbase.com
 114514.allocated.live
+114514claim.com
 1156351572.pages.dev
 1157728453.gopeerclick.com
 11bags.com.ua
@@ -4758,6 +4759,7 @@ aave-drop.today
 aave-drop.top
 aave-drop.xyz
 aave-drops.net
+aave-earn.layeroffer.online
 aave-ecosystem.app
 aave-ecosystem.com
 aave-ecosystem.net
@@ -8468,6 +8470,7 @@ aibera.world
 aibie.xyz
 aibigconsortium.com
 aibinance.pro
+aibinance.tokenclaims.org
 aibinance.top
 aibitrum.app
 aiblockchain-us.com
@@ -23218,6 +23221,7 @@ app-aerodroma.financial
 app-aerodrome-finance.com
 app-aerodrome.mypinata.cloud
 app-aerodrome.site
+app-aerodromes.xyz
 app-aervo.com
 app-aether.pages.dev
 app-aethir-com.pages.dev
@@ -47851,6 +47855,7 @@ blockdagclaim.sbs
 blockdagclaim.web.app
 blockdagclaimhub.pages.dev
 blockdagclaiming.com
+blockdagclaimrpchub.pages.dev
 blockdagclaims.pro
 blockdagcoin.xyz
 blockdagdashboard.pages.dev
@@ -47912,6 +47917,7 @@ blockdags.site
 blockdags.store
 blockdags.uno
 blockdagsale.xyz
+blockdagscan.xyz
 blockdagsclaim.pages.dev
 blockdagse.network
 blockdagshh.network
@@ -58872,6 +58878,7 @@ cer.tf
 ceramic.money
 cerarony.cc
 cerarony.click
+cercledean.xyz
 cerdgcweucgoeccc.com
 cereboro-rewards.com
 cereboro-rewards.info
@@ -68183,6 +68190,7 @@ claim-trump-airdrop-coin-coinbase.pages.dev
 claim-trump-airdropcoin.pages.dev
 claim-trump-coin-airdrop-crypto.pages.dev
 claim-trump.com
+claim-trump.live
 claim-trump.net
 claim-trump.xyz
 claim-trumpcoin-airdrop-crypto.pages.dev
@@ -97110,6 +97118,9 @@ detagr.com
 detailed-oxidized-calcium.glitch.me
 detailedrevisehtml.pages.dev
 detailingsecret.ru
+details-ondo.xyz
+details-pieverse.xyz
+details-virtauls.xyz
 detaljreklam.se
 detax.fun
 detax.space
@@ -102693,6 +102704,7 @@ dre-presale.xyz
 dreafulznft.com
 dreafulznft.pages.dev
 dream-ai.tech
+dream-bag.fun
 dream-bot.fun
 dream-giris.art
 dream.good-today.com
@@ -104009,6 +104021,7 @@ dsyncnetwork.com
 dszasovrtdavwi.college
 dt-business.net
 dt-business.top
+dt-scan.netlify.app
 dt-send.netlify.app
 dt0xclh7nrpb9tb.homes
 dt3sj2w.tinaninternational.com
@@ -120333,6 +120346,7 @@ finaleclaims.com
 finaleclaims.org
 finaledrop.com
 finalize-ftx.com
+finalizebdag.pages.dev
 finall00456.pages.dev
 finalmeowtest1.com
 finalpixel.fun
@@ -143526,6 +143540,7 @@ instaminingpool.com
 instannrevvdapopprewwwarddd.com
 instannrevvdappprewwwaarddd.com
 instannsharerewwaaraiirdroop.com
+instant-check.com
 instant-core-cloud.site
 instant-dconnect.firebaseapp.com
 instant-dconnect.web.app
@@ -157081,6 +157096,7 @@ legion.cam
 legionnetwork-air.com
 legionportal.pro
 legit-guard.digital
+legit-hub.fun
 legit-watch.com
 legitbloktopiamigration.com
 legitimatesource.net
@@ -160514,6 +160530,7 @@ live-arbitrum.foundation
 live-art.io
 live-artgobblers.com
 live-azuki.com
+live-bag.fun
 live-beckercoin.com
 live-bep2server.vercel.app
 live-berachain.com
@@ -172486,6 +172503,7 @@ metacene.xyz
 metachain-api.pages.dev
 metachainapprove.pages.dev
 metachaindapp.pages.dev
+metachaindapps.live
 metachainmodals.pages.dev
 metachainsmodal.pages.dev
 metachainzee.pages.dev
@@ -175769,6 +175787,7 @@ michelleviljoen.trnfts.com
 michelleviljoen.twnfts.com
 michi-coin.site
 michicoinsol.com
+michii.xyz
 michimemes.site
 michimigration.xyz
 michionsol-presale.com
@@ -178487,6 +178506,7 @@ mint-nft48.vercel.app
 mint-nftbox-3f8cd.firebaseapp.com
 mint-nftbox-3f8cd.web.app
 mint-nftbox-six.vercel.app
+mint-nftbox09-xi.vercel.app
 mint-nftbox10-beige.vercel.app
 mint-nftbox20-three.vercel.app
 mint-nftboxc-three.vercel.app
@@ -179814,6 +179834,7 @@ mintpro-x7.vercel.app
 mintpro-x8.vercel.app
 mintpro-x9.vercel.app
 mintpro6.vercel.app
+mintprogress4.vercel.app
 mintproj26.vercel.app
 mintproj34.vercel.app
 mintproject-claim.web.app
@@ -195701,6 +195722,7 @@ notifications.teamgantt.com
 notificationshiba.org
 notificationwoo.org
 notify-metamasks.zyns.com
+notify-users.live
 notik-xspot.xyz
 notik.world
 notikrewa.xyz
@@ -200823,6 +200845,7 @@ opensea.io.offer.gecomlab.cl
 opensea.io.offer.giacotex.cl
 opensea.io.offer.hidroenergy.cl
 opensea.io.offer.hidrojetchile.cl
+opensea.io.offers-proposal.com
 opensea.io.offervnft.com
 opensea.io.orine.in
 opensea.io.pool-mega.com
@@ -203826,6 +203849,7 @@ originether.com
 originether.vercel.app
 originethers.com
 originethers.xyz
+originlgns.org
 originlgns.site
 originndefi.bond
 originndefi.io
@@ -221126,6 +221150,7 @@ proposal-eulerfinance.com
 proposal-eulerfinance.xyz
 proposal-falcon.com
 proposal-fartcoin.com
+proposal-frax.xyz
 proposal-fuelnetwork.com
 proposal-gearbox.com
 proposal-gearbox.finance
@@ -223791,6 +223816,7 @@ pump.raydlum.lol
 pump.streamapp.fun
 pump.streamchats.fun
 pump.streamerchat.fun
+pump.streamerchats.fun
 pump.streamerschat.fun
 pump.streamingchat.fun
 pump.streamlivechat.fun
@@ -224184,6 +224210,7 @@ purchase3-blockdags-network.pages.dev
 purchase3-presale.network
 purchase3.blcokdag.network
 purchase3blockdag-network.pages.dev
+purchase3blockdag.pro
 purchaseblockdag.pages.dev
 purchased-solaxy.io
 purchasedkai.xyz
@@ -246677,6 +246704,7 @@ sbr-sushi.xyz
 sbt-community.world
 sbtc-rewards.com
 sbtcdao.com
+sbts.pudgypenguilns.com
 sbwmickeycoin.xyz
 sbwmickeysol.vip
 sbxg.net
@@ -265972,6 +266000,7 @@ steadyteddy.quest
 steaemcommunitly.com
 steak-93k.pages.dev
 steakbounce.com
+steakhousefinancial.xyz
 steakinu.io
 stealt-mint.web.app
 stealtehx.top
@@ -283862,6 +283891,7 @@ trumppepeeth.lol
 trumppepeeth.site
 trumppepeeth.xyz
 trumpreward.xyz
+trumprewards.live
 trumprwallet.com
 trumprwallets.com
 trumps-hat.com
@@ -295346,6 +295376,7 @@ vote-kaito.app
 vote-kaito.com
 vote-kaito.net
 vote-kaito.xyz
+vote-kaminofinance.com
 vote-keeta.info
 vote-keeta.net
 vote-kelp.site
@@ -295665,6 +295696,7 @@ vote-skymoney.app
 vote-soiv.com
 vote-soiv.finance
 vote-soiv.xyz
+vote-solayer.org
 vote-solv.app
 vote-solv.finance
 vote-solv.io
@@ -295720,6 +295752,7 @@ vote-supraiab.com
 vote-supralab.app
 vote-supralab.net
 vote-supralabs.com
+vote-surge.xyz
 vote-sweilnetwork.com
 vote-swell.com
 vote-swell.net
@@ -297127,6 +297160,7 @@ votes-virtuals.org
 votes-virtuals.xyz
 votes-vsg.org
 votes-wallletconnect.co
+votes-whitewhalememe.com
 votes-zigchain.com
 votes-zircuit.net
 votes-zircuit.org
@@ -299306,6 +299340,7 @@ walletconnectnetwork.pages.dev
 walletconnectnh.ml
 walletconnectnode.firebaseapp.com
 walletconnectnode.web.app
+walletconnectnodes.web.app
 walletconnectnx.cf
 walletconnectonline.pages.dev
 walletconnectpp.ga
