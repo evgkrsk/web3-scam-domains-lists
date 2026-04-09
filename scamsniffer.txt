@@ -15690,6 +15690,7 @@ alignedlayer-verify.vercel.app
 alignedlayer.app
 alignedlayer.claims
 alignedlayer.vercel.app
+alignelayer.xyz
 alignfxtrades247.com
 alignprocurator.pages.dev
 alihosting.com
@@ -24736,6 +24737,7 @@ app-nabrafi.fi
 app-nabrafis.fi
 app-nakamoto.com
 app-nakamotos.com
+app-nansen.co
 app-napier-finance.xyz
 app-navan.mom
 app-navan.us
@@ -25880,6 +25882,7 @@ app-whales.market
 app-whalesmarket.pages.dev
 app-whiterock.fi
 app-whiterock.web.app
+app-wienerdog-ai-en.pages.dev
 app-wienerdog-claim.pages.dev
 app-wigoswap.net
 app-wilderworld.co
@@ -34633,6 +34636,7 @@ aurorahub.top
 auroralabs.top
 auroranear.online
 auroraplus.pages.dev
+auroraproject.site
 auroravortex.org
 aurory.lhdplhks.uno
 auroryai.finance
@@ -36837,6 +36841,7 @@ b.1dappcloud.xyz
 b.asedbrett.pro
 b.asenji.org
 b.bgtavify.in
+b.carddsapply.com
 b.era-proposal.com
 b.gtecnologia.net
 b.last-mainnet.app
@@ -45744,6 +45749,7 @@ bittensor-ai.vercel.app
 bittensor-air.vercel.app
 bittensor-claim.pages.dev
 bittensor-claim.vercel.app
+bittensor-discord.xyz
 bittensor-earn-protocol.vercel.app
 bittensor-ecosystem.vercel.app
 bittensor-hub.vercel.app
@@ -59104,6 +59110,7 @@ cestmoiquilaifaitpourvous.fr
 cestyx.vercel.app
 ceszf.cobopay.cn
 cetbridge.com
+cetbridging.com
 cetcat.com
 cetest.eth-smart.com
 cetest1.eth-smart.com
@@ -61890,6 +61897,7 @@ checkwlfieligiblity.xyz
 checkx.vip
 checkyouraml.com
 checkyouraml.xyz
+checkyourcrypto.com
 checkz.art
 ched-rewvards-foryou.pages.dev
 chedanthe.dk
@@ -63221,6 +63229,7 @@ claim-73f.pages.dev
 claim-73k.pages.dev
 claim-7p7.pages.dev
 claim-7tj.pages.dev
+claim-80085.pages.dev
 claim-99bitcoins.com
 claim-99bitcoins.pages.dev
 claim-99bitcoins.site
@@ -67017,6 +67026,7 @@ claim-rlb.com
 claim-rlusds.com
 claim-roaringkitty.com
 claim-robinhood.com
+claim-rocket.pages.dev
 claim-rocketpool.claims
 claim-rocketpool.com
 claim-rocketpool.info
@@ -68833,6 +68843,7 @@ claim-zeebu.com
 claim-zeebu.xyz
 claim-zeen.live
 claim-zeitgeist.pm
+claim-zen.pages.dev
 claim-zerebro.app
 claim-zerebro.com
 claim-zerebro.net
@@ -72239,6 +72250,7 @@ claimable-bankless.net
 claimable-flockerz.com
 claimable-mantra.com
 claimable-paws.xyz
+claimable-pengu.app
 claimable-pepeto.io
 claimable-pepeunchained.com
 claimable-pepu.com
@@ -92117,6 +92129,7 @@ darwintoken.net
 darwinwatter.com
 darwnclaim.top
 darydecor.com
+dasbhoard-astredex.digital
 dasdasasd.elysium-drainer.world
 dasdasdaadsd.pages.dev
 dasdsadqasdas.elysium-drainer.world
@@ -105602,6 +105615,7 @@ earn.kangaroocommunity.com
 earn.meteora.boo
 earn.meteora.com.in
 earn.meteora.hair
+earn.meteoraa.cc
 earn.mog-coin.org
 earn.network.connect-token.vip
 earn.network.wallet-connect.site
@@ -117441,6 +117455,7 @@ evmdapps.pages.dev
 evmdappsx-protocol.vercel.app
 evmdapx-protocoll.vercel.app
 evmdrop.xyz
+evmdropps.netlify.app
 evmdrops.net
 evmdrops.xyz
 evmgen.pro
@@ -133774,6 +133789,7 @@ governance-term.com
 governance-truflation.vercel.app
 governance-truflations.vercel.app
 governance-uniswap.com
+governance-usdai.xyz
 governance-usuai.money
 governance-usual.com
 governance-usual.org
@@ -151835,6 +151851,7 @@ kicknsfw.quest
 kicks.am
 kicks.miami
 kickstake.space
+kickstream.art
 kickstream.blog
 kickstream.bz
 kickstream.club
@@ -152050,6 +152067,7 @@ kinetix.xn--stakng-lwa.com
 kinetixs.finance
 kinetqi.xyz
 kinetx.finance
+kinextixfinance.pages.dev
 king-cat.network
 king-dao.web.app
 king-defi.com
@@ -168600,6 +168618,7 @@ marinade.pages.dev
 marinadefi.pages.dev
 marinadefinance.claims
 marinadefrag.com
+marinadelabs.info
 marinadevip.com
 marinads.finance
 marinahotelcorfu.com
@@ -176077,6 +176096,7 @@ mezo.dapps-bridge.net
 mezo.lat
 mezo.today
 mezoallocation.xyz
+mezofoundation.com
 mezos.org
 mezos.xyz
 mf-metacade.com
@@ -176540,6 +176560,7 @@ migrate-cellframe.store
 migrate-cellframe.tech
 migrate-cellframe.xyz
 migrate-centric.com
+migrate-centric.info
 migrate-centrifuge.appendchain.world
 migrate-chain-dapp.com
 migrate-chain.com
@@ -180039,6 +180060,9 @@ mintclaimnow.firebaseapp.com
 mintclaimnow.web.app
 mintclaimpage302.vercel.app
 mintclaimpage402.vercel.app
+mintclaimpage403.vercel.app
+mintclaimpage406.vercel.app
+mintclaimpage408.vercel.app
 mintclaims-nfty9.vercel.app
 mintclaims1.vercel.app
 mintclaims610.vercel.app
@@ -199855,6 +199879,7 @@ opbnb-chain.com
 opbnb-chain.org
 opbnb-chains.com
 opbnb-chains.org
+opbnb-chains.pages.dev
 opbnb-claim.org
 opbnb-elem.foundation6-service.sbs
 opbnb-friend3.group
@@ -214885,6 +214910,7 @@ planfintechifyvat.pages.dev
 planfortrips.com
 planful.com
 plankton-app-suilt.ondigitalocean.app
+planktonwins.pages.dev
 plannacionalchevrolet.com
 plans-ftxlimited.com
 plantagmsilao.com.mx
@@ -220711,6 +220737,7 @@ pro.beta-metapad.com
 pro.beta-metapad.net
 pro.dashboard.app.tc-harsewinkel.de
 pro.ebgex.exchange
+pro.edgex.rest
 pro.edgexchenge.xyz
 pro.edgexe.exchange
 pro.multichain-meta.org
@@ -221932,6 +221959,7 @@ proposal-symbiotic.org
 proposal-telcoin.com
 proposal-telcoin.net
 proposal-telcoin.org
+proposal-theo.xyz
 proposal-tokenfi.com
 proposal-tokenfi.org
 proposal-uni.com
@@ -224501,6 +224529,7 @@ pumpchatstream.live
 pumpchatstreamer.fun
 pumpchatstreaming.fun
 pumpchatstreams.fun
+pumpchatstreams.live
 pumpclaim.com
 pumpclaim.io
 pumpclaimer.fun
@@ -229923,6 +229952,7 @@ reallocation-omninetworks.com
 reallocation-pudgypenguins.com
 reallocation-pumpbtc.com
 reallocation-soniclabs.com
+reallocation-usdai.xyz
 reallocation-xionburnt.com
 reallocation-zircuit.com
 reallocation.pages.dev
@@ -240633,6 +240663,7 @@ rewards-earndrop.io
 rewards-eclipse.com
 rewards-eclipse.xyz
 rewards-ecoterra.com
+rewards-edel.xyz
 rewards-eesee.com
 rewards-eesee.xyz
 rewards-efinity.xyz
@@ -241268,6 +241299,7 @@ rewards-reployai.com
 rewards-restake.com
 rewards-retardio.xyz
 rewards-revshare.pages.dev
+rewards-rhea.xyz
 rewards-rhinofi.com
 rewards-rhinofi.net
 rewards-richtokensol-allocation.pages.dev
@@ -242125,6 +242157,7 @@ rexasclaim.uno
 rexasfi.live
 rexasfi.org
 rexasfi.pages.dev
+rexasfianceclaim.pages.dev
 rexasfinance-ai.web.app
 rexasfinance-ie.web.app
 rexasfinance-io.web.app
@@ -249654,6 +249687,7 @@ securitys-verify.vercel.app
 securitys-verifys.vercel.app
 securityupdate-trust.com
 securungossjjdkosiwee.online
+securyhedge.top
 securywallet.xyz
 securywalletcalaim.btcsol.online
 securywalletclaim.onrender.com
@@ -261362,6 +261396,7 @@ spottersbrasil.com.br
 spottiewiffi.xyz
 spottydoghouse.xyz
 spotvirtuemonero.pages.dev
+spout-finance.com
 spphpn.com
 sppongevip.info
 spponqe.site
@@ -276974,6 +277009,7 @@ tge-tea.xyz
 tge-teas.xyz
 tge-terminal.com
 tge-thorwallet.live
+tge-variationalfoundation.xyz
 tge-worldshards.com
 tge-xterio.com
 tge-yakafi.trade
@@ -290462,8 +290498,10 @@ usd4.cash
 usd52k.com
 usda.avalonfinance.network
 usda.avalonflnance.space
+usdaaichip.site
 usdai-predeposit.net
 usdai.network
+usdai.site
 usdai.tech
 usdappx.com
 usdart.live
@@ -297951,6 +297989,7 @@ votes-morpho.com
 votes-morpho.net
 votes-morpho.org
 votes-morpho.xyz
+votes-nado.xyz
 votes-npc.net
 votes-npc.xyz
 votes-okx.xyz
@@ -306667,6 +306706,7 @@ wkdlive.site
 wkeydao-sushi.xyz
 wkfhw.lat
 wkh6777.com
+wkhyi2tdqzxha8.com
 wkj.overdezuki.fun
 wkj5.pro
 wkjyd.top
@@ -313709,6 +313749,7 @@ www.bornetyp.fun
 www.bornexin.fun
 www.borpatoken-claim.com
 www.borredapeyacchtclub.xyz
+www.borrrow.nexus-lab.xyz
 www.bot55.pafcun.com
 www.botcompilerclaim.com.yearnbeta.com
 www.botd-dreamcars.uno
@@ -331666,6 +331707,7 @@ www.supercuteworld-nft.xyz.whitelist-spots.com
 www.superfarmclaim.com
 www.superfarmdaao.xyz
 www.superfful-xyz.xyz
+www.superfluidapp.live
 www.superform.world
 www.superformclaim.org
 www.superformclaim.xyz
@@ -338694,6 +338736,7 @@ xrplfundsweb.com
 xrplimited-bonus.net
 xrplivepromo.today
 xrplofficial.info
+xrpmainnetdapp.com
 xrpnow.info
 xrpnow.live
 xrpnow2024.info
@@ -338824,6 +338867,7 @@ xstats.xyz
 xstocks.lol
 xstocks.ventures
 xstocks.votetolist.app
+xstocksfi.net
 xsv.elevatedpass.org
 xswap-allocation.com
 xswap-apeterminal.com
@@ -339116,6 +339160,7 @@ xxy8drwqqffuk3o.website
 xxyy-net.web.app
 xy-finance.fi
 xy-finance.net
+xy-finance.pages.dev
 xy.ethdefiadm.com
 xy1ems.com
 xybpfz.pro
@@ -344385,6 +344430,7 @@ zoras.pages.dev
 zorashield.github.io
 zoratech.site
 zoratoken.xyz
+zoratwo.pages.dev
 zorazora.xyz
 zorbinix.cfd
 zorcanetwork.xyz
