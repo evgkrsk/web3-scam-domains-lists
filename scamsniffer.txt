@@ -30113,6 +30113,7 @@ apy-standx.com
 apy2eth.com
 apybal.com
 apyblb.com
+apydapp.pages.dev
 apyeth-bounty.com
 apyeth-bounty.net
 apyeth-dao.com
@@ -71062,6 +71063,7 @@ claim.pengu-penguins.xyz
 claim.pengu.buzz
 claim.pengu.events
 claim.pengufoundation.xyz
+claim.pengujup.com
 claim.pengusol.me
 claim.pengusol.org
 claim.penqu.xyz
@@ -78464,6 +78466,7 @@ coindaopepe.com
 coindappfixes.pages.dev
 coindapps-totxs-co.preview-domain.com
 coindapps.net
+coindapps.pages.dev
 coindappsresolve.pages.dev
 coindappsync.live
 coindas.icu
@@ -101040,6 +101043,7 @@ dockets-bia.com
 doclegaloff.pics
 docoin.top
 docpl.cfd
+docreviewcheckshpointeonline.com
 docrypto.tech
 docrypto.vip
 docs-beefmeme.pages.dev
@@ -101614,6 +101618,7 @@ dogeunchained.xyz
 dogeuprising.art
 dogevault.org
 dogeverese.pro
+dogeverrsee.pages.dev
 dogeverse-22u.pages.dev
 dogeverse-24m.pages.dev
 dogeverse-9lm.pages.dev
@@ -106813,6 +106818,7 @@ edgeweb3.network
 edgex-exchange.com
 edgex-maru.site
 edgex-webwallet.pages.dev
+edgex.pw
 edgex.sa.com
 edgexchanges.xyz
 ediap.ir
@@ -125366,6 +125372,7 @@ fuelfuelfuelfuel.xyz
 fuelgenesis-airdrop.xyz
 fuell-network.xyz
 fuellapp.xyz
+fuellllll.pages.dev
 fuellnetsworks.com
 fuellnetwork.net
 fuellnetworks.com
@@ -125660,6 +125667,7 @@ funnycryptofrogclub.live
 funnyybuns.nft-premint.com
 funpumpofficial.web.app
 funqtio.nl
+funs-virtual-airdrop.pages.dev
 funsbeast.top
 funskins.lol
 funthepug.pages.dev
@@ -132243,6 +132251,7 @@ glowconsultants.org
 glowcurl.com
 glowing-cat-a23721.netlify.app
 glowswap.fi
+glowswap.org
 glowswap.xyz
 glpi.obsprojject.com
 glq.digital
@@ -139804,6 +139813,7 @@ hub-doge.xyz
 hub-dop.org
 hub-dydx.org
 hub-ethapy.com
+hub-ethena.finance
 hub-etherfi.com
 hub-etherfi.net
 hub-ezeth.com
@@ -160808,6 +160818,7 @@ lista-dao.pages.dev
 lista-dao.top
 lista-dao.xyz
 lista-finance.pages.dev
+lista-org--airdrop.pages.dev
 lista-rewards.com
 lista-rewards.pages.dev
 lista.cash
@@ -170680,6 +170691,7 @@ mega-minerfx.com
 mega-punks.com
 mega-punks.xyz
 mega-rabbit.com
+mega-rabbithole.com
 mega-rationappverse.pages.dev
 mega-revenueshare.pages.dev
 mega-sync.pages.dev
@@ -170799,6 +170811,7 @@ megapontnft.com
 megapot.bet
 megapot.cyou
 megapot.fans
+megapott.com
 megapp-memecoin.lol
 megaproject.tech
 megapunk.org
@@ -190794,6 +190807,7 @@ nerdmutants.com
 nereusfi.xyz
 nereusfinanceofficial.com
 nerfbot.info
+nerkl.xyz
 nerko.io
 nerko.org
 nernwbotnavqfm.shop
@@ -194559,6 +194573,7 @@ nl-coinbase.com
 nl-rakuten.com
 nl.glasdon.com
 nl4hmv.pro
+nl6kvgn.pages.dev
 nlbiru-app.today
 nlblru.xyz
 nlbltvavo.com
@@ -204047,6 +204062,7 @@ orca-swaps.xyz
 orca-swapwallet.com
 orca-swapwallet.nargosliy.com
 orca-vn.com
+orca.raydiun.pro
 orca.test0001.top
 orca.top
 orca.trading
@@ -218033,6 +218049,7 @@ port-soquest.xyz
 port.al-gaming.app
 port.sadwing.za.com
 port3-ct86.pages.dev
+port3-lkfs8.pages.dev
 port3-soquest.xyz
 port3.migration-dashboard.live
 port3.pro
@@ -223388,6 +223405,7 @@ publicsales-jesse.com
 publicsales-mocaverse.com
 publicsales-sophon.co
 publicshop.app1.internal.jacobsevart.com
+publicslaeliberty.pages.dev
 publicww1.app1.internal.jacobsevart.com
 publicwww.media.app1.internal.jacobsevart.com
 publicwww.shop.app1.internal.jacobsevart.com
@@ -224778,6 +224796,7 @@ pumpsol.fun
 pumpstreamchat.fun
 pumpstreamchat.live
 pumpstreamerchat.fun
+pumpstreamerfun.live
 pumpstreamerlive.fun
 pumpstreamers.live
 pumpstreamerschat.fun
@@ -232247,6 +232266,7 @@ register-3dns.app
 register-42.fun
 register-420.fun
 register-42069.live
+register-44.fun
 register-67onchain.fun
 register-810.live
 register-a16z.com
@@ -238240,6 +238260,7 @@ resvoke-csash.com
 resvystarcu.cfd
 resyncdappnode.com
 resyncmainprotocol.pages.dev
+resyncprotocol.pages.dev
 retailsolana.com
 retardcoin.lol
 retardcoin.net
@@ -243394,6 +243415,7 @@ rock-paper-scissors.xyz
 rock77bet.com
 rockatpool.online
 rockatx.exchange
+rockatx.pages.dev
 rockcointron.com
 rockeatpool.net
 rockeetpool.webflow.io
@@ -250429,6 +250451,7 @@ send-usd-bep20.netlify.app
 send-usd.cc
 send-usd.netlify.app
 send-usdt-002.netlify.app
+send-usdt-06.netlify.app
 send-usdt-079.netlify.app
 send-usdt-099.netlify.app
 send-usdt-2.netlify.app
@@ -260517,6 +260540,7 @@ spacenations.online
 spacenaut-nft.com
 spacepass-drake.com
 spacepay-claims.pages.dev
+spacepay-dashboard.pages.dev
 spacepay.live
 spacepay.web1page.net
 spacepayclaim.pages.dev
@@ -277103,6 +277127,7 @@ tgcasino.xyz
 tgcasino1.pages.dev
 tgcasinoairdrop.pages.dev
 tgcasinofixing.app
+tgcasinonet.pages.dev
 tgcasinos.app
 tgcasinostake.app
 tgcasinostake.com
@@ -298784,6 +298809,8 @@ vrfgmn.cc
 vrh35lsqeokqwk5.click
 vrjam.icodrop.pro
 vro14roz.pages.dev
+vro1lxi.pages.dev
+vro1o9n1j.pages.dev
 vrow.world
 vrow.xyz
 vrozrotsi.pages.dev
@@ -328664,6 +328691,7 @@ www.regaisecure.lawlessmarksman.com
 www.registarzuki.com
 www.register-0n1force.com
 www.register-0n1force.xyz
+www.register-44.fun
 www.register-aave.com
 www.register-akidcalledbeast.com
 www.register-bakeryswap.com
@@ -341089,6 +341117,8 @@ zbu-sushi.xyz
 zbzcq1.cc
 zc-synk.com
 zc3i.cc
+zc4b8.pages.dev
+zc61oz.pages.dev
 zc81rpx50a8m1ur.homes
 zcash-solana.com
 zcash.vip
