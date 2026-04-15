@@ -3472,6 +3472,7 @@
 67coin.net
 67coinonchain.com
 67coinsol.com
+67to67billion.pages.dev
 67to67billion.xyz
 67to67billions.com
 67uk67u56u5.pages.dev
@@ -25241,6 +25242,7 @@ app-rolluper.xyz
 app-roninchain.com
 app-roninchain.com.runinchain.com
 app-roost.com
+app-roost.pages.dev
 app-roosts.xyz
 app-rosswap.com
 app-route.icu
@@ -26072,6 +26074,7 @@ app.addicted-beta.fun
 app.admin.celestia.services
 app.admin.cms.branches.emeraldcountry.com
 app.admin.owa.coloratina.com
+app.adrastea.finance
 app.aeavo.com
 app.aenodrome.financial
 app.aerodnome.financial
@@ -39368,6 +39371,7 @@ bancor.check-web3.com
 bancor.eth-networks.com
 bancor.network.cgi-sys-0x-app-40e817af36c94d2ac33a39bce1fe786.top
 bancor.network.cldf-web3.top
+bancor.stakingsrewards.life
 bancoracdeth.com
 bancordefi.cc
 bancordefi.com
@@ -59134,6 +59138,7 @@ cestmoiquilaifaitpourvous.fr
 cestyx.vercel.app
 ceszf.cobopay.cn
 cetbridge.com
+cetbridged.com
 cetbridging.com
 cetcat.com
 cetest.eth-smart.com
@@ -65509,6 +65514,7 @@ claim-lobstarism.pages.dev
 claim-lobstarwilde.com
 claim-lockinsol.com
 claim-log.top
+claim-lol.pages.dev
 claim-lombard-airdrop.pages.dev
 claim-lombard.finance
 claim-looki.games
@@ -80443,6 +80449,7 @@ collect-porkcoin.com
 collect-porsche.com
 collect-program-blast.com
 collect-pudgypenguins.pages.dev
+collect-pump.fun
 collect-puppysfun.com
 collect-puppysfun.net
 collect-puppysfun.xyz
@@ -83092,6 +83099,7 @@ convex-cvx.com
 convex-distribution.com
 convex-fi.pro
 convex-finance.claims
+convex-finance.com
 convex-finance.org
 convex-finance.xyz
 convex.airdrop-events.com
@@ -98976,6 +98984,7 @@ dife.space
 difficultsniff.top
 diffpr0tocol.pages.dev
 difi-airdrop.top
+difi-off.netlify.app
 difi-official.netlify.app
 difi-trade.cc
 difi888i.vip
@@ -140764,6 +140773,7 @@ hyperliquid-home.github.io
 hyperliquid-hub.cc
 hyperliquid-hub.com
 hyperliquid-info.net
+hyperliquid-insight.top
 hyperliquid-insight.xyz
 hyperliquid-inspects.xyz
 hyperliquid-launchpad.com
@@ -140996,6 +141006,7 @@ hyperswap.vip
 hyperswap.website
 hyperswapexchange.website
 hyperswaps-vote-upcoming-rewards-date-treasury-pool-reward.pages.dev
+hyperswaps-voting-com.pages.dev
 hyperswep-echange.click
 hyperswep.com
 hyperswp.com
@@ -157145,6 +157156,7 @@ lbydfi.com
 lc.cx
 lc4nwst.cc
 lcd.akaric.fun
+lce.gift
 lceitservices.com
 lcenciamento-pr.cfd
 lces.io
@@ -159988,6 +160000,7 @@ linearprotocol.net
 linears.finance
 linearupgrade.tech
 lineas-treasury.com
+lineas.airdropalert.art
 lineas.network
 lineas.pages.dev
 lineas.top
@@ -177089,6 +177102,7 @@ migrate.dexedv2.com
 migrate.fegtokens.app
 migrate.fun-projects.online
 migrate.fun-zara-ai.pro
+migrate.fun-zera.pro
 migrate.gysr.ai
 migrate.holders-aave.com
 migrate.ipfsgateway.zone
@@ -187265,6 +187279,7 @@ mychendimasslor.com
 mycitytextile.org
 myclaimpoints.in
 mycliprewards.online
+mycloudwallets.vercel.app
 mycoastalroofing.com
 mycofee.onrender.com
 mycoinbaseapp.top
@@ -189994,6 +190009,7 @@ nationai.run
 nationalparksnft.nft-premint.com
 nationaltrust-org.uk
 native-blast.io
+native-org.xyz
 native-presale.com
 native-veda.xyz
 native-x.space
@@ -192662,6 +192678,7 @@ nft-openseaboxes.web.app
 nft-openseaburn.web.app
 nft-openseaclaim-phi.vercel.app
 nft-openseaclaim.vercel.app
+nft-openseaclaims.web.app
 nft-openseaclick.vercel.app
 nft-openseapro.web.app
 nft-openseapro150.web.app
@@ -197949,6 +197966,7 @@ offersea.xyz
 offersopensea.vip
 offersreceived.com
 offficial-ypredict.com
+offgridcash.com
 office-gis.com
 office.kubersvap.com
 office2020.com
@@ -201191,6 +201209,7 @@ opensea-nftart.web.app
 opensea-nftbox-wine.vercel.app
 opensea-nftbox-z.vercel.app
 opensea-nftbox.web.app
+opensea-nftbox02-dusky.vercel.app
 opensea-nftbox1-amber.vercel.app
 opensea-nftbox10-theta.vercel.app
 opensea-nftbox11-psi.vercel.app
@@ -206096,6 +206115,7 @@ paidnetwork.cloud
 paidnetwork.events
 paidnetwork.icu
 paidnetwork.ltd
+paidnetwork.pages.dev
 paidnetwork.pro
 paidnetworkmigrate.com
 paidnetworkmigration.com
@@ -212559,6 +212579,7 @@ pepuclaim.online
 pepuclaim.org
 pepufrog.site
 pepugift.pro
+pepulayer1.com
 pepumainnet.live
 pepumigrate.pages.dev
 pepumigrates.com
@@ -213839,6 +213860,7 @@ pi-networks.org
 pi-networks.site
 pi-pioneers.online
 pi09m.pro
+pi2network.pages.dev
 pi4eh89krvk3dn9kx4b.us-central-1.fortisoar.forticloud.com
 piacoin-v1.pages.dev
 piaget-mall.net
@@ -221248,6 +221270,9 @@ projectjiotowers.com
 projectkaito.free-mintnow.com
 projectlambo.net
 projectlaunchpads.pages.dev
+projectlicks-box06.vercel.app
+projectlicks-box07.vercel.app
+projectlicks-live08.vercel.app
 projectmain-net.com
 projectmainnet-portal.live
 projectmainnet-server.pages.dev
@@ -222893,6 +222918,7 @@ proyarddex.com
 proyectoaluminio.com
 prqi.info
 prremint.com
+prrump.fun
 prseywhitea.ru.com
 prsq.cc
 prsrevzhiever.lol
@@ -242464,6 +242490,7 @@ rgzqz.top
 rh1aq7.top
 rh5dm.cc
 rhdwsj.top
+rhea-finance.org
 rheapratas.com
 rhfum.pro
 rhhrpka.pro
@@ -268594,6 +268621,7 @@ succincts.xyz
 sucda.cc
 suchi.com.org-v2.world
 suchiswap.com
+suchiswap.info
 suchiswap.net
 suchiswap.online
 sucincts.xyz
@@ -288054,6 +288082,7 @@ uni-finder.com
 uni-finders.com
 uni-goodclaim.com
 uni-guard.web.app
+uni-labs.b-cdn.net
 uni-prodefi.com
 uni-radar.com
 uni-revoke.cash
@@ -290574,6 +290603,7 @@ usahere.sa.com
 usaichipsite.lat
 usairdrop-blast.com
 usaonbase.org
+usaonlinee.blogspot.com
 usaseoseller.com
 usatclaim.xyz
 usaterra.network
@@ -296417,6 +296447,7 @@ vote-heyanon.com
 vote-highstreet.co
 vote-holograph.com
 vote-holograph.net
+vote-ht.xyz
 vote-hybrafinance.com
 vote-hyperfoundation.app
 vote-hyperliqiud.xyz
@@ -296875,6 +296906,7 @@ vote-uniswap.com
 vote-uniswap.net
 vote-uniswaps.com
 vote-usdsai.xyz
+vote-usefelix.org
 vote-usuaimoney.org
 vote-usuaimoney.xyz
 vote-usual.com
@@ -314420,6 +314452,7 @@ www.caviarnine.website
 www.caw-claim.com
 www.cawceo.online
 www.cawnetwork.info
+www.cb-security-services.com
 www.cb-tether.com
 www.cbeth.cab
 www.cbeth.io
@@ -341455,6 +341488,7 @@ zerionsuzki.pages.dev
 zerionw.com
 zerionwallet.netlify.app
 zerionwallet.web.app
+zerionwalletscan.web.app
 zerionweb3-noderewards.pages.dev
 zerionweb3claim.pages.dev
 zerionweb3rewards.pages.dev
