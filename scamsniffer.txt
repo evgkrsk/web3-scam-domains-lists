@@ -5604,6 +5604,7 @@ abyssofmetal.blogspot.com
 abyssworlds.games
 abz.land
 abz.overdezuki.fun
+ac-5uh.pages.dev
 ac-metemask.com
 ac.kwsy.vip
 acabadosdelnortew.com
@@ -5825,6 +5826,7 @@ accessnode-allocations.pages.dev
 accessnode.xyz
 accessnodeapp.com
 accessnodes.xyz
+accessnodess.xyz
 accessnow.xyz
 accessopenseamints5.vercel.app
 accesspage-bydfi.com
@@ -46054,6 +46056,7 @@ blackexchange.live
 blackfinexplorer.xyz
 blackfoxbit.site
 blackhillsports.com
+blackhole-prize.xyz
 blackhole-v2.xyz
 blackhole.app-crypt.com
 blackholedashboard.xyz
@@ -62359,6 +62362,7 @@ chris.rjnfts.com
 chris.vip-freemint.com
 chriscraft.shop
 chrisfuckskids.com
+chrisportugal.github.io
 christiesparis.com
 christisking.vercel.app
 christmas-babypepe.com
@@ -64504,6 +64508,7 @@ claim-ecochain.pages.dev
 claim-ecoterra.pages.dev
 claim-edge.com
 claim-edge.site
+claim-edgex.exchange
 claim-eesee-7fv.pages.dev
 claim-eesee.com
 claim-eesee.io-d8c.site
@@ -102647,6 +102652,7 @@ dopperwschain.xyz
 doppiodiplomaamericano.com
 doppiodiplomaamericano.it
 doppiodiplomaamericano.org
+doppler-cbw.pages.dev
 doppler-finance.sbs
 dopplerfi.com
 dopplerlabs.info
@@ -128677,6 +128683,7 @@ geniidata.org
 geniies.xyz
 geniocoin.com
 genius-online-school.com
+genius-terminal.com
 geniusterminal.xyz
 geniusvisions.in
 genjungle-invitation.com
@@ -152823,6 +152830,7 @@ koi.holdings
 koi.mute.trading
 koi.muteprotocol.trading
 koi30dao.pages.dev
+koifinance-rewards-june14.pages.dev
 koifinance.events
 koifinance.net
 koifinance.vote
@@ -153750,6 +153758,7 @@ kxusr.com
 kxvlszp.betmee.com
 kxvq.coclec.com
 kxw69.com
+kxzie.com
 ky1966.icu
 ky9925.vip
 ky9926.vip
@@ -153858,6 +153867,7 @@ kyberswapkyberswap.com
 kyberswapnet.pages.dev
 kyberswapo.org
 kyberswapp-9tl.pages.dev
+kyberswapp.org
 kyberswapp.pages.dev
 kyberswaps.mrtest.pages.dev
 kyberswaps.pages.dev
@@ -157404,6 +157414,7 @@ ledger-sale-2024.pages.dev
 ledger-secure.net
 ledger-sei.io
 ledger-service.com
+ledger-staking.pages.dev
 ledger-started.com
 ledger-sui.com
 ledger-support-live.pages.dev
@@ -176511,6 +176522,7 @@ midnight-vote.com
 midnight-voting.com
 midnight.claims.ink
 midnightblue-coyote-657081.hostingersite.com
+midnightbreeze-store.pages.dev
 midnightdashboard.network
 midnightimpromptu.top
 midnightntwrk-voting.com
@@ -190846,6 +190858,7 @@ nerzo.cfd
 nerzo.org
 nesa-ai.pages.dev
 nesa-ai.vercel.app
+nesa-airdrop.pages.dev
 nesa-connect.pages.dev
 nesa-verify.pages.dev
 nesa.app
@@ -193855,6 +193868,7 @@ ngmi-bp.com
 ngmibp.life
 ngn.overdezuki.fun
 ngqpaie.cc
+ngrave.it.com
 ngs.overdezuki.fun
 ngstruart.com
 ngstruart.info
@@ -199500,6 +199514,7 @@ onefootball-tge.com
 onefootball-tge.pages.dev
 onefootball.xyz
 onefootballclub-ofc.xyz
+onefootballclub.biz
 onefootballclub.live
 onefootballclub.org
 onefootballclub.site
@@ -226668,6 +226683,7 @@ quekz-dao.web.app
 quemamacuida.com
 quenbac.org
 quenbac.xyz
+quent0nest.sbs
 queryasset.support
 queryresolve.pages.dev
 ques8.demonmetale.xyz
@@ -230215,6 +230231,7 @@ rebellion-makeup.com
 rebellulo.club
 rebelsatoshi-en.pages.dev
 rebelsatoshi-en.web.app
+rebelsatoshi-in.pages.dev
 rebelsatoshi-in.web.app
 rebelsatoshi-io.web.app
 rebelsatoshi.cc
@@ -261807,6 +261824,7 @@ srcomh.com
 srcomk.com
 srcomu.com
 srcuganda.org
+srecry.pages.dev
 sredicemo.rs
 srexchange247.com
 srfinvestprog.com
@@ -272982,6 +273000,7 @@ synchronizefix.firebaseapp.com
 synchronizeledger.pages.dev
 synchronizelive.com
 synchronizemainnet.app
+synchronizeneurosmart-net.pages.dev
 synchronizenode.site
 synchronizer-panel.com
 synchronizer-panel.net
@@ -296488,6 +296507,7 @@ vote-kinto.com
 vote-kinzafi.xyz
 vote-kinzafinance.net.65-109-38-81.cprapid.com
 vote-kinzafinance.xyz
+vote-kyan.xyz
 vote-layerzero.app
 vote-layerzero.net
 vote-layerzero.network
@@ -298259,6 +298279,7 @@ votes-tokenproof.xyz
 votes-trovemarkets.pages.dev
 votes-uniswap.com
 votes-uniswap.org
+votes-usefelix.com
 votes-usuai.money
 votes-usuaimoney.app
 votes-usuaimoney.xyz
@@ -304464,6 +304485,7 @@ webrectsync.pages.dev
 webrectsync.vercel.app
 webregister.co.ke
 webrepository.pages.dev
+webresolutions.pages.dev
 webresolve-config.vercel.app
 webresolveauth.pages.dev
 webresolvefix.firebaseapp.com
@@ -306829,6 +306851,7 @@ withdraw-renzo-protocol.com
 withdraw-renzoprotocol.com
 withdraw.affyn.site
 withdraw.autotrade.finance
+withdraw.bdagscans.network
 withdraw.bitttrexglobal.com
 withdraw.buzzbsquareds.network
 withdraw.i-ftx.info
@@ -338602,6 +338625,7 @@ xpmarket.it.com
 xpmarket.one
 xpmarket.us
 xpmarketdrop.info
+xpmarketeligibility.info
 xpmarketmodule.web.app
 xpmarketreward.com
 xpmgraph.com
