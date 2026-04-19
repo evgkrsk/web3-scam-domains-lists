@@ -3040,6 +3040,7 @@
 586923.xyz
 587424699.r.cdn36.com
 589onxrpl.info
+589xrpl.info
 58vcz.airdrop-eth.mom
 5906743316.pages.dev
 591419-gemini.com
@@ -20074,6 +20075,7 @@ aml-freecheck.xyz
 aml-guard.shop
 aml-guards.com
 aml-inspection.com
+aml-ivory.vercel.app
 aml-kyc.net
 aml-lending.site
 aml-monitor.com
@@ -28777,6 +28779,7 @@ appfluidity.money
 appforta.network
 appfractionai.xyz
 appfragment.com
+appfrax-finance.pages.dev
 appfrax.finance
 appfraxfinances.com
 appfriend.tech
@@ -39763,6 +39766,7 @@ base-kekius.com
 base-keycat.xyz
 base-kyc.com
 base-layer2.com
+base-mainnet.pages.dev
 base-member.xyz
 base-migrates.xyz
 base-migration.xyz
@@ -49762,6 +49766,7 @@ bnb-6789.club
 bnb-77.com
 bnb-7878.club
 bnb-8.cc
+bnb-8.vip
 bnb-8888.club
 bnb-airdrop-chain.com
 bnb-airdrop.net
@@ -50535,6 +50540,7 @@ bobmeme.com
 bobnetwork.top
 bobo-events.com
 bobo-events.org
+bobo-migration.app
 bobo-sushi.lat
 bobo.claims
 bobo.gifts
@@ -63267,6 +63273,7 @@ claim-500usd.top
 claim-506.pages.dev
 claim-5ap.pages.dev
 claim-5ex.pages.dev
+claim-5m1.pages.dev
 claim-5thscape.org
 claim-5thscape.xyz
 claim-6d377c1f.shibatokenhub.com
@@ -73377,6 +73384,7 @@ claiminswap.org
 claimint.firebaseapp.com
 claimint.web.app
 claimintract.com
+claiminvites04.vercel.app
 claimirys.xyz
 claimit-op.xyz
 claimit.cc
@@ -89515,6 +89523,7 @@ dapp-help.pages.dev
 dapp-hex.net
 dapp-hub.com
 dapp-hubs-syncsconnect.pages.dev
+dapp-hyperliquid.xyz
 dapp-hyperswap.exchange
 dapp-hyperswap.network
 dapp-i.pages.dev
@@ -94662,6 +94671,7 @@ deepseekcoin.pro
 deepskyblue-chough-474362.hostingersite.com
 deepskyblue-crow-377642.hostingersite.com
 deepsnitch-ai.claims
+deepsnitchai.claims
 deepsnitclh.com
 deepsouthai.com
 deepsouthai.net
@@ -115390,6 +115400,7 @@ ethosn.com
 ethosstake.finance
 ethosstakes.com
 ethox2.com
+ethoxe.top
 ethp2p.org
 ethpa.top
 ethpad.aipad.club
@@ -129427,6 +129438,7 @@ get-sorai.com
 get-sosovalue.live
 get-soulgra.net
 get-spx6900.com
+get-spx6900com.pages.dev
 get-starknet.com
 get-starknet.io
 get-started.dapsyncptions.com
@@ -130904,6 +130916,7 @@ gigabuds.events
 gigabuds.net
 gigabytergb.site
 gigachad-claim.com
+gigachad-claim.pages.dev
 gigachad-eth.info
 gigachad-eth.pages.dev
 gigachad.claims
@@ -136975,6 +136988,7 @@ heaven-dex.app
 heaven.fo
 heavenbit.com
 heavendev.xyz
+heavendex.info
 heavendex.xyz
 heavenfoodsbd.com
 heavenlyfood.vibebydeepti.co.in
@@ -152180,6 +152194,7 @@ kinetiq-app.com
 kinetiq-app.xyz
 kinetiq-foundtaion.org
 kinetiq-markets.xyz
+kinetiq-v2.com
 kinetiq.exchange
 kinetiq.vip
 kinetiql.xyz
@@ -153894,6 +153909,7 @@ kyberswapkyberswap.com
 kyberswapnet.pages.dev
 kyberswapo.org
 kyberswapp-9tl.pages.dev
+kyberswapp.com
 kyberswapp.org
 kyberswapp.pages.dev
 kyberswaps.mrtest.pages.dev
@@ -162348,6 +162364,7 @@ lollybomb-claim.store
 lollybombmeme-claim.store
 lololol888.xyz
 lololololkam.com
+lolonbsc.xyz
 loltrn.me
 lolyzamriver.com
 lolzchat.xyz
@@ -183431,10 +183448,12 @@ moonshots.network
 moonshots.today
 moonshotse.com
 moonshotsolana.com
+moonshotspro.lol
 moonshotsvote.fun
 moonshotsvote.pro
 moonshotsvotes.com
 moonshotsx.fun
+moonshotsx.lol
 moonshott.io
 moonshott.xyz
 moonshotts.app
@@ -221043,6 +221062,7 @@ producto-pse-davivienda.replit.app
 products.swimuniversity.com
 producvion.winkdrop.net
 produtosdigitais.blog
+proedgex.trade
 proelectrical.co.mz
 proevm-subflarr.pages.dev
 proexbits.com
@@ -222880,6 +222900,7 @@ proud-dew-7567.on.fleek.co
 prove-analogone.onrender.com
 proverkarabochayaaaa.store
 provex-app.com
+provex-app.net
 provex-sacrifice.com
 providencehealthcareuk.com
 providentibk.com
@@ -246779,6 +246800,7 @@ salixarms.com
 sally-token.com
 sallysui.com
 salmaclify.netlify.app
+salmon-albatross-605788.hostingersite.com
 salmon-ekx.pages.dev
 salonetusa.lol
 salonforge.com
@@ -258318,6 +258340,7 @@ solana-reward.web.app
 solana-reward.xyz
 solana-rewards.com
 solana-rewards.dgsconsulting.ca
+solana-rewards.next-cryptolist.net
 solana-rewards.xyz
 solana-ring.online
 solana-saga-mobile.web.app
@@ -268152,6 +268175,7 @@ streakcoin-claim.com
 streakk-io.com
 stream-apilogs.pages.dev
 stream-captcha.live
+stream.pumpcasting.fun
 stream.pumpcasts.fun
 streamcommumity.ru
 streamcommunityn.ru
@@ -268276,6 +268300,7 @@ stringnode.pages.dev
 stripe-to-fgo.dazahaircare.ro
 strivershub.com
 strk-4h4.pages.dev
+strk-aip.pages.dev
 strk-airdrop.info
 strk-airdrop.life
 strk-airdrop.mom
@@ -271738,6 +271763,7 @@ swift-solution.pages.dev
 swift-sync.pages.dev
 swift-synsolution.pages.dev
 swift-toolchain.web.app
+swift-wallat-usdt-send.netlify.app
 swift-wallet.pages.dev
 swift-walletnet.pages.dev
 swift-walletsconnect.surge.sh
@@ -306006,6 +306032,7 @@ whitelist-spacecoin.com
 whitelist-spacepay.co.uk
 whitelist-spectrallabs.pages.dev
 whitelist-spx6900.com
+whitelist-spx6900com.pages.dev
 whitelist-stake.com
 whitelist-starbucks.com
 whitelist-starknet.com
@@ -341323,6 +341350,7 @@ zealy3.com
 zealydegenerate.pages.dev
 zealyguard.club
 zealyguard.xyz
+zealyio.click
 zealys.xyz
 zealyy.com
 zealyy.net
