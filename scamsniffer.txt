@@ -23414,6 +23414,7 @@ app-atalyst-exchange-rewards.pages.dev
 app-atleta.online
 app-auth.pages.dev
 app-autofarm.com
+app-autofinance.xyz
 app-autofix.pages.dev
 app-autolayer.org
 app-avaa.cam
@@ -40395,6 +40396,7 @@ basesvvap.com
 basesvvap.fi
 baseswaap.top
 baseswap-farm.com
+baseswap-v1.com
 baseswap.cc
 baseswap.co
 baseswap.exchange
@@ -41872,6 +41874,7 @@ benpass.xyz
 benqi-airdrop.top
 benqi-dapp.com
 benqi-fi.link
+benqi-fiupdates.live
 benqi-interest.com
 benqi-liquid.com
 benqi-official.site
@@ -75481,6 +75484,7 @@ claims.movementnewtrok.xyz
 claims.movementsab.xyz
 claims.movementsnetwrk.run
 claims.movenentnetwork.xyz
+claims.mtgox.dashboard.portal.artipel.pt
 claims.multichaiins.org
 claims.networkmovement.xyz
 claims.niiiion.live
@@ -101510,6 +101514,7 @@ dogecoinet20.club
 dogecoingift.lol
 dogecoingo.xyz
 dogecoinn.xyz
+dogecoinonsol.pages.dev
 dogecoinpaws.xyz
 dogecoinpresale.pages.dev
 dogecoinreward.net
@@ -117594,6 +117599,7 @@ evmdrops.net
 evmdrops.xyz
 evmgen.pro
 evmglobalmainetverse.pro
+evmguardvalidator.xyz
 evmhealth.pages.dev
 evmintegrated.pages.dev
 evmkits.io
@@ -123115,6 +123121,7 @@ foomcoin.club
 fooox.vip
 foor-youu.com
 foot-print.network
+football-betting.vip
 football-binance.com
 footballapefanclub.finance
 footballapefanclub.netlify.app
@@ -144420,6 +144427,7 @@ interest-bakeryswap.com
 interest-bakeryswap.net
 interest-bakeryswaps.com
 interest-bakeryswaps.net
+interest-etherfi.xyz
 interest-hyperfoundation.org
 interest-keeta.com
 interest-kinetiq.xyz
@@ -229778,7 +229786,9 @@ raydiumwhitelist.pages.dev
 raydiun.cc
 raydiun.info
 raydiun.lat
+raydiun.lol
 raydiun.network
+raydiun.one
 raydiun.top
 raydiun.xyz
 raydiunn.io
@@ -236376,6 +236386,7 @@ registration-stark.com
 registration-stark.events
 registration-stark.network
 registration-starknet.app
+registration-stbl.com
 registration-stepn.network
 registration-superintelligence.net
 registration-superverse.app
@@ -240922,6 +240933,7 @@ rewards-cyber.org
 rewards-cygnus.app
 rewards-cygnus.com
 rewards-cygnus.net
+rewards-cypherpunk.xyz
 rewards-d99.pages.dev
 rewards-daos.world
 rewards-dappnode.pages.dev
@@ -247558,6 +247570,7 @@ satsovdapmain.pages.dev
 satspumpfun.events
 satsupmpfun.pro
 satsx.live
+saturn-credit.com
 saturn4u.com
 saturnbtc.events
 saturndrop.io
@@ -250634,6 +250647,7 @@ send-usdt-33.netlify.app
 send-usdt-4.netlify.app
 send-usdt-45.netlify.app
 send-usdt-5.netlify.app
+send-usdt-59.netlify.app
 send-usdt-6.netlify.app
 send-usdt-here.netlify.app
 send-usdt-trc20.com
@@ -255518,6 +255532,7 @@ skydrome-app.icu
 skydrome.sbs
 skydrop-io.pages.dev
 skydrop.host
+skyeco-vote.com
 skyecosystcm.xyz
 skyecosystem.foundation
 skyecosystem.org
@@ -303028,6 +303043,7 @@ web3-protocol.pages.dev
 web3-protocol.xyz
 web3-protocols.pages.dev
 web3-puffer.mypinata.cloud
+web3-qfsledger.com
 web3-raydium.com
 web3-react-meutas5kc-uniswap.vercel.app
 web3-reg.org
@@ -314788,6 +314804,7 @@ www.cg4o5.fjordfoundry.xyz
 www.cgardner.bluehoststaff.com
 www.cgnfmf.blogspot.jp
 www.cgptclaim-omnia.online
+www.cgrain.top
 www.chaenlest.org
 www.chaiinelist.com
 www.chaiingipt.tech
@@ -315912,6 +315929,8 @@ www.claiming-zk.com
 www.claiming-zksync.com
 www.claiming.io
 www.claimingcircle.com
+www.claiminvites03.vercel.app
+www.claiminvites07.vercel.app
 www.claimioastroon.xyz
 www.claimit-op.xyz
 www.claimit.cc
@@ -318038,8 +318057,10 @@ www.dexqxz.com
 www.dexscan.info
 www.dexscan.tech
 www.dexscreener-lists.com
+www.dexscreener-votes.xyz
 www.dexscreener-voting.xyz
 www.dexscreener.website
+www.dexscreeners-list.xyz
 www.dexshib.fun
 www.dexshib.top
 www.dextools.link3-dapp.com
