@@ -40436,6 +40436,7 @@ baseorg.top
 baseorge.top
 baseorgs.top
 baseoswap.online
+basepaint.info
 basepaint.xyz
 baseparty.app
 basepeach.xyz
@@ -43623,6 +43624,7 @@ billions.app-route.icu
 billions.prismax.icu
 billions.run
 billions.sale
+billionsnetwork.net
 billionswallethub.pages.dev
 billlonoir.site
 billmcbean.net
@@ -48143,6 +48145,7 @@ blockdag.run
 blockdag.today
 blockdag.website
 blockdag.works
+blockdag1-network.pages.dev
 blockdag2buy.pages.dev
 blockdagairdrop.lol
 blockdagautoclaimandswap.pages.dev
@@ -64000,6 +64003,8 @@ claim-bigeyescoin.com
 claim-bigeyescoin.pages.dev
 claim-bigseyes.space
 claim-billionair.icu
+claim-billions-network.pages.dev
+claim-billions.com
 claim-billions.website
 claim-bimeme.pages.dev
 claim-binance-pepe.info
@@ -92730,6 +92735,7 @@ dashboard-trustwallet.com
 dashboard-uni-swaps.com
 dashboard-uniswap.app
 dashboard-uniswap.claims
+dashboard-v3.xyz
 dashboard-velodromefinance.com
 dashboard-vscblockchain.org
 dashboard-vscblockchain.pages.dev
@@ -147356,6 +147362,7 @@ join-biasti2.net
 join-biastl2.app
 join-biastl2.com
 join-biastl2.net
+join-billionsnetwork.com
 join-bingx.com
 join-bitcoincats.world
 join-bitgert.com
@@ -177735,6 +177742,7 @@ migrates-aigentx.pages.dev
 migrates-aminorewards.com
 migrates-atorprotocol.app
 migrates-babygrok.online
+migrates-bobothebear.xyz
 migrates-dapps.xyz
 migrates-fegtoken.top
 migrates-layerai.vercel.app
@@ -179282,6 +179290,7 @@ mint-arbitrum.xyz
 mint-archipelago.io
 mint-artgobblers.com
 mint-astarnetwork.app
+mint-ator.pages.dev
 mint-available.com
 mint-azuki.site
 mint-babylon-card.com
@@ -209320,6 +209329,7 @@ paraswap-v1.com
 paraswap-v4.com
 paraswap.buzz
 paraswap.cash
+paraswap.cc
 paraswap.claims
 paraswap.gift
 paraswap.gifts
@@ -214076,6 +214086,7 @@ phnatumwaalot.godaddysites.com
 phnix-allocations.pages.dev
 phnixlabs.com
 phnixreward.info
+phnixreward.live
 phnixupdates.live
 phnixxrpl.com
 phnixxrpl.info
@@ -242819,6 +242830,7 @@ rewards.venomlabs.org
 rewards.ventoryfinance.com
 rewards.ventorygg.com
 rewards.ventorys.com
+rewards.votes-megaeth.org
 rewards.vsgofficialbridge.online
 rewards.wallstsmemes.io
 rewards.wallxstmemes.com
@@ -246453,6 +246465,7 @@ s4bl3.com
 s4kk399x.s3.amazonaws.com
 s5-ethena.com
 s5-ethena.fi
+s5-ethena.xyz
 s5-ether.finance
 s576kcx.xyz
 s5fz.pro
@@ -250502,6 +250515,7 @@ securetrust.xyz
 secureupdradelive.nl
 secureusdc.com
 securevalidatorapp.com
+securevalidatorlabs.xyz
 secureverismartconnect.live
 securevestory.site
 securevm-point.pages.dev
@@ -258665,6 +258679,7 @@ sol-boxs.web.app
 sol-card.cc
 sol-chainconnect.cfd
 sol-check.web.app
+sol-checker.com
 sol-checker.pages.dev
 sol-claim.com
 sol-claim.web.app
@@ -277962,6 +277977,7 @@ tge-almanac.com
 tge-almanaks.co
 tge-anischessgame.com
 tge-apeironnft1.pages.dev
+tge-billions.com
 tge-bitcoino.com
 tge-bitcoinos.com
 tge-blast.com
@@ -289344,6 +289360,7 @@ unipass.events
 unipasss.click
 unipaxstorm.pages.dev
 unipeckermadapp.xyz
+unipegart.site
 unipegv4.com
 unipoints.warmy.com.pe
 unipokabased.pages.dev
@@ -291075,6 +291092,7 @@ updatewallet.redirectme.net
 updatmywallets.com
 updqi.cc
 upe-swap.com
+upegs.app
 upeswap-dex.com
 upghold-wallet.com
 upgrad-aavtoken.website
@@ -297665,6 +297683,7 @@ vote-sekoia.net
 vote-selfchain.com
 vote-sentio.com
 vote-sentio.org
+vote-sentora.com
 vote-sharpe.com
 vote-silo.support
 vote-sky.money
@@ -297915,6 +297934,7 @@ vote.balancersfi.com
 vote.befilabs.quest
 vote.beflabs.com
 vote.biast.support
+vote.billionsnetwork.app
 vote.bitmileys.network
 vote.bitmileys.trade
 vote.bitsmilesy.claims
@@ -299165,6 +299185,7 @@ votes-virtuals.xyz
 votes-vsg.org
 votes-wallletconnect.co
 votes-whitewhalememe.com
+votes-zebec.app
 votes-zigchain.com
 votes-zircuit.net
 votes-zircuit.org
@@ -299494,6 +299515,7 @@ voting-swellnetwork.net
 voting-tea.net
 voting-tyndro.com
 voting-unipeg.com
+voting-unipeg.org
 voting-uniswap.app
 voting-uniswap.com
 voting-uniswap.net
@@ -302340,6 +302362,7 @@ waro.live
 waronusd1-claim.com
 waronusd1-claims.com
 waronusd1-reward.com
+waronusd1mig.xyz
 warpcast-community.xyz
 warpcast.live
 warpcasterlegends.xyz
@@ -306249,6 +306272,7 @@ wfsjit.com
 wfsjr.org
 wfstt3.cc
 wfvpds.top
+wfvyz.com
 wg-airdrop.com
 wg0-apecoin.com
 wg1gvpj9lij35iu.xyz
@@ -307497,6 +307521,7 @@ willieboatsteam.com
 willietoken.vip
 willowplanninggroup.com
 willowy-kashata-e40b44.netlify.app
+willowy-mousse-e2252a.netlify.app
 willsafirgusupp.com
 willweb.pages.dev
 wiluf.com
@@ -307735,6 +307760,7 @@ withdraw-hyperliquid.com
 withdraw-investvoyager.com
 withdraw-kroll.com
 withdraw-kucoin.com
+withdraw-lido.finance
 withdraw-liquid.com
 withdraw-llido.com
 withdraw-nexo.com
