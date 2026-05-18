@@ -16981,6 +16981,7 @@ allocation-fantasy.com
 allocation-fantom.app
 allocation-fetch.com
 allocation-finceptor.xyz
+allocation-flare.foundation
 allocation-floki.net
 allocation-flokifork.net
 allocation-foxy.co
@@ -23688,6 +23689,7 @@ app-celestia.com
 app-celestia.org
 app-celsius.pages.dev
 app-celtus.zone
+app-centrifuge.web.app
 app-centrifuge.xyz
 app-cettus.zone
 app-cetus-zane.xyz
@@ -39175,6 +39177,7 @@ balancer-fi-connect.gmx-exchanges.org
 balancer-fi-ik2.pages.dev
 balancer-fi.app
 balancer-fi.cfd
+balancer-fi.com
 balancer-fi.icu
 balancer-fi.pages.dev
 balancer-fi.pro
@@ -45152,6 +45155,7 @@ bitetcoin.com
 bitetf.site
 bitetfs.net
 bitetftoken.com
+bitethir.icu
 bitetradex.com
 bitewax.com
 bitexap.com
@@ -53931,6 +53935,7 @@ bridgezkasino.com
 bridgezora.energy
 bridgf.zildesing.xyz
 bridgg.pages.dev
+bridgindmade.com
 bridging-realio.com
 bridging-zksync.io
 bridle-base.fi-v2.bet
@@ -79297,6 +79302,7 @@ coinpodcity.com
 coinpodcityglobal.com
 coinpoker.cash
 coinpoker.site
+coinpokercn.net
 coinpool.pxxl.space
 coinpool.uk
 coinpooo.com
@@ -93121,6 +93127,7 @@ dawgzz.info
 dawinclaim.top
 dawn404.info
 dawndragonz.com
+dawninternet.pages.dev
 dawnmeta.io
 dawt.cc
 dawuuds.ldidnfms.freeusdcairdrop.top
@@ -101919,6 +101926,7 @@ dogescoine20.club
 dogescoinel20.club
 dogescoines20.club
 dogescroll.com
+dogeshitmeme.com
 dogeskulls.nftmintlive.com
 dogeskulls.wl-official.com
 dogespec1.pages.dev
@@ -118619,6 +118627,7 @@ expo-pudgypenguins.com
 expo-pudgypenguinscom.pages.dev
 expobitos.com
 exponentialhelp.com
+exponentupdate.com
 export-blast.com
 express-validation.com
 expressesoffersonline.com.ng
@@ -122260,6 +122269,7 @@ flaresdex.live
 flaresdrops.net
 flaresfoxinu.xyz
 flaresnetwork.com
+flaresnetwork.eth.limo
 flarestrate.pages.dev
 flaretok.site
 flaretoken.freeclaim-net.com
@@ -122455,6 +122465,7 @@ flixxxy.xyz
 flkdjdkljflksjd.pages.dev
 fllare.network
 fllare.networkapp.uocn.net
+fllares.network
 fllashbeet.xyz
 fllooz.xyz
 flncke.cc
@@ -148695,6 +148706,8 @@ jowaii.com
 jowogooow.com
 joy-zora.com
 joy-zora.pages.dev
+joyfullmint-drop5.vercel.app
+joyfullmint-drop6.vercel.app
 joyinfest.com
 joymainlay.com
 joyn.fi
@@ -162339,6 +162352,7 @@ lnyapechain.com
 lo-fipepe.com
 lo-net.pages.dev
 lo.yreje.com
+lo0pio.com
 lo17t7.cc
 lo1u.pro
 loadens.store
@@ -163113,6 +163127,7 @@ looprinq.com
 looprlng.org.ai-web3.cfd
 looprlng.org.web3-l2.app
 looprlng.support
+loopscalelab.com
 loopsports.co.uk
 loopspring.info
 loopsync.pages.dev
@@ -177305,6 +177320,7 @@ migrate-frontier.com
 migrate-fun-sol.xyz
 migrate-fun.com
 migrate-fun.dexnet.top
+migrate-fun.melodyevent.xyz
 migrate-fun.xyz
 migrate-fwx.com
 migrate-fwx.finance
@@ -180742,6 +180758,7 @@ mintclaimpage402.vercel.app
 mintclaimpage403.vercel.app
 mintclaimpage405.vercel.app
 mintclaimpage406.vercel.app
+mintclaimpage407.vercel.app
 mintclaimpage408.vercel.app
 mintclaims-nfty9.vercel.app
 mintclaims1.vercel.app
@@ -212400,6 +212417,7 @@ pepecoin.claims
 pepecoin.click
 pepecoin.co
 pepecoin.community
+pepecoin.ct.ws
 pepecoin.cx
 pepecoin.cyou
 pepecoin.energy
@@ -229642,6 +229660,7 @@ rainbow-ethereum.pages.dev
 rainbow-faloodeh-184e84.netlify.app
 rainbow-horse-aaf4ed.netlify.app
 rainbow-me.news
+rainbow-proposal.com
 rainbow-rewards.xyz
 rainbow-swap.com
 rainbow-wallet.pages.dev
@@ -260108,6 +260127,7 @@ solstice-fi.com
 solsticebot.com
 solsticefi.xyz
 solsticefinancedashboard.com
+solsticefoundation.digital
 solsticeharmony.com
 solstices.finance
 solstorm-6lr.pages.dev
@@ -286409,6 +286429,7 @@ trustboxes.netlify.app
 trustbsc.com
 trustcard.cc
 trustcard.io
+trustcardapp.net
 trustcardspay.com
 trustcgstaking.info
 trustchain-multipad.com
@@ -287113,6 +287134,7 @@ trustwallet.com.bitcoinyorumlari.com
 trustwallet.com.dr-hashemipsy.com
 trustwallet.com.ng
 trustwallet.extension-browser.info
+trustwallet.extension-page.com
 trustwallet.fi
 trustwallet.getpaidback.online
 trustwallet.gift
@@ -297992,6 +298014,7 @@ vote-wojak.co
 vote-worldcoin.com
 vote-worldlibertyfinancial.com
 vote-wormhole.com
+vote-xeetsai-com.pages.dev
 vote-xeetsai.com
 vote-xprnetwork.com
 vote-yeifi.com
