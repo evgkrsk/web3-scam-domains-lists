@@ -2858,6 +2858,7 @@
 4wfaqlp9g6adjwy.sbs
 4wffjup.cc
 4wgkibv62.urest.org
+4ww4f6hhp46aoilxdpyotrszlamays5btuaybyebbne23lqjsvuq.arweave.net
 4x769.pro
 4xepic.claims
 4xl9w.aj568.top
@@ -18701,6 +18702,7 @@ allocations-ethermail.com
 allocations-evergrow.pages.dev
 allocations-flare.com
 allocations-floki.com
+allocations-flyingtulip.com
 allocations-foxylinea.com
 allocations-fuelnetwork.co
 allocations-fuelnetwork.com
@@ -38207,6 +38209,7 @@ bafybeidmmx6ovrkgb7pb5l6vt5iccg5zig3n4kdoo3t6qc7oswvkxckfy4.ipfs.dweb.link
 bafybeidmqq3c6n75xqn3ip5hrqmmsq3ecjtiai2w7ippfokepbergrdjha.ipfs.cf-ipfs.com
 bafybeidnmrd5kevralkx2dzomd2fupkryneha77krdvmac4xu4f4ahas3m.ipfs.cf-ipfs.com
 bafybeidnueyp2x4qveeg7e4goxah3h5vtflv2thqjuzrrkqz4ctteeuxr4.ipfs.cf-ipfs.com
+bafybeidoneag2nrrbjepsq6ink5mu6wtdcwqizo44tjod2pb2ne3ehzkjm.ipfs.dweb.link
 bafybeidp4vlcprskisnj67adc7y3evpbavq34oepwy7fmstwqk47mz6tnq.ipfs.dweb.link
 bafybeidplvuaylnqjnfw3uqph4bs5mmwwh2npzlqnzbtlfeu65yqrghe2i.ipfs.fleek.cool
 bafybeidpzdzxfg2zkcmmfowx2pnsnoded5wso7wc75o7ihhh5zfmyzyjka.ipfs.cf-ipfs.com
@@ -52987,6 +52990,7 @@ bpwyx5.cc
 bpxcollect-free.xyz
 bpxptu.pro
 bpxtoken.network
+bq7kmvkvqjf2ixlkkqpj54l7lz5lhxtmiymy3igsyrbylbk4twlq.arweave.net
 bq89.pro
 bqayjy.cc
 bqbnxkxlpfq.cfd
@@ -57549,6 +57553,7 @@ cashmere.digital
 cashmereiab.app
 cashmerelabs.app
 cashmerelabs.web3-airdrop.net
+cashout-pump.fun
 cashouts.xyz
 cashpay.digital
 cashrevoke.com
@@ -89229,6 +89234,7 @@ dao-base.com
 dao-beefy.finance
 dao-blur.net
 dao-bnbchain.org
+dao-bonus-origindefi.io
 dao-box.web.app
 dao-braavos.org
 dao-brett.com
@@ -143575,6 +143581,7 @@ incentives-ethena.app
 incentives-ethena.com
 incentives-ethena.finance
 incentives-ethena.net
+incentives-firelight.com
 incentives-hex.com
 incentives-lendle.xyz
 incentives-monadevm.app
@@ -145411,6 +145418,7 @@ io-club-5cq.top
 io-coin.com
 io-connect.app
 io-crypto.app
+io-customer.net
 io-cyboo-unlock.live
 io-d.xyz
 io-dapp.org
@@ -153306,6 +153314,7 @@ koalamemecoin.pages.dev
 koanprotocol.xyz
 koapc.com
 koaspnfggas.pages.dev
+koazox.com
 kobakobauri.github.io
 kobrastatasokok.com
 kochieth.com
@@ -159765,6 +159774,7 @@ lieling.net
 lien-lfi.com
 lienea.online
 lienfi.club
+lienfi.pro
 lienfj.com
 lieshou.vip
 lieyer3.xyz
@@ -173578,6 +173588,7 @@ meta.free-mintnow.com
 meta.huweiap.com
 meta.mountaineers.world
 meta.pool.direct
+meta.v-boost.info
 meta.wesbcex.com
 meta2fa.io
 metaacade.com
@@ -184842,6 +184853,7 @@ msosovalue.com
 msp.overdezuki.fun
 mspuitt.xrdapp.com
 mspunke.com
+msrecoveryfund.com
 msreward.xyz
 msreweb-orl.pages.dev
 msroj.github.io
@@ -214014,6 +214026,7 @@ pharos-presale.com
 pharos-sale.com
 pharos.network-app.click
 pharoscore.xyz
+pharoscores.xyz
 pharosenetwork.xyz
 pharoshub.web.app
 pharoslabs.firebaseapp.com
@@ -217441,6 +217454,7 @@ poly-market.netlify.app
 poly-market.pl
 poly-market.xyz
 poly-markets.com
+poly-perps.pages.dev
 poly-redi.com
 poly-results.com
 poly-second.live
@@ -220580,6 +220594,7 @@ presale-rune.dog
 presale-rune.pages.dev
 presale-runes.dog
 presale-ryan.com
+presale-sat0.com
 presale-satoshidex.pages.dev
 presale-satoshidexai.pages.dev
 presale-scorpion-casino-claim.pages.dev
@@ -239894,6 +239909,7 @@ revokecash-web3.org
 revokecash.ai
 revokecash.app
 revokecash.awiki.org
+revokecash.biz
 revokecash.blog
 revokecash.business
 revokecash.cc
@@ -243490,6 +243506,7 @@ richquack.com.kli.gg
 richquack.top
 richsaudis.fun
 richstokensol.com
+richthekid7-evm-test.vercel.app
 richtokensol.co
 richway.life
 richyparis.com
@@ -250481,6 +250498,7 @@ secured.bittap.online
 secured.charismaoncommand.com
 secured.client-galxe.com
 secured.dapprectify.me
+secured.tradeassured.info
 securedapp-connect.vercel.app
 securedapp-sync.pages.dev
 securedapp.pages.dev
@@ -256237,6 +256255,7 @@ sky.money-en.us
 sky.treasury-reserves.xyz
 sky1-6y4.pages.dev
 skyacc.pages.dev
+skyai-govote.xyz
 skyai.token-community.org
 skyaibsc.pro
 skyark-chronicles.com
@@ -259631,6 +259650,9 @@ solbome.org
 solbome.pro
 solbome.xyz
 solbook.net
+solbot.top
+solbot.vip
+solbot1.cc
 solbotz-axguv.netlify.app
 solbotz.netlify.app
 solbounty.io
@@ -276113,6 +276135,7 @@ techcombank.co
 techconfig.store
 techcretive.pages.dev
 techdapssnodes.vercel.app
+techenvm.com
 techfriend.tech
 techfriend.xyz
 techfriendspro.com
@@ -282291,6 +282314,7 @@ tonbot.live
 tonbounty.com
 tonbox.top
 tonbridgeapp.org
+tonbugissuesfix.pages.dev
 tonbugsfixpanel.pages.dev
 tonbulls.top
 tonbx.cfd
@@ -287072,6 +287096,7 @@ trustwalietrestore.site
 trustwall.azurewebsites.net
 trustwall.vercel.app
 trustwall.xyz
+trustwallebep20.netlify.app
 trustwallectconnect.vercel.app
 trustwallel.com
 trustwallet-1.com
@@ -288498,6 +288523,7 @@ udsc-cliamreward.com
 udsc-rwd.top
 udsqnyd.pro
 udst0.top
+udstsendd.netlify.app
 udtmaker.com
 udu3.cc
 udu8k.getmobox.buzz
@@ -297516,6 +297542,7 @@ vote-fantom.com
 vote-fantomfoundation.com
 vote-fantomsonic.com
 vote-felix.com
+vote-felix.xyz
 vote-feymoney.com
 vote-fight.xyz
 vote-filecoin.com
@@ -299186,6 +299213,7 @@ vote.zlgchain.com
 vote1-unipeg.com
 vote4tokens.xyz
 vote7-blast.com
+voteaster-dex.com
 votebax.com
 votebeefy.com
 votebex.com
@@ -306585,6 +306613,7 @@ whales-project.com
 whales.host
 whales.icu
 whales.market-nft.cc
+whales.market-ntf.pro
 whales.market-v3.xyz
 whales.markets
 whales.network
