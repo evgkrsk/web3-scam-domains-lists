@@ -17135,6 +17135,7 @@ allocation-layerzerolab.com
 allocation-ledgity.com
 allocation-lens.xyz
 allocation-lensprotocol.com
+allocation-lienfi.com
 allocation-linea.app
 allocation-linea.build
 allocation-linea.com
@@ -33425,6 +33426,7 @@ asset-aerodromefi.app
 asset-aerodromefi.com
 asset-aerodromefi.net
 asset-aethir.com
+asset-allocation.pages.dev
 asset-arbitrum.com
 asset-arbitrum.net
 asset-arbitrum.org
@@ -40586,6 +40588,7 @@ basicsmart-contractt.live
 basicsolve.pages.dev
 basicspaceapp-smart.pages.dev
 basicspaceappsmart.pages.dev
+basicspaceappsmart.xyz
 basicwordprompt.online
 basilisk-app.org
 basketbaiiverse.co
@@ -44220,6 +44223,7 @@ bingstorm.io
 bingttr.com
 bingvcf.com
 bingvty.com
+bingwucoin-claim.pages.dev
 bingx-defi.com
 bingx-pro.cc
 bingx.fi
@@ -45671,6 +45675,7 @@ bitnestloop.site
 bitnestme.onrender.com
 bitnestmedapp.onrender.com
 bitnestmereward.onrender.com
+bitnestvault.online
 bitnexa-xyz.codeanyapp.com
 bitnexa.io
 bitnexa.net
@@ -53995,6 +54000,7 @@ brightmomentsnft.xyz
 brightpixelagency.com
 brightpulse.icu
 brightsparkkids.run
+briidgecon-tractaddress.site
 brijusanews.com
 brik.pages.dev
 brikcoin.pages.dev
@@ -59526,6 +59532,7 @@ cfytpogtps.com
 cg-cbridge.com
 cg-demo.dev
 cg-partnergroup.com
+cg089651.tw1.ru
 cg19aswac0dwmf9pfgw6.6fh3i9x.ru
 cg4o5.fjordfoundry.xyz
 cg76dd.cc
@@ -86237,6 +86244,7 @@ cryptodesk.cokiwe2297.workers.dev
 cryptodetect-impotsgouv.com
 cryptodex.pages.dev
 cryptodexs.top
+cryptodexy.com
 cryptodeylight.com
 cryptodickbutt2.com
 cryptodickbutts.co
@@ -101224,6 +101232,7 @@ dlgltoads.com
 dlgxbr.cc
 dli.dapp4u.live
 dlibrary.ittelkom-pwt.ac.id
+dlicom.xyz
 dlimarket.com
 dlink.click
 dlink.limited
@@ -117315,6 +117324,7 @@ events-grass.io
 events-grass.xyz
 events-gummyonsol.net
 events-hashai.com
+events-helius.xyz
 events-hex.com
 events-hsm.lol
 events-iink.org
@@ -117505,6 +117515,7 @@ events-stether.net
 events-strawberry.com
 events-strawberry.org
 events-sui.com
+events-surge.xyz
 events-swellnetwork.app
 events-syncswap.xyz
 events-tabichain.com
@@ -118745,6 +118756,7 @@ extensionprotocol.info
 extensions-uniswap.app
 extensiontoken.rf.gd
 extensivebuiltrage.pages.dev
+extensivedapnod.pages.dev
 extensivevaultdaprate.pages.dev
 extensivevaultrevsharee.pages.dev
 extensivevaulttoksclaim.pages.dev
@@ -129840,6 +129852,7 @@ get-rewards.info
 get-rewards.life
 get-rewards.top
 get-rewards.xyz
+get-rexas.pages.dev
 get-rfeth.xyz
 get-rivalz.app
 get-rollbit.com
@@ -154408,6 +154421,7 @@ kyberswap-official.com
 kyberswap-one.pages.dev
 kyberswap-overview.com
 kyberswap-overview.org
+kyberswap-pool.com
 kyberswap-swap.pages.dev
 kyberswap-web.pages.dev
 kyberswap-xyz.com
@@ -182034,6 +182048,7 @@ mobile-pepeunchained.com
 mobile-pionex.com
 mobile-saga.com
 mobile-soniclabs.com
+mobile-test.live
 mobile-verif.253.365.457.14.strangled.net
 mobile.admin.gatosmirringa.com
 mobile.afriqconnect.com
@@ -187808,6 +187823,7 @@ my-btc-profit.com
 my-bungee.com
 my-celerbridge.com
 my-cetus.com
+my-chk.com
 my-collab-land.app
 my-conflux.com
 my-crypto.com
@@ -194771,6 +194787,7 @@ nibirudrop.com
 nibirudrop.top
 nibirudrop.xyz
 nibirufairdrop.com
+nibirufi-5mq.pages.dev
 nibirufi-airdrop.com
 nibirufi-app.top
 nibirufi.com
@@ -199653,6 +199670,7 @@ omni-defi.net
 omni-distribute.com
 omni-ditribution.network
 omni-dug.pages.dev
+omni-ebisu-finance-vaults.pages.dev
 omni-fdn-claim.com
 omni-fdn.com
 omni-fi.network
@@ -218886,6 +218904,7 @@ porschenft.online
 porschenft.space
 porschenft.xyz
 porschenfts.org
+porschepioneerscircle.com
 porscherulit.top
 porsches-nft.xyz
 porsches.io
@@ -219492,6 +219511,7 @@ portalsgaming.pages.dev
 portalsgaming.xyz
 portalskroll.com
 portalskrreactive.store
+portalsoneium.com
 portalspartans.com
 portalsredeem.com
 portalstest.digital
@@ -244470,6 +244490,7 @@ rocketorigindefi.org
 rocketorigindefi.pro
 rocketorigindefi.world
 rocketorigindefi.xyz
+rocketorigindefipro.site
 rocketpoaol.net
 rocketpol.mom
 rocketpol.xyz
@@ -247801,6 +247822,7 @@ sand-bakery.com
 sand-box.buzz
 sand-claim.com
 sand-sushi.cc
+sand-usdt-bep20.netlify.app
 sand.claims
 sand.trsutpad.top
 sand.ttrusttpad.top
@@ -262717,6 +262739,7 @@ spx6900claim.xyz
 spx6900foundation.com
 spx6900foundation.net
 spx6900foundation.org
+spx6900lab.com
 spx6900revshare.pages.dev
 spx6900verceltelnev.dev
 spx6900web3.vercel.app
@@ -291818,6 +291841,7 @@ usd-1000.xyz
 usd-ai.live
 usd-airobots.life
 usd-asia.com
+usd-bep20.network
 usd-bonus.xyz
 usd-circle.com
 usd-circle.net
@@ -292014,6 +292038,7 @@ usdc.circle-live.com
 usdc.circle-official.com
 usdc.circle-official.net
 usdc.circle-official.org
+usdc.claimable.top
 usdc.claims
 usdc.cornhile.com
 usdc.coupons
@@ -302913,6 +302938,7 @@ wavesnexus.com
 wavesprotocoi.com
 wavestackex.com.ng
 wavestaking.com.ng
+wavlyhub.pages.dev
 wavycrypto.digital
 wavyxyz-git-onoff3-linkioafrica.vercel.app
 waw6r.cc
