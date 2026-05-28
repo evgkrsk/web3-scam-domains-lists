@@ -24847,6 +24847,7 @@ app-neocoin.pages.dev
 app-neotokyo.co
 app-newbridge-bep2tool.lol
 app-nexus.icu
+app-nexus.life
 app-nexus.live
 app-nexus.network
 app-nexus.run
@@ -33998,6 +33999,7 @@ aster-airdrop.info
 aster-airdrop.org
 aster-allocation.com
 aster-allocation.info
+aster-allocation.xyz
 aster-claim.com
 aster-claim.xyz
 aster-community.xyz
@@ -34122,6 +34124,8 @@ asteroshib.com
 asterportal.pages.dev
 asterpump.top
 asters-community.art
+asters-now.art
+asters-quick.art
 asters-vote.com
 astersbnb-allocation.xyz
 asterscore.com
@@ -40294,6 +40298,7 @@ basedevo.ink
 basedevo.io
 basedex.network
 basedfnd.netlify.app
+basedfoundation-claims.xyz
 basedfoundation.io
 basedfourdation.com
 basedfrench.org
@@ -40591,6 +40596,7 @@ basicsmart-contracts.live
 basicsmart-contractt.live
 basicsolve.pages.dev
 basicspaceapp-smart.pages.dev
+basicspaceappsmart.online
 basicspaceappsmart.pages.dev
 basicspaceappsmart.xyz
 basicwordprompt.online
@@ -42154,6 +42160,7 @@ bep20test.live
 bep20test.site
 bep20trust.info
 bep20trust.online
+bep20usd.network
 bep20validate.info
 bep2222.club
 bep2222.netlify.app
@@ -50758,6 +50765,7 @@ bobocoinbear.com
 bobocoins.vip
 bobocouncil-migration.info
 boboleglo.xyz
+bobomigrate.fun
 boboola.pages.dev
 boboonsol-vip.pages.dev
 bobos.claims
@@ -57125,6 +57133,7 @@ capo-presale.com
 capo.claims
 capo.gift
 capocoin.org
+capony.xyz
 capp-casheapp.xyz
 capp-us.online
 capshashrento.com
@@ -63864,6 +63873,7 @@ claim-ath.org
 claim-atom.com
 claim-ator.io
 claim-ator.xyz
+claim-attention.pages.dev
 claim-augment.net
 claim-auth-chain.pages.dev
 claim-autism.pages.dev
@@ -65321,6 +65331,7 @@ claim-hellofranklin.pro
 claim-henjin.xyz
 claim-henlo.com
 claim-henlo.top
+claim-henry.pages.dev
 claim-here.online
 claim-hereispurple.com
 claim-hex.com
@@ -116751,6 +116762,7 @@ event-layrerzrero.com
 event-lido.com
 event-lido.fi
 event-lidofinance.com
+event-lienfi.live
 event-linea.com
 event-linea.org
 event-linea.site
@@ -128289,6 +128301,7 @@ gasspascat.com
 gasspascat.net
 gasspasdrops.online
 gasstruelley.com
+gastoken-refund.web.app
 gastoken.help
 gastopia.io
 gasundo.com
@@ -166904,6 +166917,7 @@ main.fetch-merge.net
 main.kpaper.xyz
 main.liquityfi.org
 main.llayer3.xyz
+main.multi-dappschain.xyz
 main.multi-presale.pro
 main.nownode.top
 main.snsyapp.link
@@ -182999,6 +183013,7 @@ monad.homes
 monad.io-claimpage.info
 monad.lc
 monad.mainnet.cx
+monad.moonrises.xyz
 monad.net-o.run
 monad.network-airdrop.com
 monad.onl
@@ -184222,6 +184237,7 @@ moonweil.events
 moonwel.finance
 moonwell-ai.web.app
 moonwell-app.com
+moonwell-claims.xyz
 moonwell-defi.in
 moonwell-defi.lol
 moonwell-fi.org
@@ -217933,6 +217949,7 @@ polymarkef.co
 polymarket-airdrop.pages.dev
 polymarket-airdrop.vercel.app
 polymarket-coin.com
+polymarket-en.firebaseapp.com
 polymarket-evs.pages.dev
 polymarket-frontend.onrender.com
 polymarket-io.com
@@ -217955,6 +217972,7 @@ polymarket.icu
 polymarket.info
 polymarket.is
 polymarket.lapinks.com
+polymarket.limited
 polymarket.live
 polymarket.lol
 polymarket.me
@@ -217965,6 +217983,7 @@ polymarket.register-coinlist.io
 polymarket.trade
 polymarket.us-code.lol
 polymarket.us.com
+polymarket.verafy.us
 polymarket.verifications.markets
 polymarket.win
 polymarket24.com
@@ -225727,6 +225746,7 @@ pumppfurn.sbs
 pumppilled.com
 pumppresale.app
 pumppresale.pages.dev
+pumppro.fun
 pumpr.fun
 pumpreward.fun
 pumproulette.fun
@@ -249807,6 +249827,7 @@ sdg825.it
 sdgasew43rw3w3r.xyz
 sdhyf.com
 sdhypecloudservice.sbs
+sdi2jfnjmdpasd.pages.dev
 sdin.top
 sditemaps.project-altlayer.io
 sdj.elevatedpass.org
@@ -284242,6 +284263,8 @@ transchess.com
 transconfiguration.live
 transervecryptocoin.com
 transfer-asterdex.com
+transfer-bep20-usd.netlify.app
+transfer-bep20.network
 transfer-bsc.netlify.app
 transfer-bsc20.netlify.app
 transfer-kampaani.icu
@@ -295484,6 +295507,7 @@ verabridge.website
 veraclty.com
 veradefi.com
 verafinance.live
+verafy.us
 verajohn.click
 verance.app
 verasity-coin.xyz
@@ -296680,6 +296704,7 @@ vip.twitter-events22.com
 vip.usdc.icu
 vip008899.com
 vip0319.875557.com
+vip0515.j2010.com
 vip1.deficloud181.xyz
 vip1.deficloud182.xyz
 vip1.deficloudccc.xyz
@@ -303155,6 +303180,7 @@ wctdrop.network
 wctnetwork.world
 wcv2.digital
 wcweb.xyz
+wd-poa.pages.dev
 wd-renzoprotocol.com
 wda4pz4ld1bxnau.buzz
 wdagl.top
@@ -310019,6 +310045,7 @@ wrappedpunks.nft-premint.com
 wrappedpunks.web3fast.net
 wrappedstarknet.website
 wrappedstarknet.website.nextseason.club
+wrappedtx.com
 wrappedxrp.store
 wrapresultantfix.onrender.com
 wrapsplit.pages.dev
@@ -338134,6 +338161,7 @@ x6ghbw.cc
 x6idjci.cc
 x7-finance.xyz
 x77c1mc.cc
+x7dcfbg7i35ubh6aijalcp4tiyx2lf3niivelsnzccz4h3wf26sq.arweave.net
 x7m2vlaqz9kp.icu
 x7migration.xyz
 x8-foundation.com
@@ -343209,6 +343237,7 @@ zest-just-cap.glitch.me
 zestcommute.com
 zestprotocoi.com
 zestprotocol-claim.xyz
+zestprotocol-claims.xyz
 zestprotocol.icu
 zestprotocol.pages.dev
 zesty-mermaid-a2be69.netlify.app
