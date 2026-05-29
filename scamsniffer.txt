@@ -3045,6 +3045,7 @@
 586923.xyz
 587424699.r.cdn36.com
 589onxrpl.info
+589onxrpl.xyz
 589xrpl.info
 58vcz.airdrop-eth.mom
 5906743316.pages.dev
@@ -7284,6 +7285,7 @@ aerodrome-vote.net
 aerodrome-vote.pages.dev
 aerodrome-vote.web.app
 aerodrome-voting.com
+aerodrome-votings.xyz
 aerodrome.baby
 aerodrome.best
 aerodrome.biz
@@ -7653,6 +7655,7 @@ aevoption.xyz
 aevosite.xyz
 aevostake.top
 aevostakes.xyz
+aevosushi.top
 aevotech.cloud
 aevotrading.xyz
 aevoxyz.claims
@@ -7861,6 +7864,7 @@ agentlayers.pages.dev
 agentlisa-ai.org
 agentlisa.org
 agentlqyer.xyz
+agentmemory.live
 agentmoana.app-transaction.com
 agentmoana.com
 agentnyla.net
@@ -20708,6 +20712,7 @@ amltracks.org
 amltracks.top
 amltransactionprotocol-verificationsecurity.yourayou.sa.com
 amltransactions.com
+amltron.vercel.app
 amltrust.tech
 amltrustable.com
 amltrustapp.com
@@ -42136,6 +42141,7 @@ bep20-binance.vip
 bep20-bnbnetwork.online.bnbnetwork.online
 bep20-net.work
 bep20-network.netlify.app
+bep20-pay.netlify.app
 bep20-sent.netlify.app
 bep20-setup-for-client-testing.vercel.app
 bep20-topaz.vercel.app
@@ -43716,6 +43722,7 @@ bilovetstenatecom.pages.dev
 biltdog.com
 biltikub.com
 bilur.io
+bim-finance.com
 bim-ota.vip
 bimance-airdop.org
 bimance.online
@@ -61718,6 +61725,7 @@ checker-gomblegame.site
 checker-gomblegames.site
 checker-grass.network
 checker-grass.site
+checker-grass.xyz
 checker-grassfoundation.io
 checker-grassfoundations.io
 checker-groupmantle.com
@@ -62061,6 +62069,7 @@ checkerc.io
 checkerdisponibleairdropnowsecureacess.iplanned.shop
 checkerdrop.infinityfreeapp.com
 checkereligibility.com
+checkerfinanc.com
 checkerhenlo.com
 checkerlinea.com
 checkerlinea.netlify.app
@@ -75553,6 +75562,7 @@ claims-z1labs.com
 claims-z1labs.xyz
 claims-zama-ai.xyz
 claims-zama.org
+claims-zama.xyz
 claims-zapper.xyz
 claims-zerebro.com
 claims-zerebro.net
@@ -82602,6 +82612,7 @@ connect.land-verify.com
 connect.land.net.pl
 connect.landverify.tech
 connect.lido-group.xyz
+connect.lightstream.ltd
 connect.live-ico.com
 connect.mainkava.one
 connect.metamask-wallett.com
@@ -115282,6 +115293,7 @@ ethfi-distribution.xyz
 ethfi-eligibility-en.com
 ethfi-foundation.pages.dev
 ethfi-quest.com
+ethfi-s5-vote.xyz
 ethfi-season.com
 ethfi-staking.pages.dev
 ethfi-sushi.art
@@ -116763,6 +116775,7 @@ event-lido.com
 event-lido.fi
 event-lidofinance.com
 event-lienfi.live
+event-lighter.live
 event-linea.com
 event-linea.org
 event-linea.site
@@ -121256,6 +121269,7 @@ financdao.com
 financdefi.com
 finance-aeordrome.com
 finance-aeorodrome.network
+finance-aero.xyz
 finance-aml.com
 finance-aml.org
 finance-amp.org
@@ -125795,6 +125809,7 @@ fudnft.site
 fudsolana.com
 fudsolana.org
 fudthepug-airdrop.com
+fudthepug.info
 fudthepug.net
 fudthepug.pages.dev
 fudthepug.trade
@@ -131533,6 +131548,7 @@ gis.bizchn.net
 gislasol.shop
 git-coin.shop
 git-github.com
+git-lawb.net
 git-releases.github.io
 git.2022-11-12znegeulfluxsisilafamille.sv.twitter-events22.com
 git.2cy8rxxqb2vxzo4.h5.epsconsulting.pro
@@ -132554,6 +132570,7 @@ gizaprotocols.bet
 gizaprotocols.top
 gizaprotocolse.icu
 gizaprotocolse.top
+gizatech-vote-upcoming-rewards-date-treasury-pool-rewards.pages.dev
 gizatech1.vercel.app
 gjdgk352gkd27.vip
 gjduv.pro
@@ -138788,6 +138805,7 @@ hmnd.pro-multicoin.app
 hmrc-crypto-gov-uk.com
 hmrc-cryptoaudit.com
 hmrehema.digital
+hmsfuar.com
 hmster.lol
 hmsterkombat.live
 hmsterr.com
@@ -144931,6 +144949,7 @@ interest-bakeryswap.net
 interest-bakeryswaps.com
 interest-bakeryswaps.net
 interest-etherfi.xyz
+interest-firelight.com
 interest-hyperfoundation.org
 interest-keeta.com
 interest-kinetiq.xyz
@@ -145106,6 +145125,7 @@ intrsyn.pages.dev
 intrual.com
 inttelliquant.com
 intudesa.com
+intuition-reward.xyz
 intuition-systems.app
 intuition-systems.world
 intuition-vote.com
@@ -153185,6 +153205,7 @@ kkzuq.cc
 kl3p54c5t4sh74k.mom
 kl5t.pro
 kl6252.icu
+klaimsource50.vercel.app
 klakna.yibvebquqv.yoga
 klar-sehen.ch
 klara.telegramgirl.asia
@@ -200194,6 +200215,7 @@ ondo-registration.com
 ondo-reward.com
 ondo-reward.online
 ondo-usg.com
+ondo-voting.app
 ondo.claims
 ondo.foundatlon.digital
 ondo.ink
@@ -261349,6 +261371,7 @@ sosovalue-ssirewards.com
 sosovalue.co
 sosovalue.fun
 sosovalue.lol
+sosovalue.net
 sosovalue.network
 sosovalue.one
 sosovalue.rectifyclaim.space
@@ -296705,6 +296728,7 @@ vip.usdc.icu
 vip008899.com
 vip0319.875557.com
 vip0515.j2010.com
+vip0519.160056.com
 vip1.deficloud181.xyz
 vip1.deficloud182.xyz
 vip1.deficloudccc.xyz
@@ -296809,6 +296833,7 @@ virtual-sushi.top
 virtual-sushi.xyz
 virtual-trust.org
 virtual-vote.votings.workers.dev
+virtual-voti1ng.pages.dev
 virtual-voting.co
 virtual-voting.net
 virtual.sushi-com.surf
@@ -297585,6 +297610,7 @@ vote-buildoneigen.app
 vote-buildoneigen.com
 vote-buildoneigen.net
 vote-buttcoin.app
+vote-buttcoinmoney.space
 vote-capmoney.pages.dev
 vote-capmoneys.com
 vote-centrifuge.xyz
@@ -297761,6 +297787,7 @@ vote-iayerzero.net
 vote-iensprotocol.com
 vote-iiluminaticoin.xyz
 vote-iistadao.net
+vote-ika.xyz
 vote-illuminaticoin.app
 vote-illuminaticoin.com
 vote-initia.xyz
@@ -303301,6 +303328,7 @@ web-applicationhubs.pages.dev
 web-applicationhubx.pages.dev
 web-arbitrum.com
 web-aslerdex.icu
+web-asleridex.icu
 web-astar.pages.dev
 web-astarnetwork.com
 web-auth.pages.dev
@@ -338571,6 +338599,7 @@ xdropalert.store
 xdropevent.com
 xdropevents.com
 xdrops.net
+xdx-rewards.info
 xe-swell.pages.dev
 xe07.vip
 xe4f74nl8hspf5x.space
@@ -339955,6 +339984,7 @@ xofes.com
 xoffer.xyz
 xofikoworinar.pages.dev
 xofrjj.pro
+xogereward.com
 xoivq.pro
 xojwqaz.cc
 xokix.com
