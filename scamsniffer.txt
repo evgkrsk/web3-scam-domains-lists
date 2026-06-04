@@ -22852,6 +22852,7 @@ api.smtp.mail.register-radiant.com
 api.ssi-sosovalue.xyz
 api.synckava.xyz
 api.testdialer.com
+api.tworkai.com
 api.uniswap.company
 api.vaultspay.ae
 api.vpn.store.m.gitlab.o.arb-chain.com
@@ -24451,6 +24452,7 @@ app-injective.com
 app-injective.net
 app-injective.org
 app-injective.xyz
+app-ink-finance.pages.dev
 app-insrt.finance
 app-insuretoken.com
 app-intentx.info
@@ -36167,6 +36169,7 @@ aw773sd.267esd.freeusdcairdrop.top
 aw9url.cc
 awacoin.io
 awafilm.com.ng
+awake-origindefi.org
 awalanhcax.pw
 award-07.web.app
 award-arbitrum.com
@@ -39637,6 +39640,7 @@ bankaiapp.live
 bankapp84444.pages.dev
 bankd.app
 bankercoinada.site
+banki.fun
 bankiess.co
 banking.plethon.be
 bankinging.com
@@ -64490,6 +64494,7 @@ claim-chillguys.org
 claim-chillwhale.com
 claim-chimpzee.xyz
 claim-chloe.pages.dev
+claim-chubbyelephant.pages.dev
 claim-circie.claims
 claim-circle.app
 claim-circle.claims
@@ -64759,6 +64764,7 @@ claim-dogverse.com
 claim-dogwifcoin.org
 claim-dogwifcoin.pages.dev
 claim-dogwifcoinorg.pages.dev
+claim-dogwifgun.pages.dev
 claim-dojo-protocolreward.pages.dev
 claim-dojoprotocolapp.pages.dev
 claim-dokicoin.pages.dev
@@ -75336,6 +75342,7 @@ claims-sandbox.net
 claims-saros.xyz
 claims-satlayer.xyz
 claims-satoshidex.app
+claims-saturn.credit
 claims-scapesmania.pages.dev
 claims-scorpion-casinos.pages.dev
 claims-scoutly.com
@@ -79251,6 +79258,7 @@ coinmarketpage.com
 coinmarketpage.info
 coinmarketscap.cc
 coinmarketslivefx.com
+coinmarkettcap.live
 coinmarkretcap.com
 coinmarkretcap.org
 coinmarlketcap.com
@@ -132931,6 +132939,7 @@ glympsefun.netlify.app
 glyphexchange.live
 gm-airdorp.life
 gm-beta.com
+gm-collab.land
 gm-daostudio.xyz
 gm-gn.pro
 gm-labs.vercel.app
@@ -134759,6 +134768,7 @@ graceful-boba-576a55.netlify.app
 graceful-croissant-b7b8c6.netlify.app
 gracefulomen.com
 gracemontessorischool.net
+gradiate.network
 gradient-airdrop.vercel.app
 gradient-ap.pro
 gradient-evm.com
@@ -137872,6 +137882,7 @@ helixmixer.io
 helixrecords.imints.xyz
 helixrecords.nft-premint.com
 helixrpc.pages.dev
+helixsolutionhub.site
 helixverse.io
 hell.spottytech.com
 hellcrypto.site
@@ -153142,6 +153153,7 @@ kitetoken.xyz
 kithgilclaim.pages.dev
 kithosi.world
 kitienswap.exchange
+kitkat-5kn.pages.dev
 kitkat-allocation.xyz
 kitkattoken.vip
 kitnettoken.live
@@ -208956,6 +208968,7 @@ panecakeswap.financial
 panecakeswapv3.com
 panekeiswaps.top
 panekeveo.com
+panel-aave.xyz
 panel-activate-trustpad.pages.dev
 panel-activator.pages.dev
 panel-aeth.com
@@ -215547,6 +215560,7 @@ pitbullclaim.tech
 pitbullinsol.tech
 pitbulltoken.tech
 pitbullvip.com
+pitchw.fun
 pithsts.online
 piti-truspad.com
 pitnhex.com
@@ -242058,6 +242072,7 @@ rewards-gainsassociates.com
 rewards-gala.games
 rewards-gala.xyz
 rewards-galagames.com
+rewards-galxe.bolt.host
 rewards-gass.com
 rewards-gass.org
 rewards-gearbox.org
@@ -242812,6 +242827,7 @@ rewards-thesandbox.com
 rewards-threshold.com
 rewards-threshold.xyz
 rewards-thruster.app
+rewards-token.works
 rewards-tokenconnect.pages.dev
 rewards-tokenfi.app
 rewards-tokenfi.com
@@ -251672,6 +251688,7 @@ send-usdt-099.netlify.app
 send-usdt-2.netlify.app
 send-usdt-33.netlify.app
 send-usdt-4.netlify.app
+send-usdt-41.netlify.app
 send-usdt-45.netlify.app
 send-usdt-5.netlify.app
 send-usdt-59.netlify.app
@@ -263905,6 +263922,7 @@ stake-lidofit.net
 stake-liido.fi
 stake-lingocoin.com
 stake-link.com
+stake-link.my
 stake-link.net
 stake-link.site
 stake-link.tech
@@ -307894,6 +307912,7 @@ whyrnelephant.com
 whys123.fun
 whys24b.fun
 whys3re.fun
+whywesuedthepoa.com
 wi-31.onrender.com
 wi-fo.org
 wi.mainhyped.cc
@@ -334271,6 +334290,7 @@ www.tetherclaims.org
 www.tetherk.com
 www.tetherus.site
 www.tetherverify.pro
+www.teupox.com
 www.texaninsurance.com
 www.texturpunx.com
 www.tezdao.com
@@ -340249,6 +340269,7 @@ xplclaimlive.xyz
 xplecosystem.xyz
 xplorius-mint-page.netlify.app
 xploriusnft.com
+xplvote.net
 xpmainnet-vault.online
 xpmarket.app
 xpmarket.com.co
@@ -340604,6 +340625,7 @@ xrplairdrop.sistema.edu.pe
 xrplarmy.info
 xrplblockchain.online
 xrplchain.online
+xrplcommonsrlusd.org
 xrpldao.org
 xrpled.online
 xrpled.org
@@ -341534,6 +341556,7 @@ yeee-allocations.net
 yeehaw.site
 yeelselli.com
 yeet-educkcoin.com
+yeet.abnormalix.com
 yeetbera.xyz
 yeetonbera.fun
 yeetonbera.world
