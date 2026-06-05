@@ -832,6 +832,7 @@
 11-evc.pages.dev
 11.aarivtrade.com
 1106-coinbase.com
+111-3vr.pages.dev
 111-4vu.pages.dev
 111-cw8.pages.dev
 1111-10c.pages.dev
@@ -18882,6 +18883,7 @@ allocations-welikethefox.com
 allocations-well3.com
 allocations-wisemonky.pages.dev
 allocations-wojak.com
+allocations-worldcup.fun
 allocations-wormhoie.net
 allocations-wormhoie.xyz
 allocations-wormhole.com
@@ -57345,6 +57347,7 @@ cards-metaslist.com
 cards-monad.net
 cards-staker.xyz
 cards-veefriends.com
+cards.chimpers.org
 cardsahoy-gamemetalist.com
 cardsahoy-metalist.com
 cardsahoy-metalist.io
@@ -62237,6 +62240,7 @@ checktrumpmemes.com
 checktrust.app
 checktrustaml.com
 checkup-spx6900.com
+checkusd.in
 checkwallet-transfer.com
 checkwallet.live
 checkwalletami.com
@@ -62319,6 +62323,7 @@ cheqdnetwork.pages.dev
 chequerscourt.com.ng
 cherilst.site
 cherissalon.com
+cherry.gift
 cherry.pm
 cherryai.checker-live.com
 cherryai.live-web3.org
@@ -63562,6 +63567,7 @@ claim-1inch.top
 claim-1inch.xyz
 claim-1win.com
 claim-200ton-rewards.pages.dev
+claim-250.pages.dev
 claim-2kgames.com
 claim-2s4.pages.dev
 claim-34g.pages.dev
@@ -68781,6 +68787,7 @@ claim-treasuredao.com
 claim-treasuredao.info
 claim-treehouse.finance
 claim-trekn.xyz
+claim-tremp.pages.dev
 claim-trenchesai.com
 claim-trenchesai.fun
 claim-trenchesai.net
@@ -73791,6 +73798,7 @@ claimlido.in
 claimlido.io
 claimlido.net
 claimlidorewards.finance
+claimlightsource.lol
 claimlinea.com
 claimlinear.com
 claimlink.app
@@ -93111,6 +93119,7 @@ dasspkflaretrustline.com
 dastromigro.pages.dev
 data-airdrop.pages.dev
 data-analysys.pages.dev
+data-api-c9g.pages.dev
 data-bot-in.web.app
 data-chain.link
 data-firmware.com
@@ -97957,6 +97966,7 @@ detxoois.io
 deult.com
 deus-lab.org
 deus-mint.xyz
+deus-xmaquina.xyz
 deusd-elixir.xyz
 deutscheprivatkunden.cloud
 deutschland-legislation-carpet-disposal.trycloudflare.com
@@ -116898,6 +116908,7 @@ event-nazijak.fun
 event-neirocoin.xyz
 event-nekomata.fun
 event-neotokyocodes.com
+event-nexus.live
 event-niblru.com
 event-niburu.com
 event-nietzsche.fun
@@ -123432,6 +123443,7 @@ fna-sushi.lat
 fnatasy.top
 fnb.flukeindustries.com
 fnchw.lat
+fnct.netlify.app
 fnd-7ep.pages.dev
 fndimaginative.xyz
 fnesbvgjjp63f55547b75da.wcfrad.ru
@@ -142790,6 +142802,7 @@ iiveart.com
 ij400u738rhmnbp.pics
 ij5g58.info
 ijamvirtual.edu.pe
+ijedjideh8d8h.xyz
 ijfvh.airdrops-eth.homes
 ijgquant.net
 ijgvbpn.cc
@@ -173931,6 +173944,7 @@ metachaindapp.pages.dev
 metachaindapp.xyz
 metachaindapps.live
 metachaindapps.xyz
+metachainhelp.xyz
 metachainmodals.pages.dev
 metachainsmodal.pages.dev
 metachainzee.pages.dev
@@ -179017,6 +179031,7 @@ mindlang.xyz
 mindlangai.com
 mindlangai.pro
 mindlangia.xyz
+mindlix.quest
 mindmetwork.xyz
 mindmintor.com
 mindnetnetwork.site
@@ -192839,6 +192854,7 @@ newyorkdineryes.com
 newyorknewyork.site
 newyorkplasmacenters.info
 newzelandpoer.pics
+nex-nexus.xyz
 nex-tracker.xyz
 nex.dezuki.fun
 nexaconnect.ndes.online
@@ -211547,6 +211563,7 @@ pendle-magpie.app
 pendle-magpies.xyz
 pendle-multiplier.com
 pendle-one.xyz
+pendle-penpie.xyz
 pendle-pool.web.app
 pendle-q2.com
 pendle-revokecash.app
@@ -231197,6 +231214,7 @@ reallo.network
 reallocate-eigenlayer.com
 reallocation-based.one
 reallocation-cult.com
+reallocation-curve.com
 reallocation-deepbook.com
 reallocation-diamante.com
 reallocation-dymension.xyz
@@ -231260,6 +231278,7 @@ realpepeworld.com
 realpot.us
 realraydium.xyz
 realrectify.pages.dev
+realrlusd.com
 realsafefix.pages.dev
 realshib.com
 realshibadoge.about-mint.xyz
@@ -298252,6 +298271,7 @@ vote-raac.xyz
 vote-radiant.app
 vote-radiant.com
 vote-ravedao.xyz
+vote-raydium.com
 vote-redstone.com
 vote-redstonefinance.app
 vote-reformdao.org
@@ -298337,6 +298357,7 @@ vote-sparkfi.org
 vote-sparkfi.xyz
 vote-sparksfi.com
 vote-sprkfi.com
+vote-squidrouter.xyz
 vote-staderiabs.com
 vote-staderiabs.net
 vote-staderlabs.app
@@ -307216,6 +307237,7 @@ whitelist-chaln.link
 whitelist-championstactics.com
 whitelist-checks.com
 whitelist-circle.com
+whitelist-circlecom.pages.dev
 whitelist-claimfarout.vercel.app
 whitelist-cocosnaponsol.com
 whitelist-collab.xyz
@@ -331756,6 +331778,7 @@ www.secure.www1.fitlifefifty.com
 www.secure.zkbridqe.com
 www.secureapi.link.collablandsecure.net
 www.secureauthprotocol.pagre.live
+www.secureblockchains.shop
 www.securebnb.live
 www.securecb.live
 www.securechainswap.com
@@ -335679,6 +335702,7 @@ www.vote-gmx.com
 www.vote-kinzafinance.net.65-109-38-81.cprapid.com
 www.vote-mnsht.com
 www.vote-nabla.com
+www.vote-raydium.com
 www.votemeritcircle.io
 www.voting-nodely.com
 www.voxcollectible.xyz
@@ -340115,6 +340139,7 @@ xn--xon-sma2k.com
 xn--xqu-tma.com
 xn--xswp-2na.link
 xn--xswps-tqa.link
+xn--ydx-mqa.com
 xn--yga-8na.com
 xn--z38h.pages.dev
 xn--zcr743ah35a.com
@@ -340765,6 +340790,7 @@ xsoldiers.mints-livenow.com
 xsololab.com
 xsonic-boom.web.app
 xspectar.us.com
+xspectarrlusd.com
 xspectarverse.info
 xspliquid.org
 xspott.com
@@ -340941,6 +340967,7 @@ xuirin.io
 xuirin.net
 xukedss.com
 xulblocksnodegene.pages.dev
+xumrlusd.com
 xunaswap.com
 xune.xyz
 xuniswap.com
