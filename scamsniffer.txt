@@ -14838,6 +14838,7 @@ aitech.trading
 aitech.webdapps.pro
 aitechdao.org
 aitechdapp.live
+aitecheligibility.com
 aitechio-signup.com
 aitechio-signup.net
 aitechio.app
@@ -24388,6 +24389,7 @@ app-hyperliqcid.xyz
 app-hyperliqnid.xyz
 app-hyperliquid-ca99.jvjkogjv.workers.dev
 app-hyperliquid-testnet.xyz
+app-hyperliquid-trade.com
 app-hyperliquid-xyz.jvjkogjv.workers.dev
 app-hyperliquid.co
 app-hyperliquid.com
@@ -29963,6 +29965,7 @@ aps-boredapeyachtclub.com
 aps.bifi-yleld.xyz
 apsbotsconnect.pages.dev
 apsolutermy.online
+apsorusnm.top
 apst-foundation.com
 apstaking-ankr.com
 apstos.com
@@ -32516,6 +32519,7 @@ ark-lives.com
 ark888.vip
 arkadex.my
 arkadex0.cc
+arkadykirilenkosigma.com
 arkahaminteilgence.com
 arkahaminteligence.com
 arkana.events
@@ -44277,6 +44281,7 @@ bingttr.com
 bingvcf.com
 bingvty.com
 bingwucoin-claim.pages.dev
+bingwucoin-dashboard.pages.dev
 bingx-defi.com
 bingx-pro.cc
 bingx.fi
@@ -62175,6 +62180,7 @@ checkoptimishm.pages.dev
 checkout-12i.pages.dev
 checkouts-ftmo.pro
 checkpoint1.xyz
+checkpoly.xyz
 checkpunky.com
 checkresolv.com
 checkrug.com
@@ -63429,6 +63435,7 @@ citrea.site
 citrea.tech
 citreafi.com
 citrear.xyz
+citrearewards.xyz
 citri-black.com
 citrix.ppoocoinn.com
 citrusape-mint.site
@@ -76998,6 +77005,7 @@ client.735714-ftx.com
 client.743293-bittrex.com
 client.793215-bittrex.com
 client.831764-bittrex.com
+client.852718-ftx.com
 client.ibplatform.tech
 client.interactivebrokerspain.com
 client.niotepawd.com
@@ -111742,6 +111750,7 @@ enter-umee.cc
 enter-unibot.app
 enter-unichain.app
 enter-unichain.com
+enter-unipeg.art
 enter-uniswap.com
 enter-uniswap.net
 enter-uniswap.org
@@ -153158,6 +153167,7 @@ kishiinucash.online
 kishoriventures.org
 kishureward.top
 kishuta.pages.dev
+kishutoken.live
 kisoji996.com
 kissiniovw.online
 kisurvacreatives.com
@@ -161709,6 +161719,7 @@ listing-nillion.com
 listing-nim.network
 listing-nimnetwork.pages.dev
 listing-offers.io
+listing-okx.live
 listing-okx.xyz
 listing-omni.network
 listing-open.io
@@ -166255,6 +166266,7 @@ mail.claimwallstmemes.com
 mail.cnp-lands.com
 mail.coinbase-secure-now.com
 mail.coinbased.eu
+mail.coinmarketcaa.com
 mail.collab-land.online
 mail.collabllandz.online
 mail.conectamedios.com
@@ -192243,6 +192255,7 @@ neverfeartruth-freemint.xyz
 neverfeartruth.mint-living.com
 neverfeartruth.the-premint.com
 neverfeartruth.this-mint.xyz
+neverland-money.org
 neversol.app
 neversol.lol
 neversol.web.app
@@ -199493,6 +199506,7 @@ okx-support.panelweb3.com
 okx-token.xyz
 okx-tonomania.com
 okx-usdt.shop
+okx-votes.live
 okx-wallet-connect.info
 okx-wallet.com
 okx-wallet.io
@@ -217293,6 +217307,7 @@ points-symbiotic.fi
 points-taiko.com
 points-tea.xyz
 points-teaprotocol.xyz
+points-variational.net
 points-veda.tech
 points-veda.xyz
 points-venusprotocol.com
@@ -218116,6 +218131,7 @@ polyhierdira.network
 polyhydra.icu
 polyiehedra.xyz
 polyimarket.com
+polyinvites.com
 polylastic-portalapp.org
 polym.pages.dev
 polym2.pages.dev
@@ -218177,6 +218193,7 @@ polymarketairdrop.cc
 polymarkete.me
 polymarkete.org
 polymarketlab.net
+polymarketrewards.com
 polymarkets-coin.com
 polymarkets.biz
 polymarkets.co
@@ -258506,6 +258523,7 @@ snapshot-hamsterkombats.com
 snapshot-hamsterokombat.com
 snapshot-hermetica.com
 snapshot-hydroprotocol.com
+snapshot-hyperfoundations.com
 snapshot-initia.app
 snapshot-initia.com
 snapshot-initia.net
@@ -281459,6 +281477,7 @@ token-fraxfinance.com
 token-free-ether.pages.dev
 token-free-ethereum.pages.dev
 token-free.online
+token-gacha.com
 token-galxe.com
 token-galxe.net
 token-getelon.xyz
@@ -291889,6 +291908,7 @@ upyxwy.com
 uq1rj2.cc
 uq22qw14i4tlt3c.store
 uqc-truspad.com
+uqegs.app
 uqg.overdezuki.fun
 uqgvpb.pro
 uqllqo74ypxdbhz.makeup
@@ -297842,6 +297862,7 @@ vote-chain-link.xyz
 vote-chainlinkfnd.xyz
 vote-chiliz.xyz
 vote-citrea.com
+vote-clawpump.xyz
 vote-consensys.app
 vote-consensys.com
 vote-consensys.net
@@ -297986,6 +298007,7 @@ vote-gearbox.com
 vote-gearbox.net
 vote-geliosnetwork.com
 vote-genius.com
+vote-genius.xyz
 vote-giza.pages.dev
 vote-gmx.trade
 vote-grace.com
@@ -298269,6 +298291,7 @@ vote-prismafi.com
 vote-prismafi.net
 vote-prismafinance.com
 vote-prismfi.xyz
+vote-prjx.com
 vote-psyopanime.xyz
 vote-pudgy.app
 vote-pudgy.com
@@ -298427,6 +298450,7 @@ vote-steer.xyz
 vote-studios-co.pages.dev
 vote-studios-com.pages.dev
 vote-studios.com
+vote-superfortune.xyz
 vote-superinteligence.com
 vote-superinteliigence.com
 vote-superintelligence.org
@@ -300280,6 +300304,7 @@ voting.votes.flokiforkfinance.net
 voting.wasabis.live
 votingmoonshot.fun
 votingokx.org
+votingondo.com
 votings-aster.com
 votings-blast.com
 votings-hashai.com
@@ -308333,6 +308358,7 @@ winminingtoday.com
 winnebago.ru
 winnebagoindustries.online
 winner-crypto.top
+winner-hypernova.app
 winnerexchange.dev
 winnerspool-domain.link
 winnerspool.xyz
@@ -338192,6 +338218,7 @@ x-gitbanks.xyz
 x-gitlawb.xyz
 x-grok.net
 x-grok.pro
+x-holder-rank-check.pages.dev
 x-launched.com
 x-launcher-app.com
 x-launcher-app.org
@@ -338578,6 +338605,8 @@ xaman-rewards.com
 xaman.world
 xamandesktopwallet.app
 xamanreward.app
+xamanrlusd.app
+xamanrlusd.com
 xamans-aiiocation.xyz
 xamans-aiiocations.xyz
 xamansolo.com
@@ -340366,6 +340395,7 @@ xpmarketeligibility.info
 xpmarketmodule.web.app
 xpmarketreward.com
 xpmgraph.com
+xpmrlusd.com
 xpnetwork.biz
 xpnliquid.org
 xpoints.fun
