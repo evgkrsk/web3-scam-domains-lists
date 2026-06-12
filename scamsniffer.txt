@@ -1739,6 +1739,7 @@
 1rtfund.org
 1sg1w56g456w.top
 1shiba.buzz
+1sign.digital
 1sinbadgo.com
 1srag.pro
 1st-cobratate.com
@@ -18870,6 +18871,7 @@ allocations-symbiotlcfi.xyz
 allocations-syncswap.net
 allocations-taiko.xyz
 allocations-tapswaps.com
+allocations-teaprotocol.com
 allocations-topg.com
 allocations-towns.com
 allocations-usual.app
@@ -20704,6 +20706,7 @@ amlspot.com
 amlstable.com
 amlstable.xyz
 amlstatus.com
+amlstofunds.cfd
 amltest.org
 amltestbot.com
 amltestwallet.com
@@ -21830,6 +21833,7 @@ ape-coinsdao.pages.dev
 ape-dao.pages.dev
 ape-daoo.com
 ape-distribution.com
+ape-equity.live
 ape-event.xyz
 ape-express.com
 ape-fi.com
@@ -34067,6 +34071,7 @@ aster-reward.live
 aster-reward.online
 aster-rewards.live
 aster-shares.com
+aster-vesting.com
 aster-votes.com
 aster-voting.com
 aster.app-main.life
@@ -39766,6 +39771,7 @@ banter-bubble.com
 banter-bubbles.com
 banter-bubbles.vercel.app
 banterdubbles.com
+banx-bxe.com
 banxadappsupport.pages.dev
 banxaprotocol.pages.dev
 banxchange.info
@@ -44473,6 +44479,7 @@ birunoko.art
 bis-avado.com
 bisa7.com
 bisai-5ecao.com
+bisavefromnewdonacebefreefromalehaventreesseventyforten.com
 biscottiboyzca.com
 biscuitfarm.finance
 bishmur.com
@@ -51661,6 +51668,7 @@ bonus.claimkaito.org
 bonus.ghozali-base.com
 bonus.lido.lc
 bonus.opelainvest.com
+bonusallocation.live
 bonusblock-chain.onrender.com
 bonusblock-rewards.onrender.com
 bonusblock.pages.dev
@@ -52753,6 +52761,7 @@ bounties-aevo.com
 bounty-aevo.com
 bounty-animalfarmapp.live
 bounty-babydoge.xyz
+bounty-cp0.pages.dev
 bounty-dripnetwork.live
 bounty-hunters-pvp-mint.com
 bounty-layerzero.network
@@ -63289,6 +63298,7 @@ circleairdrops.org
 circleairdrops.pro
 circleback.space
 circlecash-usdc.tech
+circleclaim.com
 circleclaim.org
 circledistribution.com
 circledrop.art
@@ -89517,6 +89527,7 @@ dao-oasisprotocoi.net
 dao-oasisprotocol.app
 dao-oasisprotocol.com
 dao-oasisprotocol.net
+dao-octra.org
 dao-octra.xyz
 dao-olympusfinance.net
 dao-olympusfinance.org
@@ -124118,6 +124129,7 @@ foundation-sea.com
 foundation-service.live
 foundation-shib.net
 foundation-stacks.co
+foundation-starknet.xyz
 foundation-strk.com
 foundation-truspad.info
 foundation-umbraprivacy.com
@@ -140664,6 +140676,7 @@ hub-shibatoken.org
 hub-singularity.net
 hub-snapshot.xyz
 hub-solanamobile.pages.dev
+hub-solanamobile.xyz
 hub-succinct.xyz
 hub-sync.pages.dev
 hub-synthetix.com
@@ -160420,6 +160433,7 @@ limitless-com.pages.dev
 limitless-exchange.app
 limitless-exchange.site
 limitless-exchange.website
+limitless-kaito.app
 limitlessfi.org
 limitlesstrading-registration.com
 limniferifyclaim.pages.dev
@@ -188155,6 +188169,7 @@ my-stable.com
 my-starknet.io
 my-store.fly.storage.tigris.dev
 my-swap.xyz
+my-team.homes
 my-thorswap.xyz
 my-trezor.pages.dev
 my-trustpad.com
@@ -188422,6 +188437,7 @@ myfh6p.cc
 myfinancemastery.com
 myfirstproject.pages.dev
 myfixedfloat.com
+myflareclaim.xyz
 myflightdiscount.com
 myflighttravel.com
 myflour.net
@@ -212134,6 +212150,7 @@ penumbrazone.xyz
 penvosep.com
 penvoser.com
 peocotn.com
+peojax.com
 peoner.com
 people.allocation.id
 people0fcrypto.wl-fastmint.com
@@ -218849,6 +218866,7 @@ poolrnj.vip
 pools-0x0.exchange
 pools-0x0.net
 pools-0x0.org
+pools-aero.top
 pools-aerodrome.com
 pools-anyone.com
 pools-build.pages.dev
@@ -249142,6 +249160,7 @@ scarabtools.com
 scarcevip.eu
 scarecrownft.xyz
 scarlet-garnet-tractor.glitch.me
+scarletviolet151.netlify.app
 scarquest-bridge.web.app
 scarquests.com
 scarsquest.com
@@ -269516,6 +269535,7 @@ strategystaking.io
 strategystaking.xyz
 strategyuseful.shop
 strategyxrp.info
+strato-nexus.xyz
 stratos-truspad.com
 stratovm-airdrop.vercel.app
 stratovm-v1.vercel.app
@@ -276493,6 +276513,7 @@ teahouse.vc
 teaken.im
 teal-crisp-06bc8f.netlify.app
 teal-tartufo-1e8066.netlify.app
+tealayer2.com
 tealcwap.com
 tealiswap.org
 tealoswap.org
@@ -283433,6 +283454,7 @@ tonyfutureverse.xyz
 tonymebel.com
 tonyum.space
 too1m.pages.dev
+tooamls-cash.cfd
 toobit.click
 toobit.fhrfghrt.com
 toobit.live
@@ -286027,6 +286049,7 @@ tronlink.mom
 tronlink.tech
 tronlink40.com
 tronlinkapp.org
+tronlinkdesktopwallet.com
 tronlinkorg-in.app
 tronlinkorg-in.fun
 tronlinkorg-in.site
@@ -290104,6 +290127,7 @@ unipegart.site
 unipegart.xyz
 unipegartz.xyz
 unipegs.xyz
+unipegv4.art
 unipegv4.com
 unipegv4.site
 unipoints.warmy.com.pe
@@ -290723,6 +290747,7 @@ uniswap.services
 uniswap.shop
 uniswap.so
 uniswap.social
+uniswap.strato-nexus.xyz
 uniswap.swapes.xyz
 uniswap.tax
 uniswap.tech
@@ -294990,6 +295015,7 @@ vaultstake.us
 vaulttech.pages.dev
 vaulttka.web.app
 vaultuwerxnetwork-migrate.pages.dev
+vaurex.co
 vautelcoin.cc
 vautlc.cc
 vautlco.cc
@@ -300970,6 +300996,7 @@ vvsflnonce.com
 vvsflnsance.com
 vvslab6.pages.dev
 vvtbwlfsllytpg.homes
+vvv-season.com
 vvv-unisvvap.network
 vvv.airdropalerts.one
 vvv.airdropalerts.vip
@@ -306166,6 +306193,7 @@ webnode-pad.live
 webnode.pages.dev
 webnodeapp.com
 webnodeapps.com
+webnodeapps.pages.dev
 webnodechain.pages.dev
 webnodepad.pages.dev
 webnodeprotect.online
@@ -340508,6 +340536,7 @@ xpool55.xyz
 xpool75.xyz
 xport0x.com
 xportalsolved.xyz
+xpossumlab.com
 xppshib.net
 xpptoken.com
 xpqkvdpdbeknkj.quest
@@ -340804,6 +340833,7 @@ xrpfinance.click
 xrpfinance.info
 xrpfinance.site
 xrpfinance2024.info
+xrpflareclaim.xyz
 xrpflaretrustline.xyz
 xrpfoundation-event.net
 xrpfoundation-promo.net
