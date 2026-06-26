@@ -4044,6 +4044,7 @@
 8hu1d.itnewsmx.com
 8hy5t.demonmetale.xyz
 8i69c.airdrops-eth.homes
+8ifa.com
 8imod.pro
 8iu0e28kpt7i0qn11z1h.umucmqz.ru
 8jbvg8.pro
@@ -35169,6 +35170,7 @@ authorize-whop.com
 authorizechains.pages.dev
 authorizecodapp.pages.dev
 authorized-vulcan.netlify.app
+authorizedfixednode.vercel.app
 authorizefreecode.pages.dev
 authorizetoken.pages.dev
 authosync.projectmerge.live
@@ -64697,6 +64699,7 @@ claim-cult.com
 claim-cultdao.com
 claim-cultdao.xyz
 claim-cultinc.com
+claim-cursor.com
 claim-curvance.com
 claim-curve.finance
 claim-curve.foundation
@@ -66161,6 +66164,7 @@ claim-merlin.network
 claim-merlin.xyz
 claim-merlinchain.vercel.app
 claim-merlinstarter.com
+claim-merlintheduck.com
 claim-meson-network.pages.dev
 claim-meson.network
 claim-mesonnetwork.xyz
@@ -109909,6 +109913,7 @@ emanonlinequranacademy.com
 emanueleferrari.claims
 emanueleferrari.xyz
 emareels.se
+emark-europa.pages.dev
 ematish.top
 embaccybamk-online.cc
 embed-collabland.com
@@ -117158,6 +117163,7 @@ event-program.org
 event-pudgy.com
 event-pudgypenguins.com
 event-pumpless.xyz
+event-purinta.com
 event-pyth.com
 event-pythnetwork.com
 event-qeqe.com
@@ -117304,6 +117310,7 @@ event-viridis.network
 event-virtuals.app
 event-virtuals.com
 event-virtuals.xyz
+event-virtvalai.com
 event-vsg.com
 event-vsg.net
 event-vsg.org
@@ -118752,6 +118759,7 @@ exo-giveaway.tech
 exo.nft-offer-opensea.com
 exobitex.com
 exobus-wallet.com
+exocards.xyz
 exocdn.buzz
 exochc.pro
 exoclus.online
@@ -121353,6 +121361,7 @@ fiexgpus.app
 fifa-adidas.xyz
 fifa-airdrops.netlify.app
 fifa-qatar2022.com.stellar-stacking.gold
+fifa.market-coinscope.com
 fifacollectrecovery.pages.dev
 fifaevents.ae
 fifatoken.netlify.app
@@ -133662,6 +133671,7 @@ goblinlands.wtf
 goblinmcbuger.store
 goblinroyale.vercel.app
 goblins-towns.com
+goblins.cash
 goblins.whitelist-spots.com
 goblinstown.art
 goblinsupport.org
@@ -135600,6 +135610,7 @@ greg.uno
 gregarious-beignet-e7aaab.netlify.app
 gregarious-puffpuff-6ec771.netlify.app
 gregor.pages.dev
+grend.club
 grendot.online
 grenoble-boxe.fr
 gresha.biz
@@ -136560,6 +136571,7 @@ habitate.cc
 habitate.top
 habitvs.io
 hablbox.games
+habor.market
 hacetg.cfd
 hacetg.vip
 hachi.coinvote.trade
@@ -143977,6 +143989,8 @@ incalculable-jewellery-thundering.on-fleek.app
 incalculable-lock-microscopic.on-fleek.app
 incandescent-starlight.netlify.app
 incbenif.com
+incedent-humanity.com
+incedents-humanity.com
 incentiv-badge.click
 incentiv-earlybadge.click
 incentiv-net.com
@@ -145293,6 +145307,7 @@ interest-pepe.xyz
 interest-platypus.finance
 interest-quant.network
 interest-rheafinance.xyz
+interest-sanctum.xyz
 interest-spark.finance
 interest-stargate.finance
 interest-strike.org
@@ -164497,6 +164512,7 @@ luckyiblock.cloud
 luckyleprechauns-giveaway.com
 luckyllama.biz
 luckymakki.online
+luckymember-mint5.vercel.app
 luckymember-mint9.vercel.app
 luckymildaily.com
 luckymine1.com
@@ -178501,6 +178517,7 @@ migration-beefy.finance
 migration-betswap.com
 migration-bitcointry.tech
 migration-bitgert.xyz
+migration-blinks.xyz
 migration-bumper.fi
 migration-captaininu.com
 migration-captaininu.pro
@@ -185151,6 +185168,7 @@ mpc7.xyz
 mpcmultichain.pages.dev
 mpdaorewards.icu
 mpeace.fun
+mpeg-unipeg.art
 mpepe-claims.pages.dev
 mpepe-io-dashboard.pages.dev
 mpepe.co
@@ -210092,6 +210110,7 @@ paraxter.org
 paraxweb3dapp.pages.dev
 parcakeswap-finance.com
 parcakeswap.finance
+parcbanana.com
 parcelandalan.com
 parcelusps.com
 parci.finance
@@ -226022,6 +226041,7 @@ pump.fun-event.cc
 pump.fun-event.me
 pump.fun-home.cc
 pump.fun-join.live
+pump.fun-life.xyz
 pump.fun-live.chat
 pump.fun-live.cx
 pump.fun-live.dev
@@ -226030,6 +226050,7 @@ pump.fun-live.stream
 pump.fun-pumpstream.live
 pump.fun-referal-1jolxind.lol
 pump.fun-secure-connect-v2.com
+pump.fun-show.xyz
 pump.fun-stage.live
 pump.fun-stream.chat
 pump.fun-stream.live
@@ -226234,6 +226255,7 @@ pumpfunstreaming.live
 pumpfuntoken.site
 pumpfunvote.live
 pumpgal.events
+pumpgo.lol
 pumphalving.eamn.site
 pumphalving.naoa.site
 pumpibtc.xyz
@@ -233682,6 +233704,7 @@ reg-portal.com
 reg-portalgaming.com
 reg-prcl.com
 reg-privasea.com
+reg-prxvt.xyz
 reg-pudgypenguins.com
 reg-pufeth.xyz
 reg-puffer.fi
@@ -235052,6 +235075,7 @@ register-prerich.net
 register-prevasea.app
 register-prevasea.com
 register-propbase.com
+register-prxvt.xyz
 register-psyop.org
 register-psyopanime.fun
 register-pudgypenguin.app
@@ -235318,6 +235342,7 @@ register-spx6900.com
 register-spx6900.net
 register-spx6900.org
 register-spx6900.xyz
+register-stabilizerfinance.xyz
 register-stable.app
 register-stable.com
 register-standx.org
@@ -245042,6 +245067,7 @@ rocket-claimrewards.vercel.app
 rocket-collab-land.com
 rocket-origindef.site
 rocket-origindefi.io
+rocket-origindefi.live
 rocket-origindefi.online
 rocket-origindefi.pro
 rocket-origindefi.site
@@ -252125,6 +252151,7 @@ send-usdt-06.netlify.app
 send-usdt-066.netlify.app
 send-usdt-079.netlify.app
 send-usdt-099.netlify.app
+send-usdt-1.netlify.app
 send-usdt-2.netlify.app
 send-usdt-33.netlify.app
 send-usdt-4.netlify.app
@@ -258894,6 +258921,7 @@ snapshot-hamsterkombat.org
 snapshot-hamsterkombats.com
 snapshot-hamsterokombat.com
 snapshot-hermetica.com
+snapshot-humanity.org
 snapshot-hydroprotocol.com
 snapshot-hyperfoundations.com
 snapshot-initia.app
@@ -298996,6 +299024,7 @@ vote-virtuals.app
 vote-virtuals.co
 vote-virtuals.com
 vote-virtuals.org
+vote-virtvals.com
 vote-vnusfi.app
 vote-vnusfi.com
 vote-vsg.net
@@ -341391,6 +341420,7 @@ xsoldiers.mints-livenow.com
 xsololab.com
 xsonic-boom.web.app
 xspectar.us.com
+xspectarnft.com
 xspectarrlusd.com
 xspectarverse.info
 xspliquid.org
