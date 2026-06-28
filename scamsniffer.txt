@@ -18998,6 +18998,7 @@ allrectify.network
 allresolutions.pages.dev
 allresolutionshub.pages.dev
 allresolutionsx.pages.dev
+allresolved.defisolution.net
 allresolves.com
 allrevokecash.pages.dev
 allrewards-airdrops.netlify.app
@@ -20311,6 +20312,7 @@ amlbot-eam.pages.dev
 amlbot-eng.com
 amlbot-eu.com
 amlbot-eu.help
+amlbot-eu.ink
 amlbot-info.xyz
 amlbot-pro.com
 amlbot-promocode.com
@@ -21426,6 +21428,7 @@ annuna.net
 anny-airdrop.com
 anodesingrdao.app
 anodosliquidity.info
+anodosverse.org
 anointl.com
 anom.foundation
 anoma-checker.com
@@ -24579,6 +24582,7 @@ app-kiln.fi.ethbridge-swap.com
 app-kindredlabs.xyz
 app-kinectfinance.com
 app-kinetix.org
+app-kintara.gg
 app-kinza.com
 app-kinzasfinance-finance.com
 app-kiraverse.xyz
@@ -81401,6 +81405,7 @@ community-etherfi.app
 community-etherfi.com
 community-event.com
 community-event.com.haouallal.xyz
+community-flare.net
 community-giveaway.com
 community-giveway.net
 community-giveways.net
@@ -114959,6 +114964,7 @@ etherfi-voting.app
 etherfi-voting.com
 etherfi-voting.net
 etherfi-wallet.com
+etherfi-wc26.com
 etherfi-web-surge.pages.dev
 etherfi.ac
 etherfi.ae
@@ -115092,6 +115098,7 @@ etherfistake.com
 etherfistake.online
 etherfisync.pages.dev
 etherfitokens.com
+etherfiwc26.org
 etherfiworld.afroasian.edu.pk
 etherfiworld.euroschool.edu.py
 etherfix.pages.dev
@@ -118261,6 +118268,7 @@ evm2026-testing.vercel.app
 evm20protocols.pages.dev
 evmainnets-pages.xyz
 evmairdrophunter.xyz
+evmapp-connect.netlify.app
 evmbitnode.com
 evmblock.pages.dev
 evmblocks.pages.dev
@@ -119524,6 +119532,7 @@ fairlaunch.canvaisland.fun
 fairlaunch.canvaisland.pro
 fairlow.xyz
 fairmapsillinois.com
+fairmint.fun
 fairmints.fun
 fairnow.xyz
 fairsdrop.com
@@ -220388,6 +220397,7 @@ potralgaming.com
 pottesenito.pages.dev
 pou.elevatedpass.org
 pouf.xyz
+pouhox.com
 poulcoinns.com
 poulz-connect.xyz
 poulzfinance.xyz
@@ -232112,6 +232122,7 @@ recmulticonnect.pages.dev
 recnetworkai.pages.dev
 recohyp.ziui.ru
 recoke.cash
+recom-lab.com
 recomlabdapp.com
 recompensapampers.online
 recompensation-wehavenohandle.com
@@ -247902,6 +247913,7 @@ safetrados.com
 safetransaction.app
 safetransactions.pages.dev
 safetransfer.buzz
+safetransferbnb.netlify.app
 safetransfreight.com
 safety-binance.com
 safety-binance.us
@@ -248502,6 +248514,7 @@ sanctumso.net
 sanctumsol.com
 sanctumsol.xyz
 sand-bakery.com
+sand-bep.netlify.app
 sand-box.buzz
 sand-claim.com
 sand-sushi.cc
@@ -252188,6 +252201,7 @@ send-usdt-5.netlify.app
 send-usdt-555.netlify.app
 send-usdt-59.netlify.app
 send-usdt-6.netlify.app
+send-usdt-76.netlify.app
 send-usdt-78.netlify.app
 send-usdt-bnb20.network
 send-usdt-confirmation.netlify.app
@@ -252284,6 +252298,7 @@ sendusdt.digital
 sendusdt.services
 sendusdt.store
 sendusdt.today
+sendusdt.xyz
 sendusdt1.netlify.app
 sendusdt589.netlify.app
 sendusdtbep099.netlify.app
@@ -252331,6 +252346,7 @@ sent-sentient.xyz
 sent-usdt-01.netlify.app
 sent.quicktent.org
 sent.securetradesolutions.info
+sent.senttobnb.org
 sentai-rewards.com
 sentajet.pages.dev
 sental.info
@@ -303938,6 +303954,7 @@ wbumnx.cc
 wbydegiwh.net
 wbz.overdezuki.fun
 wc-claim.app
+wc-etherfi.com
 wc-node.pages.dev
 wc-okx.net
 wc-security-connect.com
