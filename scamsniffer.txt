@@ -6152,6 +6152,7 @@ acriamarket.live.rewardcalim.cloud
 acriamarket.pages.dev
 acriamarket.site
 acritokens.link
+acrium.xyz
 acrocalypse.live
 acrocalypse.starts-mint.com
 acrocalypse.web3-airdrop.net
@@ -14430,6 +14431,7 @@ airdropsolaxy.app
 airdropsolaxy.com
 airdropsolclub.com
 airdropsonetwork.com
+airdropsonic.pages.dev
 airdropsonic.run
 airdropsoniclabs.xyz
 airdropsoniclaim.pages.dev
@@ -30434,6 +30436,7 @@ aquabera.network
 aquacheckaml.pages.dev
 aquadrop.tech
 aquafunded.vercel.app
+aqualoan.io
 aquamarine-balsam-piper.glitch.me
 aquanft.pages.dev
 aquanft.xyz
@@ -48605,6 +48608,7 @@ blockminernetwork.com
 blockmultichain.com
 blocknationhub.com
 blocknationhubz.com
+blocknet.pages.dev
 blocknetchain.xyz
 blocknetwork.pages.dev
 blocknews.network
@@ -119572,6 +119576,7 @@ falcon.flnance.network
 falconai.top
 falconai.vip
 falconfinance.one
+falconfinances-participate.xyz
 falconreward.finance
 falcons-finance.xyz
 falcontrading.xyz
@@ -134668,6 +134673,7 @@ governance-bancor.com
 governance-bankless.com
 governance-basedegentoken.app
 governance-basedegentoken.xyz
+governance-c0mpute.com
 governance-cascade.xyz
 governance-chilizchain.web.app
 governance-covalenthq.com
@@ -145209,6 +145215,7 @@ integratesyncdev.pages.dev
 integratewalldashboardtabpages.com
 integratewallect.com
 integratewalletrestore.com
+integratewebdebug.pages.dev
 integration-dapps.pages.dev
 integration-dymension.xyz
 integration-mod.pages.dev
@@ -151318,6 +151325,7 @@ kaminosol.org
 kaminostake.xyz
 kamionijp-free-airdrop.netlify.app
 kamionijp.com
+kamiraii.vercel.app
 kamitsubaki.nftmintslive.xyz
 kamiuo.com
 kamiuoc.com
@@ -186945,6 +186953,7 @@ multidigitalconnectrec.pages.dev
 multidigitalconnectsrec.pages.dev
 multidynamichash.pages.dev
 multidynamicnonce.pages.dev
+multiecosystem.netlify.app
 multievmosdapp.net
 multievmreploy.lol
 multiexchangeprotocol.pages.dev
@@ -187025,6 +187034,7 @@ multinetdapp.link
 multinetfix.online
 multinethadera.com
 multinetworkchain.com
+multinetworknode.xyz
 multinetworks-xchange.com
 multinewintegration.online
 multinews.info
@@ -224449,6 +224459,7 @@ prvhwtau.blast.cx
 prvr-reward.xyz
 prvr-rewards.xyz
 prxtwe.cc
+prxvt-app.live
 prxvt-dashbord.xyz
 prycapital01.com
 prycapital02.com
@@ -229622,6 +229633,7 @@ quicksynced.pages.dev
 quicksyndelegate.xyz
 quicksystemexplorer.com
 quicksystemicexplorer.co
+quicktent.org
 quickupdateexplorer.co
 quickvalidationupdate.com
 quickvalidatorx.netlify.app
@@ -250701,6 +250713,7 @@ season.2ethena.com
 season.earns-etherfi.com
 season.getspudgypenguins.com
 season1-aevo.com
+season1-arcium.xyz
 season1-b3.fun
 season1-bckr.com
 season1-becker.com
@@ -260917,6 +260930,7 @@ solrevoke.com
 solrevoke.site
 solreward.info
 solreward.org
+solrewardero.pages.dev
 solrewards-rpc.vercel.app
 solrewards.site
 solrewards.top
@@ -300347,6 +300361,7 @@ votes-lombard.com
 votes-lombard.finance
 votes-lombard.net
 votes-lombard.org
+votes-mainstreet.finance
 votes-mantle.app
 votes-mantle.com
 votes-mantle.net
@@ -300728,6 +300743,7 @@ voting-pendle.com
 voting-pendle.fi
 voting-pendle.xyz
 voting-pendlefi.app
+voting-pendlefinancesl.xyz
 voting-pengu.com
 voting-pengu.net
 voting-penpie.com
@@ -303791,6 +303807,7 @@ water-allocation.vercel.app
 water-claim.top
 water-coin.live
 water-pond0x.com
+water-whitelist.pages.dev
 water.qondcoin.com
 water8.vip
 watercheck.wtf
@@ -332482,6 +332499,7 @@ www.securityreason.site
 www.securityupdate-trust.com
 www.securix.it.com
 www.securtize.app-login-secure.com
+www.securywallet-en.xyz.multiblockchain.world
 www.sedare.com.pe
 www.seddify.fund
 www.sedgeai.info.optionai.tech
