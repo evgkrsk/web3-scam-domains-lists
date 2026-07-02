@@ -24599,6 +24599,7 @@ app-kittenswap.financial
 app-kodiak.finance
 app-kontos.com
 app-kwentaio.com
+app-kyberswaps.org
 app-kyo.finance
 app-kzna.com
 app-l2-blast.com
@@ -34224,6 +34225,7 @@ asteroidshibas.xyz
 asteroidsshiba.xyz
 asteroidsshibas.xyz
 asteroshib.com
+asterpool.top
 asterportal.pages.dev
 asterpump.top
 asters-community.art
@@ -64275,6 +64277,7 @@ claim-bioprotocol.site
 claim-bit-rock-e43.pages.dev
 claim-bit-rock.pages.dev
 claim-bitbot.pages.dev
+claim-bitcat.pages.dev
 claim-bitcoin-minetrix.pages.dev
 claim-bitcoin.com
 claim-bitcoinbsc.pages.dev
@@ -65422,6 +65425,7 @@ claim-gpt.acee.site
 claim-gpt.org
 claim-gpt.space
 claim-gpu.pages.dev
+claim-gracia.pages.dev
 claim-gradient.network
 claim-grail.pages.dev
 claim-grape.pages.dev
@@ -65698,6 +65702,7 @@ claim-joingrapes.com
 claim-joinourplanet.com
 claim-joinsapien.xyz
 claim-jotchua.pages.dev
+claim-joy.pages.dev
 claim-juice.finance
 claim-jump.com
 claim-jumper.cfd
@@ -66623,6 +66628,7 @@ claim-nohandle.com
 claim-nohandle.network
 claim-nolik.com
 claim-nolimit.pages.dev
+claim-nologo.pages.dev
 claim-normie.com
 claim-nostra.com
 claim-not.com
@@ -67401,6 +67407,7 @@ claim-quant.com
 claim-quant.network
 claim-quant.xyz
 claim-qubetics.live
+claim-qubit.pages.dev
 claim-qude.com
 claim-questn.com
 claim-quickswap-60c.pages.dev
@@ -67548,6 +67555,7 @@ claim-river.icu
 claim-rkgen.com
 claim-rlb.com
 claim-rlusds.com
+claim-ro.pages.dev
 claim-roaringkitty.com
 claim-robinhood.com
 claim-rocket.pages.dev
@@ -87121,6 +87129,7 @@ cryptopunks.airdrop-limited.com
 cryptopunks.app-mint.info
 cryptopunks.click
 cryptopunks.com-mint.info
+cryptopunks.deals
 cryptopunks.drops-mint.com
 cryptopunks.events
 cryptopunks.freemint-webs.com
@@ -99404,6 +99413,7 @@ dhf.akaric.fun
 dhgatemall.top
 dhjk.7fglhmp4pr.top
 dhk6y.cc
+dhl-pt.click
 dhlexpress-track.com
 dhn.overdezuki.fun
 dhomax.top
@@ -124303,6 +124313,7 @@ foundation-starknet.xyz
 foundation-strk.com
 foundation-truspad.info
 foundation-umbraprivacy.com
+foundation-useless-a65.vercel.app
 foundation-vu.xyz
 foundation-web3.live
 foundation-well3.org
@@ -141085,6 +141096,7 @@ humanity-register.xyz
 humanity.claims
 humanity.click
 humanity.eth-air20.com
+humanity.rpc-updates.com
 humanity.testnet-v1.com
 humanitylab.xyz
 humanitynetwork.net
@@ -142956,6 +142968,7 @@ ifkursisterhard.com
 iflyga.com
 ifmint.world
 ifp-airdrop.com
+ifshop.org
 ifssynthetix.net
 ifuel.network
 ifumbled.cash
@@ -146892,6 +146905,7 @@ jaguarex.finance
 jaguarlandroverfinancechallenge.com
 jaguarlandroversec.world
 jagusia.kudowa-zdroj.dolnyslask.pl
+jai.quicksentind.org
 jaihdhh.pro
 jaihozclaim-virtualio.online
 jail-z.com
@@ -161979,6 +161993,7 @@ listadao.pages.dev
 listadao.support
 listadao.top
 listadao.us
+listadao.xyz
 listadaoorg.pages.dev
 listadrop.live
 listarrynightstra.ru
@@ -176561,6 +176576,7 @@ metextloginius.webflow.io
 metfamiadskextension.webflow.io
 metfi-layerapp.site
 metfi.pages.dev
+metfiorbitreasury.xyz
 metfmseklogir.webflow.io
 metgnamskwlunt.gitbook.io
 meth-eligibility.com
@@ -217751,6 +217767,7 @@ pojectopensea.vercel.app
 pok-pok.com
 pokafocix.site
 pokarswaps.space
+poke-quest.lol
 poke6900.net
 pokemongo.space
 poker-program.com
@@ -223182,6 +223199,7 @@ prophexchain.com
 propichainfi.pages.dev
 propichainfinance-v1.pages.dev
 propiedadesmedellin.tae-ltda.com
+proposa-falconfinances.xyz
 proposai-aave.app
 proposai-aave.net
 proposai-aave.org
@@ -249480,6 +249498,7 @@ scannings-collab.land
 scanpartner1.ngrok.io
 scanreceiptafterem.pages.dev
 scansairdrops.ca
+scantransfer.vercel.app
 scanwallet.io
 scanwallet.online
 scape-mania.web.app
@@ -256554,6 +256573,7 @@ sir-pancake.fun
 sirate.xyz
 sirath.claims.bet
 siren-collection.com
+siren-hive.live
 sirenita-kub.blogspot.com
 siriusfinance.idos.cfd
 siriusnet.io
@@ -259700,6 +259720,7 @@ soijk.cc
 soil-airdrop-app.pages.dev
 soilend.com
 soiletdemo.pages.dev
+soilfarmlab.com
 soillabs.app
 soiltest12.vercel.app
 soilvelof.netlify.app
@@ -273065,6 +273086,7 @@ swapair.net
 swapaleo.cloud
 swapalltokekens-v2.xyz
 swapancake.com
+swapancake.finance
 swapaxiom.com
 swapbabydoge.com
 swapbase.finance
@@ -273428,6 +273450,7 @@ swell-airdrop.com
 swell-airdrop.network
 swell-airdrop.pages.dev
 swell-airdrops.website
+swell-allocations.com
 swell-city.com
 swell-claimapp.com
 swell-dao.online
@@ -285594,6 +285617,7 @@ treasury-wormhole.org
 treasury-wormhole.xyz
 treasury-worrnhole.xyz
 treasury-xyo.org
+treasury-zinc.xyz
 treasury.1intro.claims
 treasury.1introfi.com
 treasury.andycoineth.org
@@ -289583,6 +289607,8 @@ ui-online.cyclic.app
 ui-spaceid.com
 ui-verse-rectifier.pages.dev
 ui.stoneai.cc
+ui4.neibu168.com
+ui4.yanshi1688.com
 ui992200.pages.dev
 uiaudesk.pages.dev
 uibegets.com
@@ -297088,6 +297114,7 @@ verzone.info
 ves.overdezuki.fun
 vesdbio.xyz
 vesintserv.com
+vesper-finance.xyz
 vesre.works
 vesrewarda.click
 vessel-otherside.xyz
@@ -310347,6 +310374,7 @@ worldlibertyfinanciall.netlify.app
 worldlibertyfinanciall.pages.dev
 worldlibertyfinancialls.xyz
 worldlibertyfinancialmainnet.com
+worldlibertyfinancials.vercel.app
 worldlibertyfinancials.website
 worldlibertyfinancialy.com
 worldlibertyfinancis.com
