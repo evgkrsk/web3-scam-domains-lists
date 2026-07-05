@@ -29010,6 +29010,7 @@ apphyperbeat.org
 apphyperbolic.xyz
 apphyperbridge.network
 apphyperliquid.com
+apphyperliquid.net
 apphyperstable.xyz
 apphyperswap.exchange
 apphyperswaps.exchange
@@ -53643,6 +53644,7 @@ bridge-multichain.info
 bridge-multichain.top
 bridge-multichain.xyz
 bridge-multiversx.web.app
+bridge-nesa.xyz
 bridge-new-contract.website
 bridge-nexus-6107.vercel.app
 bridge-now.metis-app.com
@@ -66760,6 +66762,7 @@ claim-ondo.xyz
 claim-ondofinance.pages.dev
 claim-ondofinance.xyz
 claim-ondofoundation.com
+claim-one.pages.dev
 claim-onefootballclub.live
 claim-oniforce.com
 claim-onyx.pages.dev
@@ -67638,6 +67641,7 @@ claim-satoshivm.site
 claim-saturn.credit
 claim-scallop.co
 claim-scallop.com
+claim-scam.pages.dev
 claim-scapemania.pages.dev
 claim-scapes-mania.pages.dev
 claim-scapesmania.pages.dev
@@ -93580,6 +93584,7 @@ dcatw.com
 dcavno.com
 dcaxh.com
 dcaxz.com
+dcbanotexists76543216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 dcbridge.uan.homes
 dcbtrade.net
 dcceq.com
@@ -107330,6 +107335,7 @@ ecosystem-pyth.network
 ecosystem-sky.app
 ecosystem-sky.com
 ecosystem-sky.money
+ecosystem-usdai.xyz
 ecosystem-veda.xyz
 ecosystem-wormhole.pages.dev
 ecosystem.berachain.cm
@@ -118389,6 +118395,7 @@ evmresolves-porte.vercel.app
 evmresolvetech.pages.dev
 evmrestoredapps.xyz
 evms.spepe.life
+evmsecured.com
 evmserver.live
 evmsolution.d-apps.app
 evmsolution.pro
@@ -121432,6 +121439,7 @@ fifa-adidas.xyz
 fifa-airdrops.netlify.app
 fifa-qatar2022.com.stellar-stacking.gold
 fifa.market-coinscope.com
+fifacollectcashback.pages.dev
 fifacollectrecovery.pages.dev
 fifaevents.ae
 fifatoken.netlify.app
@@ -141387,6 +141395,7 @@ hydration-claim.pages.dev
 hydration.beefyhubs.cfd
 hydrationrectification.pages.dev
 hydratlon.net
+hydrawin-dapp.pages.dev
 hydro-protocol.app
 hydro-protocol.xyz
 hydro1.xyz
@@ -177891,6 +177900,7 @@ migrate-bogeonbase.com
 migrate-bonk2.com
 migrate-bounce.finance
 migrate-brett.com
+migrate-brickken.xyz
 migrate-bridge.com
 migrate-cabana.fi
 migrate-cakepie.pages.dev
@@ -260783,6 +260793,7 @@ solfrens.pages.dev
 solfwog.xyz
 solgasback.pro
 solgasfoundation.org
+solgate.lionellauranceqil86.workers.dev
 solgateway.fundfa.com
 solgift.pages.dev
 solgift6.com
@@ -262539,6 +262550,7 @@ spacetech.live
 spacetoken.angn.site
 spacetoken.tioo.site
 spacetrader.xyz
+spacetrix.click
 spacetrust.mx
 spaceward-buenavista-wardenprotocol.netlify.app
 spacewarlock.special-mint.com
@@ -285116,6 +285128,7 @@ transcendentpegasus.netlify.app
 transchess.com
 transconfiguration.live
 transervecryptocoin.com
+transfer-1usd-bep.vercel.app
 transfer-asterdex.com
 transfer-bep-20.netlify.app
 transfer-bep20-usd.netlify.app
@@ -289735,6 +289748,7 @@ uittjj.pages.dev
 uittx.com
 uiux-camelot.vercel.app
 uiweuifuiwef.cfd
+uiwfjocwejevm.xyz
 uiwx.cc
 uiwytushuggi9828.xyz
 uja.overdezuki.fun
@@ -305214,6 +305228,7 @@ web3-protocol.xyz
 web3-protocols.pages.dev
 web3-puffer.mypinata.cloud
 web3-qfsledger.com
+web3-qfsvaultgblobalsystem.com
 web3-raydium.com
 web3-react-meutas5kc-uniswap.vercel.app
 web3-reg.org
