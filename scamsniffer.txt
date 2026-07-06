@@ -20040,6 +20040,7 @@ amf-impots.fr
 amf-verification.org
 amfb8.cc
 amgar.cc
+amgindonesia.org
 amglq.clicks.mlsend.com
 amibot.ink
 amicheck.com
@@ -24448,6 +24449,7 @@ app-hyperliquid.mnp1.asia
 app-hyperliquid.pages.dev
 app-hyperliquid.redeem-web3nft.com
 app-hyperliquid.site
+app-hyperliquid444.com
 app-hyperliquidi.xyz
 app-hyperliquidl.cam
 app-hyperliquiid.com
@@ -74512,6 +74514,7 @@ claimpyusd.xyz
 claimqdev.com
 claimqeea.live
 claimquarter.com
+claimqub.com
 claimqubetics.pages.dev
 claimqubetics.web.app
 claimrabbit.pages.dev
@@ -87704,6 +87707,7 @@ cswaplab.xyz
 csxcfaj.cc
 ct-celerbridge.com
 ct-collab-land.co
+ct-collab.land
 ct-miningarea.vip
 ct8hs.canksru.ru
 ctajg3a.cc
@@ -107321,6 +107325,7 @@ ecosystem-floki.com
 ecosystem-frax.com
 ecosystem-frax.xyz
 ecosystem-galxe.com
+ecosystem-kled.com
 ecosystem-linea.icu
 ecosystem-manta.network
 ecosystem-megaeth.app
@@ -118827,6 +118832,7 @@ exn.elevatedpass.org
 exnees.website
 exneop.com
 exnessconnect.com
+exnessop.com
 exnessprofx.online
 exnmczf.top
 exo-giveaway.tech
@@ -127276,6 +127282,7 @@ gal-airdrop.claims-web3.website
 gal-airdrop.web3-bounty.pro
 gal-profile.com
 gal.collect-quest.com
+gal.quest-login.com
 gal.quest-rewards.com
 gala--sushi.xyz
 gala-airdrop.com
@@ -163184,6 +163191,7 @@ login-blast.com
 login-blast.pages.dev
 login-blockchain.com.ohelpc.com
 login-blockfi.com
+login-bltso.com
 login-cdn.com
 login-collab.com
 login-euphoria.com
@@ -163193,6 +163201,7 @@ login-firstbank.online
 login-frame.xyz
 login-i.cloud
 login-illuvium.com
+login-infos.click
 login-kamino.app
 login-krakeni.com
 login-linkconnect.org
@@ -173577,6 +173586,7 @@ meprepiadcenter.com
 meqaeth.xyz
 mequest.io
 mera-mask-login.webflow.io
+mera-x.xyz
 meraki.ee
 merative.site
 merc404.xyz
@@ -197731,6 +197741,7 @@ notesonbasecoin.com
 notevent.xyz
 notexdrop.com
 notexes.com
+notexists4www6c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 notfastdrop.fun
 notfl.com
 notflipxnotcoin.com
@@ -252304,6 +252315,7 @@ send-token.fyi
 send-token.icu
 send-token.info
 send-u5dt.vercel.app
+send-usd-31ca58.netlify.app
 send-usd-bep20.netlify.app
 send-usd.cc
 send-usd.netlify.app
@@ -256658,6 +256670,7 @@ sitdmapsw.reward-satoshivm.io
 site-6617393884-sol-play-live.pages.dev
 site-6639501950-trustupdate-org.pages.dev
 site-6850064241-usersp2p-com.pages.dev
+site-6906519940-login-bltso-com.pages.dev
 site-6953700251-cryptrecovers-eu.pages.dev
 site-6j4.pages.dev
 site-7eg.pages.dev
@@ -274026,6 +274039,7 @@ swiftresolveapp.com
 swiftresolved.pages.dev
 swiftresolvedapp.pages.dev
 swiftresolvedex.pages.dev
+swiftresolvedex.xyz
 swiftresolvelive-io.pages.dev
 swiftresolvenodemodules.com
 swiftresolvepanel.pages.dev
@@ -296569,6 +296583,7 @@ verification-kyc.io
 verification-land.github.io
 verification-ledger.com
 verification-makersplace.pages.dev
+verification-mee6.xyz
 verification-megaeth.com
 verification-metamask-io.ddnss.eu
 verification-metamask.io.zkg.hdn.mybluehost.me
@@ -307587,6 +307602,7 @@ wenxchange.network
 wenxchange.org
 wenxchange.pro
 wenyss-v3.fl-v2.xyz
+weocox.com
 weorldlcoin.com
 wep-3.support
 wep3s.com
@@ -325165,6 +325181,7 @@ www.login--blockgames.com
 www.login-blockchain.com.ohelpc.com
 www.login-ebwif.demonmetale.xyz
 www.login-gobank.com
+www.login-infos.click
 www.login-kamino.app
 www.login-mp7tf.demonmetale.xyz
 www.login-pancakeswap.com
@@ -335783,6 +335800,7 @@ www.trustwallet-withdraw.sesn.site
 www.trustwallet-withdrawal.migw.site
 www.trustwallet.coin-dapp.com
 www.trustwallet.mangocytec.com
+www.trustwallet.mx
 www.trustwallet.plm.cr
 www.trustwallet.plus
 www.trustwallet.run
@@ -344668,6 +344686,7 @@ zgsliquid.com
 zgzhshopsusdt.top
 zgzmm.com
 zh-cn.bwbdirectory.com
+zh-milan-app.com
 zh6ptb8.cc
 zh7zebc.cc
 zh9d.pro
@@ -347517,6 +347536,7 @@ zucksol.io
 zucu.xyz
 zuder-wap.com
 zuderswap.top
+zugchain.pages.dev
 zugrpaxos.com
 zuixineth.mana888.top
 zuki2slim.com
