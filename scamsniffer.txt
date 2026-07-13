@@ -1945,6 +1945,7 @@
 223d2465.716ba97704172b520b43d814.workers.dev
 22680.pages.dev
 227712.com
+227gp.com
 227sm2.pro
 22elondouble.com
 22ontopothers.com
@@ -5212,6 +5213,7 @@ aavereward.app
 aaverewards.com
 aaverewards.pages.dev
 aaves.app
+aaves.events
 aaves.net
 aavesafepal.com
 aavesdrop.com
@@ -25675,6 +25677,7 @@ app-storyprotocol.co
 app-streamflow.pages.dev
 app-stusdt.com
 app-sui.site
+app-suiite.com
 app-suinswaps.com
 app-suiswap.com
 app-suite-trezor.com
@@ -26064,6 +26067,7 @@ app-wagmi.com
 app-wallectrectify.pages.dev
 app-wallet-bnbchain.com
 app-wallet-connect.pages.dev
+app-wallet-io.com
 app-wallet-rabby.com
 app-walletconnect-resolve.pages.dev
 app-walletconnect.com
@@ -72789,6 +72793,7 @@ claim0xdrop.pages.dev
 claim1-coinbase.com
 claim1-foundation.pro
 claim1-foundation.run
+claim1-frogbull.com
 claim1.hundsonsol.app
 claim10752-binance.web.app
 claim19.pages.dev
@@ -84748,6 +84753,7 @@ cowswaip.com
 cowswap-1.pages.dev
 cowswap-bt1.pages.dev
 cowswap-cryptofi.com
+cowswap-dapp.pages.dev
 cowswap-dashboard.com
 cowswap-finance.com
 cowswap-finance.medium.com
@@ -106679,6 +106685,7 @@ earnfi-io.com
 earnfi.info
 earnfi.top
 earnfi.vip
+earnfiairdrop.live
 earnft.live
 earnfy.net
 earngas.site
@@ -111012,6 +111019,7 @@ enroll-eigen.net
 enroll-eigenpoints.com
 enroll-farcana.com
 enroll-farcanacom.pages.dev
+enroll-firelight.app
 enroll-firelight.com
 enroll-foxyiinea.app
 enroll-foxyiinea.com
@@ -120832,6 +120840,7 @@ febatraders.com
 febolisawaaycom.pages.dev
 february-airdrop.com
 fecedpdoaxcom.pages.dev
+fedcbanotexists76543216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 fedeiralai.xyz
 federail-ai.xyz
 federal-ai.xyz
@@ -127341,6 +127350,7 @@ gal-airdrop.claims-web3.website
 gal-airdrop.web3-bounty.pro
 gal-profile.com
 gal.collect-quest.com
+gal.log-quests.com
 gal.quest-login.com
 gal.quest-rewards.com
 gal.quests-connect.com
@@ -133594,6 +133604,7 @@ gnosischain.network
 gnosisdao.tech
 gnosisrew.com
 gnosisrewards.com
+gnotexistsnotexists4www6c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 gnr-302.ru
 gnr-303.ru
 gnr-306.ru
@@ -136098,6 +136109,7 @@ grvt-io.pages.dev
 grvt-web3-claim.vercel.app
 grvt.app
 grvt.claimboard.io
+grvt.click
 grvt.community
 grvt.events
 grvt.info
@@ -144776,7 +144788,6 @@ injective.in
 injective.live
 injective.mobi
 injective.money
-injective.network
 injective.news
 injective.page
 injective.parts
@@ -158664,6 +158675,7 @@ ledger-zksnyc.com
 ledger-zksync.com
 ledger-zksync.live
 ledger.airfmint.com
+ledger.app-and-web3.shop
 ledger.app-starts-livee-download.info
 ledger.com-live.cc
 ledger.critical-update.com
@@ -173587,6 +173599,7 @@ mendle-finance.pages.dev
 mendlfinance.com
 mendosol.fun
 menecoin.one
+menequirespot.xyz
 menex.net
 menicechest.com
 menjisworld.claims
@@ -197829,6 +197842,7 @@ notexists6543216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 notexists654www6c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 notexists6c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 notexists876543216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
+notexists87655031dcc46f47-e9f9-4b8a-a532-71b0d90be2f5.acquency.com
 notexistsnotexists876543216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 notfastdrop.fun
 notfl.com
@@ -200078,6 +200092,7 @@ okxd.cc
 okxdaap.xyz
 okxdefi.xyz
 okxdegex.com
+okxdex.firebaseapp.com
 okxdrop.pro
 okxexch.com
 okxfootballcup-airdrop.netlify.app
@@ -203984,6 +203999,7 @@ opensse-verification.pages.dev
 openssea.org
 openssea.vip
 opensseapro.vercel.app
+openstandard-redirect.lol
 openstark.info
 openstark.online
 openstark.website
@@ -218695,6 +218711,7 @@ polymarkef.co
 polymarket-airdrop.pages.dev
 polymarket-airdrop.vercel.app
 polymarket-airdrop.verify-seed.info
+polymarket-check.whitestake.cc
 polymarket-coin.com
 polymarket-en.firebaseapp.com
 polymarket-evs.pages.dev
@@ -258957,6 +258974,7 @@ sms-metamask.com
 sms-metamask.io
 sms-premint.xyz
 sms.mogatusimedia.co.za
+sms2026.vercel.app
 sms33api.site
 sms33api.xyz
 smsfunnel.org
@@ -273064,6 +273082,7 @@ swap-cow-co.life
 swap-cow-fi.com
 swap-cow-fi.pages.dev
 swap-cow-swap.com
+swap-cow-ti.pages.dev
 swap-cow.com
 swap-cow.site
 swap-curve-fi.pw
@@ -286879,6 +286898,7 @@ truebit.pages.dev
 truebit.tech
 truebitairdrop.org
 truebitairdrops.org
+truebnb.org
 truebridgeweb.net
 truedapps.vercel.app
 truedgeconstruction.com
@@ -286893,6 +286913,7 @@ truegardener.in
 truegems-fassets.art
 truegems-fassets.xyz
 truegigatexpro.com
+truenorths.xyz
 trueonlines.com
 trueorange.xyz
 truereserve.org
@@ -293601,6 +293622,7 @@ usdt-etht.cyou
 usdt-ewq-bf.top
 usdt-fin.top
 usdt-freeclaim.web.app
+usdt-gateway-vip.netlify.app
 usdt-get.org
 usdt-gift.xyz
 usdt-gifts.app
@@ -296250,6 +296272,7 @@ veltexverse.website
 veltoconnect.com
 veltrosol.com
 velumex.com
+velvefi.top
 velvertewer.com
 velvet.eth-limo.com
 velvet.web3-airdrop.net
@@ -300600,6 +300623,7 @@ votes-etherfi.com
 votes-etherfi.net
 votes-etherfi.org
 votes-facy.com
+votes-firelight.fi
 votes-flare.com
 votes-fly.com
 votes-fly.net
@@ -339816,6 +339840,7 @@ xeddy.io
 xeetsol.com
 xeetsolana.com
 xefes.com
+xeffy-checker.click
 xege.pro
 xeggex.cam
 xeggexwhitelisting.com
@@ -344964,6 +344989,7 @@ zimoru.vip
 zimuy5r.cc
 zimzy.com
 zinappwkgbclai.makeup
+zinccash.fun
 zinced.cc
 zinced.org
 zincet.cc
@@ -347175,6 +347201,7 @@ zldgov.net
 zldgov.org
 zldgov.xyz
 zle.overdezuki.fun
+zlehome.com
 zlelchain.com
 zlend.top
 zlend.xyz
