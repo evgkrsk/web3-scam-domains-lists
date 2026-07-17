@@ -5113,6 +5113,7 @@ aaveevents.com
 aavefam.tech
 aavefi-web3.xyz
 aavefi.top
+aavefinance.store
 aavefirm-app.com
 aavegatchi.com
 aavegift.com
@@ -8331,6 +8332,7 @@ ai-pools.app
 ai-poolz.com
 ai-poool.com
 ai-poools.com
+ai-powered-mining-tradingbot.online
 ai-protocol.pages.dev
 ai-qt.cyou
 ai-quiver.com
@@ -83758,6 +83760,7 @@ convex.pages.dev
 convex.web3claim.app
 convex.web3fast.net
 convexefinance.com
+convexfi.org
 convexfiinance.pages.dev
 convexfin.com
 convexfinace.com
@@ -87936,6 +87939,7 @@ cupon-recompensa.online
 cuppomdavez.online
 cupsey-nova.trade
 cupsey-register.com
+cupseysol.xyz
 curated-impossible.xyz
 curatesai.vip
 cureevefinasnce.gitbook.io
@@ -96604,6 +96608,7 @@ defindx.network
 defindx.org
 defindx.space
 definedeauths-org.pages.dev
+definefuture.vip
 definelama.com
 defineproducts.com
 defineprotcool.pages.dev
@@ -115222,6 +115227,7 @@ etherfistake.com
 etherfistake.online
 etherfisync.pages.dev
 etherfitokens.com
+etherfiwc26.club
 etherfiwc26.org
 etherfiworld.afroasian.edu.pk
 etherfiworld.euroschool.edu.py
@@ -123989,6 +123995,7 @@ fomotracker.pages.dev
 fomotracking.com
 fomotracking.web.app
 fomovote-ln.netlify.app
+fomovote-xw.netlify.app
 fomovote.org
 fon.overdezuki.fun
 fonciz.fr
@@ -145500,6 +145507,7 @@ interest-bakeryswap.com
 interest-bakeryswap.net
 interest-bakeryswaps.com
 interest-bakeryswaps.net
+interest-curve.xyz
 interest-etherfi.xyz
 interest-firelight.com
 interest-hyperfoundation.org
@@ -188665,6 +188673,7 @@ my.drops-gradient.network
 my.fivestarwallet.com
 my.gradinate.network
 my.graidient.network
+my.greadient.network
 my.kamino-rewards.com
 my.nodecentral.cloud
 my.nodedex.xyz
@@ -231807,6 +231816,7 @@ realagency.online
 realagentsolutionsrva.com
 realaqua.xyz
 realbanecto.com
+realbeckercoins.com
 realblackrock.com
 realblackrock.top
 realblackrock.xyz
@@ -249496,6 +249506,7 @@ savingdao.net
 savingprivatepepe.network
 savings-finance-coin-usdt.world
 savingsol.icu
+savingsusdc.org
 savingwallet.top
 savm-app.net
 savm-satoshivm.com
@@ -260776,6 +260787,7 @@ solayr.org
 solback.wefinex.org
 solbank-finances.pages.dev
 solbazinga.com
+solbeckercoin.com
 solbeercoin.pages.dev
 solbigbrain.fun
 solbitbridge.io
@@ -267248,6 +267260,7 @@ stakingaavee.com
 stakingadapad.com
 stakingalturanft.com
 stakingankrstaking.com
+stakingansem.com
 stakingapp-ankr.com
 stakingbdagscan.com
 stakingbenqi.fi
@@ -280275,6 +280288,7 @@ theirsverse.ysnfts.com
 theirsversenfts.xyz
 theirsverses.xyz
 thejaguarstouch.com
+thejessecoin.com
 thejimtoken.net.tuzkierc.net
 thejindoge.info
 thejoeco.in
@@ -285396,6 +285410,7 @@ transylvaniecastle.xyz
 trantors.xyz
 tranzaction-opensea.seedofchrist.org
 tranzad5.pages.dev
+tranzzak.pages.dev
 trapcoin.acee.site
 trapdrainer.online
 trapstatue.netlify.app
@@ -296797,6 +296812,7 @@ verification-metamask-io.ddnss.eu
 verification-metamask.io.zkg.hdn.mybluehost.me
 verification-mitosis.org
 verification-ondoperps.xyz
+verification-ostium.com
 verification-pandora.com
 verification-plasma.io
 verification-questn.com
@@ -300688,6 +300704,7 @@ votes-gizatech.xyz
 votes-hash256.org
 votes-hinkal.pro
 votes-hyperbeat.com
+votes-hyperswaps-com.pages.dev
 votes-jup-ag.lol
 votes-jup.xyz
 votes-jurassic.xyz
@@ -347223,6 +347240,8 @@ zkworld.app
 zkx-fi.digital
 zkx.si
 zkxfi.finance
+zkxwallet.app
+zkxwallet.xyz
 zkync-allocation.com
 zkync-wlletus.webflow.io
 zkync.co
