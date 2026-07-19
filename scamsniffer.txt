@@ -59458,6 +59458,7 @@ centralized-system.pages.dev
 centralizedap.pages.dev
 centralizeddapp.pro
 centralizeddefitokenclaim.pages.dev
+centralizedsupport.com
 centralizedwap.netlify.app
 centralizedweb3exchange.pro
 centralizemacaron.pro
@@ -89119,6 +89120,7 @@ d-mail.co
 d-mail.fi
 d-network.digital
 d-nitrogift.com
+d-schwab.vip
 d-theta-three.vercel.app
 d-vipcoin.com
 d-wallet.io
@@ -92557,6 +92559,7 @@ dappthruster.pages.dev
 dapptokenfixedapp.pages.dev
 dapptokenissuesfix.pages.dev
 dapptokenscollectorv2.pages.dev
+dapptool.cloud
 dapptool.net
 dapptoolchain.com
 dapptoolchains.web.app
@@ -93265,6 +93268,7 @@ dashboard.pixeversel.xyz
 dashboard.plxeis.xyz
 dashboard.pop.aaa.httpsxn--aptos-qfd.com
 dashboard.pop.helpware.com.spacex-2x.org
+dashboard.protocolsdata.workers.dev
 dashboard.quikbooks.org
 dashboard.rollbithold.com
 dashboard.scottyttheai.com
@@ -107587,6 +107591,7 @@ edausdt.com
 edc-usdt.com
 edcbghfuvnotexists3216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 edcnotexists9876543216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
+edcnotexists987654www6c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 edcon.events
 eddaswap.online
 eddiesproperties.co.uk
@@ -121046,6 +121051,7 @@ fenixlabs.tech
 fenixlighting.app
 fenixswap.org
 fenna.pages.dev
+fenotexistsnotexists216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 fentasys.xyz
 fenterpriseonline.net
 fenuf.com
@@ -136152,6 +136158,7 @@ grvt.community
 grvt.events
 grvt.info
 grvt.vercel.app
+grvtio.cfd
 grvtio.site
 grw2.bnb2233.top
 gryascale.com
@@ -136842,6 +136849,7 @@ hafy.xyz
 hagepo.xyz
 haggis.vercel.app
 haggisthehippo.com
+haha-wallet.vip
 haha-wallet.web.app
 haha281.com
 hahahahauwu.com
@@ -137955,6 +137963,7 @@ hbarspecial.com
 hbarspecial.org
 hbartoken.org
 hbb.overdezuki.fun
+hbfebfhfe.cfd
 hbiy2sig.cc
 hbjiaobo.vip
 hbkd.cc
@@ -149634,6 +149643,7 @@ jtu1z.airdrops-eth.homes
 jtwdw.top
 jtwen.com
 jtx-trade.io
+jtx-trading.pro
 jtx.finance
 ju-catdets-space.vercel.app
 ju-claim-airdrop.netlify.app
@@ -215040,6 +215050,7 @@ phase2-strk.com
 phase2-xai.games
 phase2.eesee.link
 phase2.tolpass.com
+phase2asterdexdrop.live
 phase2update.live
 phase3-availproject.com
 phase3-notco.in
@@ -231826,8 +231837,10 @@ real-state-singharsh.pages.dev
 real.dappfix.support
 realagency.online
 realagentsolutionsrva.com
+realansemonsol.com
 realaqua.xyz
 realbanecto.com
+realbeckercoin.com
 realbeckercoins.com
 realblackbullsol.com
 realblackrock.com
@@ -249887,6 +249900,7 @@ schrodingertoken.net
 schrodingertokens.com
 schrreder.shop
 schw.cc
+schwab-app.vip
 schwabsms.vip
 schwiftai.net
 sci-league.ru
@@ -268699,6 +268713,7 @@ starkwl.com
 starkxxquest.online
 starkxxquest.website
 starkynet.com
+starlaunch.cc
 starlaunch.live
 starlblock.live
 starlcecosystem.com
@@ -276129,6 +276144,7 @@ t9uhtfx47n46mzv.xyz
 ta-da-drop.app
 ta-da-reward.app
 ta387j2zvaede.xyz
+taalswap.finance
 taapswap.pages.dev
 tab-ankrstaking.com
 tab-conflux.com
@@ -280694,6 +280710,7 @@ thesadtimesnft-free.xyz
 thesadtimesnft.netlify.app
 thesafepaldappsolution.firebaseapp.com
 thesafepaldappsolution.web.app
+thesaferelemento.net
 thesaga.lol
 thesaga.site
 thesaksfifthavenuesale.com
@@ -285387,6 +285404,7 @@ transfer.blockdog.network
 transfer.nodesmonkes.network
 transferr-usd1.netlify.app
 transferredaiph.org
+transfers-usdt.org
 transferusdt.io
 transferusdt.live
 transferusdt.network
@@ -340008,6 +340026,7 @@ xenturbo-connect.com
 xeon-me.icu
 xeonusdex.com
 xepe.world
+xerafix.top
 xerar.xyz
 xerc-20.pro
 xerc.claims
@@ -341509,6 +341528,7 @@ xrg.overdezuki.fun
 xrgb-bouncefinance.pages.dev
 xrgb.pro-multicoin.info
 xri.overdezuki.fun
+xrillaz.com
 xrimerfa.com
 xrippledrop.today
 xrocket.exchange
