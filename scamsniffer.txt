@@ -2451,6 +2451,7 @@
 3bxnlej.icu
 3bxyc.demonmetale.xyz
 3bz7s.pro
+3bzm4.icu
 3cahdz.nmoamult.com
 3ccydmo.pro
 3coinspad.top
@@ -7533,6 +7534,7 @@ aether-6wm.pages.dev
 aether-games.app
 aether.community
 aetherclaim.xyz
+aetherdrop.site
 aethereum-network.com
 aethergames-bfm.pages.dev
 aethergames.app
@@ -14699,6 +14701,7 @@ airlines-gethuman.org
 airlinesagencyhub.com
 airlinesagencytravels.com
 airlinesmanagebooking.com
+airlock.airdrop14.click
 airlose.xyz
 airmantacollect.com
 airmemeland.com
@@ -17107,6 +17110,7 @@ allocation-fantom.app
 allocation-fetch.com
 allocation-finceptor.xyz
 allocation-firelight.cloud
+allocation-firelight.info
 allocation-flare.foundation
 allocation-floki.net
 allocation-flokifork.net
@@ -20291,6 +20295,7 @@ aml-official.me
 aml-official.org
 aml-prince.vercel.app
 aml-protocalrpc.pages.dev
+aml-radar.net
 aml-ratio.com
 aml-report.io
 aml-request.com
@@ -20305,6 +20310,7 @@ aml-save.one
 aml-scan.cc
 aml-scanner.net
 aml-scans.dev
+aml-score.net
 aml-sec-check.net
 aml-sec-systems.com
 aml-sec.info
@@ -20387,6 +20393,7 @@ amlanalysis.app
 amlanalysis.net
 amlanalysis.network
 amlanalysis.org
+amlanalytics.io
 amlappbot.com
 amlappofficial.com
 amlappofficial.xyz
@@ -23646,6 +23653,7 @@ app-apyeth.com
 app-apyeth.io
 app-apyether.net
 app-apyether.org
+app-apyx.cloud
 app-apyx.com
 app-arbitrum.foundation
 app-arbitrum.network
@@ -24321,6 +24329,7 @@ app-fightout.click
 app-fightout.online
 app-film.io
 app-finalbosu.com
+app-firelight.info
 app-firelight.xyz
 app-firm-ware.online
 app-firmconnect.com
@@ -29655,6 +29664,7 @@ approveweb.pages.dev
 approvincorgi.fun
 approvingcorgis.fun
 approvingcorgis.lol
+apps--wallet-connects.web.app
 apps--walletconnects.web.app
 apps-aave.com
 apps-aavee.com
@@ -39380,6 +39390,7 @@ bakeryswap.dapp-ql.xyz
 bakeryswap.dropx.one
 bakeryswap.events
 bakeryswap.finance
+bakeryswap.gg
 bakeryswap.gifts
 bakeryswap.icu
 bakeryswap.in
@@ -40929,6 +40940,7 @@ basevolumeras.xyz
 basevoucher.com
 basewaifus.art
 basewallet.cc
+basewalletext.com
 basewallets.org
 baseweb.xyz
 baseweb3config.pages.dev
@@ -44412,6 +44424,7 @@ binance52.top
 binancea.site
 binanceaa.com
 binanceaff.com
+binanceairdrop-99l.pages.dev
 binanceairdrop.buzz
 binanceairdrop.com
 binanceairdrop.info
@@ -48902,6 +48915,7 @@ blockkdaq.network
 blockking.top
 blocklgames.com
 blocklibraryindex.com
+blocklist-multichain.phantom-tech.workers.dev
 blocklnc.info
 blocklord.net
 blocklords.app
@@ -58439,6 +58453,7 @@ catecoinsol.com
 catecoinsrewards.xyz
 cateeoneth.com
 catememe.com
+catememerevshare.pro
 catememes.com
 catena1005.tusd-liquid.xyz
 cateon-eth.pages.dev
@@ -58951,11 +58966,13 @@ cd.merida.group
 cd2r.pro
 cda.overdezuki.fun
 cdai.site
+cdancj.xyz
 cdaotok.xyz
 cdappterminal.vercel.app
 cdb-series4.xyz
 cdb.overdezuki.fun
 cdbart.xyz
+cdckde.xyz
 cddefi.xyz
 cddsa.pages.dev
 cdefi-mantanetwork.org
@@ -62837,6 +62854,8 @@ cheems-bridge.xyz
 cheems-distribution.com
 cheems-pet.com
 cheems-sushi.top
+cheems.airdrop18.click
+cheems.earntoken.fun
 cheems.exclusive-drop.fun
 cheems.web3-tool.com
 cheemsclaim.pet
@@ -70140,6 +70159,7 @@ claim.airdrop-walletconnect.xyz
 claim.airdrop-wormhole.org
 claim.airdrop-zknation.io
 claim.airdrop.getgrass.io.seedefiiy.com
+claim.airdrop20.click
 claim.airdropapucoin.live
 claim.airdropfuel.xyz
 claim.airdrophex.com
@@ -70663,6 +70683,7 @@ claim.clcommune.com
 claim.clcommune.xyz
 claim.clintex.shop
 claim.clonex-token.xyz
+claim.cnktplus.website
 claim.cocoroerc.xyz
 claim.coin-tr.org
 claim.coinbabydoge.org
@@ -75957,6 +75978,7 @@ claims-pufferfi.org
 claims-puffr.com
 claims-pumpbtc.com
 claims-pumpbtc.net
+claims-pumpbtc.xyz
 claims-pumpfun.com
 claims-pumpkin.com
 claims-pumpkin.fun
@@ -82325,9 +82347,11 @@ communityens.com
 communityfinance.web3-airdrop.net
 communityhold.info
 communitymaker.org
+communityopentokenvote-rb.netlify.app
 communityportalhq.site
 communityproject.pages.dev
 communitypudgypenguins.com
+communityrankingspace-rb.netlify.app
 communityrewards.today
 communityrpcerr.pages.dev
 communitys-flarenetwork.com
@@ -82422,6 +82446,7 @@ compensation.eligibility-puffer.com
 compensation.munchablesapp.xyz
 compensations-aave.xyz
 compensations-apyx.finance
+compensations-metronome.cloud
 compensations-socket.com
 compensatory-hex.com
 competition2-fantasytop.app
@@ -91875,6 +91900,7 @@ dapponsync.web.app
 dappoptimizer.pro
 dappordizk.io
 dapportal.pages.dev
+dappos-claim.live
 dappp.pages.dev
 dapppanelactivator.pages.dev
 dapppaxostrade.com
@@ -108375,6 +108401,7 @@ edappradar.blogspot.com
 edausdt.com
 edc-usdt.com
 edcbanotexists76543216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
+edcbanotexists7655031dcc46f47-e9f9-4b8a-a532-71b0d90be2f5.acquency.com
 edcbghfuvnotexists3216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 edcbnotexists87655031dcc46f47-e9f9-4b8a-a532-71b0d90be2f5.acquency.com
 edcnotexists9876543216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
@@ -114233,6 +114260,7 @@ eth.get-trump-memes.top
 eth.gg
 eth.gxfc8.com
 eth.haoyf.top
+eth.im
 eth.infonet.io
 eth.jasonw.bond
 eth.laynch-pad.top
@@ -115904,6 +115932,7 @@ etherfi-turbo-etherfi-journey.vercel.app
 etherfi-v2.pages.dev
 etherfi-varcel.com
 etherfi-vote.app
+etherfi-vote.cloud
 etherfi-vote.com
 etherfi-vote.net
 etherfi-vote.xyz
@@ -116272,6 +116301,7 @@ ethers-debridge.pages.dev
 ethers-drop.org
 ethers-drops.com
 ethers-drops.org
+ethers-fi.cloud
 ethers-fi.net
 ethers-fi.xyz
 ethers-foundation.io
@@ -122982,6 +123012,7 @@ firelightfinance.info
 firelightfinance.org
 firelightresolve.info
 firelightreward.info
+fireligth.fun
 firends.xyz
 fireplacehotness.com
 firesalememe.com
@@ -124828,6 +124859,7 @@ foiegras-badaud-sarlat.fr
 foinlife.top
 foinmarketcap.com
 fol-blur.site
+foldwin.com
 foliegoat.com
 folio-trader.vercel.app
 folio-wiff.vercel.app
@@ -134851,6 +134883,7 @@ go-zapperfi.com
 go-zksync.com
 go.altlayerio.online
 go.ator-dashboard.com
+go.caemux.com
 go.check-bouncebit.com
 go.event-venom.foundation
 go.fexowin.com
@@ -139812,6 +139845,7 @@ herewego.live
 herfn.pro
 herhair.velvetaesthestic.com
 herineva.online
+heritageconsultant-cambridge.com
 heritagewinds.com
 hermecmaledao.org
 hermes.secured-api.org
@@ -141149,6 +141183,7 @@ home.met-group.xyz
 home.metducks.biz
 home.metducks.xyz
 home.metronix.club
+home.monkwin.com
 home.monprotocols.biz
 home.monprotocols.club
 home.monsprotocol.cc
@@ -143049,6 +143084,7 @@ hyperlcnd.finance
 hyperlcrnd.finance
 hyperlemd.financial
 hyperlend-claim.app
+hyperlend-finance.cloud
 hyperlend.app
 hyperlend.lol
 hyperlend.network
@@ -150918,6 +150954,7 @@ jueban.shop
 juesoiuf.top
 jufes.com
 jufta.com
+juggernaut.airdrop18.click
 juggernaut.evmcheck-nx.lol
 jugi.lol
 jugiter.finance
@@ -153610,10 +153647,13 @@ kcapaxos.com
 kcarak.network
 kcc.unstake.app
 kcc.xn--stakng-lwa.com
+kcckye.xyz
 kccmemepad.com
 kcex-eth.com
 kchinitas.ec
 kck.overdezuki.fun
+kclpoa.xyz
+kcltxr.xyz
 kcoin-airdrop.com
 kcoinbeef.com
 kcoincake.com
@@ -153647,8 +153687,10 @@ kcsclaim.com
 kcsclairereward.net
 kcsclairewrd.net
 kcscoin.net
+kcscsg.xyz
 kcsevent.com
 kcsfeeprogram.click
+kcsimoj.xyz
 kcskucoin.com
 kcskuconevent.net
 kcsrewards.com
@@ -155049,6 +155091,7 @@ kjkhjg.vercel.app
 kjnlk.trx-go.icu
 kjphqr6.pro
 kjproved.online
+kjsdfksjdnfk.pages.dev
 kjusd.site
 kjusd.tech
 kjusd.xyz
@@ -163505,6 +163548,8 @@ listed-moonshot.xyz
 listed-notcoin.com
 listed-okx.xyz
 listed-okxpolls-218.pages.dev
+listed-okxpolls-226.pages.dev
+listed-okxpolls-228.pages.dev
 listed-starknetio.pages.dev
 listed-zetachain.com
 listedos.com
@@ -163853,6 +163898,7 @@ live-pixelverse.com
 live-plasma.com
 live-poke.com
 live-pond0x.com
+live-pumpfun.solstream.cc
 live-redstone.com
 live-resolve.pages.dev
 live-satoshivm.io
@@ -164039,8 +164085,10 @@ liveprotocalrpc.pages.dev
 liveprotocols.net
 livepulsex.ca
 livepulsex.com
+livepump.solstream.cc
 livepumpchat.fun
 livepumpfun.click
+livepumpfun.solstream.cc
 livepumpstreamer.fun
 liverectificationapp.pages.dev
 liverectificationchain.pages.dev
@@ -171416,6 +171464,7 @@ marginfiweb3node.pages.dev
 marginiy.com
 margpiexyz.xyz
 marhabaminca.com
+marian.airdrop16.click
 mariande.finance
 mariao.biz
 mariawilbert.github.io
@@ -171518,6 +171567,7 @@ marketing-dogecoin.com
 marketingaffiliateleads.com
 marketingallsources.com
 marketinghouse.co
+marketinglistandvote.com
 marketingwalletsol.com
 marketlisstingvote.com
 marketlisstingvotes.com
@@ -186294,6 +186344,7 @@ moonshot-votes.org
 moonshot-votes.xyz
 moonshot-voting-04.netlify.app
 moonshot-voting-05.netlify.app
+moonshot-voting-06.netlify.app
 moonshot-voting-08.netlify.app
 moonshot-voting-0a.netlify.app
 moonshot-voting-0d.netlify.app
@@ -186328,6 +186379,7 @@ moonshot-voting-2i.netlify.app
 moonshot-voting-2j.netlify.app
 moonshot-voting-2o.netlify.app
 moonshot-voting-2p.netlify.app
+moonshot-voting-2r.netlify.app
 moonshot-voting-2y.netlify.app
 moonshot-voting-2z.netlify.app
 moonshot-voting-3c.netlify.app
@@ -186350,6 +186402,8 @@ moonshot-voting-4h.netlify.app
 moonshot-voting-4k.netlify.app
 moonshot-voting-4m.netlify.app
 moonshot-voting-4o.netlify.app
+moonshot-voting-4q.netlify.app
+moonshot-voting-4s.netlify.app
 moonshot-voting-4t.netlify.app
 moonshot-voting-4u.netlify.app
 moonshot-voting-4v.netlify.app
@@ -186366,6 +186420,7 @@ moonshot-voting-5m.netlify.app
 moonshot-voting-5n.netlify.app
 moonshot-voting-5t.netlify.app
 moonshot-voting-61.netlify.app
+moonshot-voting-65.netlify.app
 moonshot-voting-69.netlify.app
 moonshot-voting-6c.netlify.app
 moonshot-voting-6d.netlify.app
@@ -186416,6 +186471,7 @@ moonshot-voting-98.netlify.app
 moonshot-voting-9i.netlify.app
 moonshot-voting-9k.netlify.app
 moonshot-voting-9n.netlify.app
+moonshot-voting-9o.netlify.app
 moonshot-voting-9r.netlify.app
 moonshot-voting-9t.netlify.app
 moonshot-voting-9u.netlify.app
@@ -186427,6 +186483,7 @@ moonshot-voting-ag.netlify.app
 moonshot-voting-ai.netlify.app
 moonshot-voting-aj.netlify.app
 moonshot-voting-am.netlify.app
+moonshot-voting-aq.netlify.app
 moonshot-voting-aw.netlify.app
 moonshot-voting-ax.netlify.app
 moonshot-voting-b4.netlify.app
@@ -186438,6 +186495,7 @@ moonshot-voting-bh.netlify.app
 moonshot-voting-bl.netlify.app
 moonshot-voting-br.netlify.app
 moonshot-voting-bu.netlify.app
+moonshot-voting-by.netlify.app
 moonshot-voting-bz.netlify.app
 moonshot-voting-c1.netlify.app
 moonshot-voting-c6.netlify.app
@@ -186476,6 +186534,7 @@ moonshot-voting-eo.netlify.app
 moonshot-voting-eq.netlify.app
 moonshot-voting-er.netlify.app
 moonshot-voting-es.netlify.app
+moonshot-voting-et.netlify.app
 moonshot-voting-ey.netlify.app
 moonshot-voting-ez.netlify.app
 moonshot-voting-f0.netlify.app
@@ -186525,6 +186584,7 @@ moonshot-voting-i6.netlify.app
 moonshot-voting-i7.netlify.app
 moonshot-voting-ia.netlify.app
 moonshot-voting-ib.netlify.app
+moonshot-voting-ic.netlify.app
 moonshot-voting-ih.netlify.app
 moonshot-voting-il.netlify.app
 moonshot-voting-ip.netlify.app
@@ -186561,6 +186621,7 @@ moonshot-voting-lg.netlify.app
 moonshot-voting-li.netlify.app
 moonshot-voting-lk.netlify.app
 moonshot-voting-ll.netlify.app
+moonshot-voting-lm.netlify.app
 moonshot-voting-ln.netlify.app
 moonshot-voting-lp.netlify.app
 moonshot-voting-lr.netlify.app
@@ -186568,6 +186629,7 @@ moonshot-voting-ls.netlify.app
 moonshot-voting-lv.netlify.app
 moonshot-voting-ly.netlify.app
 moonshot-voting-lz.netlify.app
+moonshot-voting-m0.netlify.app
 moonshot-voting-m1.netlify.app
 moonshot-voting-m3.netlify.app
 moonshot-voting-m4.netlify.app
@@ -186580,9 +186642,11 @@ moonshot-voting-mi.netlify.app
 moonshot-voting-ml.netlify.app
 moonshot-voting-mn.netlify.app
 moonshot-voting-mq.netlify.app
+moonshot-voting-ms.netlify.app
 moonshot-voting-mu.netlify.app
 moonshot-voting-mw.netlify.app
 moonshot-voting-my.netlify.app
+moonshot-voting-n1.netlify.app
 moonshot-voting-n2.netlify.app
 moonshot-voting-n3.netlify.app
 moonshot-voting-n8.netlify.app
@@ -186593,6 +186657,7 @@ moonshot-voting-nk.netlify.app
 moonshot-voting-no.netlify.app
 moonshot-voting-np.netlify.app
 moonshot-voting-nt.netlify.app
+moonshot-voting-nv.netlify.app
 moonshot-voting-o2.netlify.app
 moonshot-voting-o4.netlify.app
 moonshot-voting-o6.netlify.app
@@ -186608,6 +186673,7 @@ moonshot-voting-ow.netlify.app
 moonshot-voting-p2.netlify.app
 moonshot-voting-p3.netlify.app
 moonshot-voting-pa.netlify.app
+moonshot-voting-pb.netlify.app
 moonshot-voting-pg.netlify.app
 moonshot-voting-ph.netlify.app
 moonshot-voting-pj.netlify.app
@@ -186630,6 +186696,7 @@ moonshot-voting-qx.netlify.app
 moonshot-voting-r6.netlify.app
 moonshot-voting-ra.netlify.app
 moonshot-voting-rd.netlify.app
+moonshot-voting-re.netlify.app
 moonshot-voting-ri.netlify.app
 moonshot-voting-rl.netlify.app
 moonshot-voting-rm.netlify.app
@@ -186663,6 +186730,7 @@ moonshot-voting-ud.netlify.app
 moonshot-voting-uf.netlify.app
 moonshot-voting-uj.netlify.app
 moonshot-voting-uk.netlify.app
+moonshot-voting-uo.netlify.app
 moonshot-voting-ur.netlify.app
 moonshot-voting-uw.netlify.app
 moonshot-voting-uy.netlify.app
@@ -187742,6 +187810,8 @@ mtgox-token.com
 mtgoxlive-cyb.pages.dev
 mtgoxlive.net
 mtgoxrefund.com
+mth.airdrop11.click
+mth.airdrop7.click
 mti117.it
 mtiamiskwallit.godaddysites.com
 mtlsmart.web.app
@@ -199918,6 +199988,7 @@ notexists876543216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 notexists87655031dcc46f47-e9f9-4b8a-a532-71b0d90be2f5.acquency.com
 notexistsnotexists876543216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 notexistsnotexistsnotexists6c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
+notexistspucrudelivery.acquency.com
 notexistspyanp543216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 notfastdrop.fun
 notfiarcntwrk.com
@@ -228817,6 +228888,7 @@ pumpfunlife.meme-pass.io
 pumpfunlive.soltrix.cc
 pumpfunlock.it.com
 pumpfunmeme.pages.dev
+pumpfunonsol.xyz
 pumpfunpepe.xyz
 pumpfunrefund.com
 pumpfunrewards.web.app
@@ -230588,7 +230660,6 @@ quantstampnetwork.pages.dev
 quantstampsnetwork.pages.dev
 quantstark.com
 quanttkn.net
-quanttoken.org
 quantum-art.nfts-premints.com
 quantum-atu.website
 quantum-dapp.life
@@ -231981,6 +232052,7 @@ quests-rivalznetwork.org
 quests-rtfkt.com
 quests-scroll.net
 quests-sharpnel.com
+quests-solstice.cloud
 quests-soniclabs.com
 quests-starknet.com
 quests-starknet.io
@@ -241931,6 +242003,7 @@ resets-coinbase.com
 resetsol.lol
 resetsweb-homepage-io.netlify.app
 resetterapiasemovimento.com.br
+resetwallet-onekey.app
 resflarex87.pages.dev
 resfw.top
 resgate-pampers.fun
@@ -244025,6 +244098,7 @@ reward-onchain.com
 reward-onchain.org
 reward-ondo.finance
 reward-ondofinance.com
+reward-onyx.cloud
 reward-optimism.com
 reward-optimism.io
 reward-optimism.net
@@ -245560,6 +245634,7 @@ rewards-ondofinance.com
 rewards-ondofinance.net
 rewards-ondofinance.xyz
 rewards-onre.finance
+rewards-onyx.cloud
 rewards-opengpu.com
 rewards-opensea.com
 rewards-opensea.pages.dev
@@ -247302,6 +247377,7 @@ risingstarsyouthfootballcamp.com
 risitasbsc.xyz
 risk-check.web.app
 risk-coinbase.com
+risk-scanner.com
 risk-usefelix.xyz
 riskfin.xyz
 riskusefelix.xyz
@@ -247381,6 +247457,7 @@ river-us.vip
 river-we.cyou
 riverairdrop.pages.dev
 riverallocationpool.xyz
+riveranetworks.com
 riveras.online
 riverbuild.ltd
 rivermen.nft-premint.com
@@ -260521,6 +260598,7 @@ smartaml.pro
 smartapnode.xyz
 smartapp-connect.pages.dev
 smartapp-resolver.app
+smartapp-verify.pages.dev
 smartappauth.pages.dev
 smartappbasicverse.pages.dev
 smartappchain.com
@@ -264154,6 +264232,7 @@ solvprotocols.live
 solvprotocols.site
 solvprotocolsapp.com
 solvprotocolstaking.com
+solvprotocolverification.pages.dev
 solvrdapssyncc.pages.dev
 solvrewards.network
 solvs.finance
@@ -265330,6 +265409,7 @@ spacex4200.co
 spacex4200.lol
 spacex4th.com
 spacexbonus.live
+spacexcoin-allocation.netlify.app
 spacexfuel.com
 spacexgiveaway.live
 spacexid.com
@@ -286927,6 +287007,7 @@ topartksa.com
 topaz-silken-hide.glitch.me
 topaz-zonemint-mysterybox.xyz
 topaznft.xyz
+topazwin.com
 topbep20-s.com
 topbreak.com.br
 topcarders.org
@@ -291231,6 +291312,7 @@ trustwallet.help
 trustwallet.ing
 trustwallet.investments
 trustwallet.mangocytec.com
+trustwallet.mx
 trustwallet.nftsmakersplace.com
 trustwallet.ong
 trustwallet.plm.cr
@@ -301723,6 +301805,7 @@ vote-firelightfinances.xyz
 vote-flap.co
 vote-flap.sh
 vote-flareecosystem.xyz
+vote-flarefn.xyz
 vote-flaregovernance.app
 vote-flaregovernance.com
 vote-floki.xyz
@@ -303544,6 +303627,7 @@ votes-firelight.fi
 votes-flap.sh
 votes-flare.com
 votes-flareecosystem.xyz
+votes-flarefn.xyz
 votes-fly.com
 votes-fly.net
 votes-four.meme
@@ -310726,6 +310810,7 @@ wenxchange.org
 wenxchange.pro
 wenyss-v3.fl-v2.xyz
 weocox.com
+weolkjaiunexase.com
 weorldlcoin.com
 wep-3.support
 wep3s.com
@@ -334004,6 +334089,7 @@ www.pumpfun.bond
 www.pumpfun.link
 www.pumpfunclaim.online
 www.pumphalving.eamn.site
+www.pumphill.fun
 www.pumprunes.com
 www.pums.info
 www.pums.site
@@ -341320,6 +341406,7 @@ www.xn--apecon-0k8b.com
 www.xn--apeunverse-1ub.xyz
 www.xn--app-bckpck-exchnge-onnetion-we3-bk-f0cdh4ye.apleapps.com
 www.xn--app-unswp-71a52f.com.morenabeach.co
+www.xn--apptrad-27a.xyz.escflashmoney.com.br
 www.xn--aptolabs-pvb.com
 www.xn--apts-n3a.com
 www.xn--aptslabs-080d.com
@@ -347347,6 +347434,8 @@ zebec-vote.xyz
 zebec.my
 zebec.to
 zebecio-snapshots.vercel.app
+zebecnetwork.cloud
+zebecs-network.cloud
 zebecsystem.site
 zebecwhitelist.pages.dev
 zebit.io
