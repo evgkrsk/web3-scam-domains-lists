@@ -8660,6 +8660,9 @@ aiagreementtech.com
 aiai-constellation.com
 aiakita.org
 aialayaio.com
+aiammcoinex.com
+aiammfutures.com
+aiammtrading.com
 aiang.xyz
 aiapecoin.network
 aiarbdoge.in
@@ -26364,6 +26367,7 @@ app-watercoin-wtf.pages.dev
 app-wayfinder.com
 app-wayfinder.xyz
 app-wdymcrypto.online
+app-web-5605-dj7lzt3so-carmonamarc2-3645s-projects.vercel.app
 app-web3bay.xyz
 app-web3bugfix.pages.dev
 app-web3server.pages.dev
@@ -40523,6 +40527,7 @@ base-pass.io
 base-pass.net
 base-pass.org
 base-passes.org
+base-pay-app-ss.pages.dev
 base-pay.app
 base-perp.xyz
 base-preaserch.netlify.app
@@ -41236,6 +41241,8 @@ batlieinfintiey.one
 batman-airdrop.world
 batmansol.com
 batmoooonbirds.xyz
+baton.alrdrop.com
+batonsol.com
 batrewards.org
 bats666.github.io
 batter.sbs
@@ -41440,6 +41447,7 @@ bbananaminer.xyz
 bbaycnft.com
 bbaylonlabs.io
 bbb-76v.pages.dev
+bbb-ashen-gamma.vercel.app
 bbb-one-beta.vercel.app
 bbb.badpotato.shop
 bbb.busd-swap.top
@@ -41673,6 +41681,7 @@ bdagclaim.pages.dev
 bdagcoin.xyz
 bdagcoins.xyz
 bdaghub.com
+bdagmainnet.netlify.app
 bdagnetwork.live
 bdagnetworks.xyz
 bdagreward.live
@@ -46916,6 +46925,7 @@ blackbulisol.com
 blackbulisol.top
 blackbulisol.xyz
 blackbull-events.com
+blackbull.ltd
 blackbullansem.com
 blackbulldrop.top
 blackbullesol.com
@@ -56703,6 +56713,7 @@ buttiverdge.shop
 button.claims
 button.ethereumline.us
 buttoneth.com
+buttplug.alrdrop.xyz
 buu.akaric.fun
 buu.app
 buungeee.exchange
@@ -60274,6 +60285,7 @@ centrifuge-app.pro
 centrifuge-io.firebaseapp.com
 centrifuge-io.web.app
 centrifuge.gift
+centrifuge.life
 centrifuge.pages.dev
 centrifugedex.xyz
 centrifugeio.info
@@ -62186,6 +62198,7 @@ check-aml.info
 check-aml.online
 check-anime.xyz
 check-asterdex.com
+check-awurolll.devwatchbuild.me
 check-azuki.com
 check-babyelon.net
 check-babyioniabs.com
@@ -66744,6 +66757,7 @@ claim-lamina1.com
 claim-landlord.digital
 claim-landshare.com
 claim-landshare.net
+claim-laptoptoken.com
 claim-lattice.pages.dev
 claim-launch.daii.site
 claim-lavanet.com
@@ -68059,6 +68073,7 @@ claim-playfi.xyz
 claim-playwildforest.io
 claim-playwildforestio.pages.dev
 claim-plena.online
+claim-plrl.com
 claim-plume-net.work
 claim-plume-network.xyz
 claim-plume-protocol.vercel.app
@@ -68449,6 +68464,7 @@ claim-rlusds.com
 claim-ro.pages.dev
 claim-roaringkitty.com
 claim-robin-hood-drop.vercel.app
+claim-robinhood-rewards.com
 claim-robinhood.com
 claim-rocket.pages.dev
 claim-rocketpool.claims
@@ -78166,6 +78182,7 @@ clink.host
 clinkgift.net
 clinkgift.org
 clinkreward.com
+clinquant-parfait-1f5717.netlify.app
 clinquant-salamander-a41982.netlify.app
 clintex-appv1.vercel.app
 clintex-rewards.vercel.app
@@ -79428,6 +79445,7 @@ coin.pendlecontract.site
 coin.scrllclub.xyz
 coin.searchclaim.top
 coin.sillcabs.com
+coin.solstreamers.live
 coin128.top
 coin1inch.com
 coin1sol.com
@@ -87256,6 +87274,7 @@ crypto-gtp.com
 crypto-gtp.com.momoguro-nfts.com
 crypto-h4i.netlify.app
 crypto-hasbulla.github.io
+crypto-hfi.netlify.app
 crypto-highstakescapital.com
 crypto-homer.online
 crypto-hubb.live
@@ -87265,6 +87284,7 @@ crypto-inspect.web.app
 crypto-interest.com
 crypto-investors.xyz
 crypto-invite.com
+crypto-jgu.netlify.app
 crypto-jobs.app
 crypto-jobs.org
 crypto-jobs.space
@@ -87398,6 +87418,7 @@ crypto-x.net
 crypto-x.xyz
 crypto-xen.org
 crypto-xnb.netlify.app
+crypto-xwk.netlify.app
 crypto-zombies.live
 crypto.1inch-crypto.top
 crypto.amlbot.io
@@ -87412,6 +87433,7 @@ crypto.cryptoparty.lol
 crypto.cryptostar.lol
 crypto.cryptoworld.lol
 crypto.cs2limited.net
+crypto.eventchecker.lol
 crypto.fgjdfgjtyu.top
 crypto.freedomservers.com.au
 crypto.goairdrop.online
@@ -91862,9 +91884,13 @@ dapp.nodesynapes.app
 dapp.nomotas.nl
 dapp.ocagent.cyou
 dapp.ocagent.us
+dapp.ocdashboard.lol
 dapp.ocdashboard.vip
 dapp.ocdashboard.xyz
 dapp.ocportal.biz
+dapp.ocportal.club
+dapp.ocportal.lol
+dapp.ocportal.vip
 dapp.onchaindynamix.icu
 dapp.onepiece.finance
 dapp.opcsec.computer
@@ -102690,6 +102716,7 @@ distribution-stagerw.pages.dev
 distribution-stargate.finance
 distribution-starknet.com
 distribution-starknetwork.com
+distribution-stonkfun.com
 distribution-strata.xyz
 distribution-strettollc.com
 distribution-stronghold.com
@@ -104744,6 +104771,7 @@ dookeygame.xyz
 dookieydash.xyz
 dooksairdroplive-claim.pages.dev
 doolarzero.org
+doom-sol.com
 doom.memepage.io
 doomercto.com
 dooodles.app
@@ -106147,6 +106175,7 @@ dropify-labs.com
 dropimx.com
 droping-exc.shop
 dropingnow087.netlify.app
+dropinterface.netlify.app
 dropio.network
 dropitoff.us
 dropitshopping.com
@@ -111604,6 +111633,7 @@ embaccybamk-online.cc
 embed-collabland.com
 ember.co.im
 ember.forgerewards.live
+embercurves.com
 embersft.costhentic.com
 embersnfft.xyz
 embersord.click
@@ -116030,6 +116060,7 @@ ethercb.com
 ethercbase.com
 etherce.top
 ethercentric.pages.dev
+ethercentricpro.netlify.app
 etherchainapp.club
 etherchains.net
 etherchainswap.vercel.app
@@ -120352,6 +120383,7 @@ exchange1.rost-bet.com
 exchange3.rost-bet.com
 exchange4.rost-bet.com
 exchangeagix.org
+exchangeaiamm.com
 exchangeapp-dydx.com
 exchangebay.uk
 exchangebeam.com
@@ -122445,6 +122477,8 @@ fcnn.token2l.xyz
 fcpandamen.com
 fcperc.run
 fcs-net.us
+fcsplf.xyz
+fcstok.xyz
 fcstone.one
 fcstone.plus
 fcstone.pw
@@ -123024,6 +123058,7 @@ fgxglobalmining.com
 fgysc.top
 fgyzhex.org
 fh-agency.de
+fhcmd.xyz
 fhd.autos
 fhdsgsdg2436432523.icu
 fhdwm.pro
@@ -123497,6 +123532,7 @@ finance.stargates.fund
 finance.tterrqmoney.com
 finance.walletdex.xyz
 finance.wormhole-coin.com
+financeaiamm.com
 financeapp.my.id.swap-jup.ag
 financechain-defi.net
 financechicago.com
@@ -124362,6 +124398,7 @@ fkh.elevatedpass.org
 fkintemal.net
 fkjequant.org
 fknight.site
+fkoctf.xyz
 fkongv2.com
 fkpvfa.top
 fkq30.com
@@ -125530,6 +125567,7 @@ flxsyncc.pages.dev
 fly-emirates-uae.site
 fly-emirates.site
 fly-frontiier.com
+fly.onchaindocumented.com
 flydaddys.com
 flydubai-booking.in
 flyemirates.cloud
@@ -127655,6 +127693,7 @@ freshnglow.in
 freshspeedmigrattdev2.pro
 freshstartmaternity.com
 freshstartoffer.com.ng
+freskaatt.com
 fresya-ai.com
 freya-ai.com
 freya-starfall.com
@@ -140022,6 +140061,7 @@ haydenzadams.com
 haydrop.vip
 hayesbull.net
 haynatural.oil.ph
+hazeseas.live
 hb2vqm.cc
 hb3v.info
 hbar-distribution.com
@@ -143732,6 +143772,7 @@ hylo-reallocations.xyz
 hylo-so.com
 hylo.lol
 hyloso.run
+hylovault.com
 hylperfinance.network
 hylperfinance.xyz
 hymerliquid.xyz
@@ -149292,6 +149333,7 @@ jackbits.net
 jackbutcher-free.xyz
 jackbutcher1-free.xyz
 jackbutcherv2.art
+jackcasino.xyz
 jacked.pro
 jacketbnb.netlify.app
 jackfermin.com
@@ -150365,6 +150407,7 @@ join-1coinsol.xyz
 join-1inch.com
 join-1inch.io
 join-1inch.online
+join-3jane.xyz
 join-55onsol.xyz
 join-aave.co
 join-aave.com
@@ -152331,6 +152374,7 @@ jup-vouchers.com
 jup-web.xyz
 jup-web3.app
 jup-web3.org
+jup-whitelist-test.vercel.app
 jup-whitelist.top
 jup-wl.top
 jup.ac
@@ -152688,6 +152732,7 @@ jupiter-jlp.xyz
 jupiter-launcher.network
 jupiter-launchpad.vercel.app
 jupiter-lfg.xyz
+jupiter-lite-gamma.vercel.app
 jupiter-mint.web.app
 jupiter-mintes.web.app
 jupiter-mints.web.app
@@ -153746,6 +153791,7 @@ kalndruvas.lv
 kalpanaskitchen.com
 kalpatarumagnus.newlaunchs.co.in
 kalpdao.xyz
+kalshl.org
 kalto-ai.com
 kalto-ai.site
 kalto-io.lol
@@ -164664,12 +164710,14 @@ listadao.xyz
 listadaoorg.pages.dev
 listadrop.live
 listandvote.digital
+listandvoting.digital
 listaorg.sbs
 listarrynightstra.ru
 listarrynightstra.store
 listas.claims
 listastake.org
 listbidmarket.live
+listchoiseopenleaderboardseptember.netlify.app
 listdappsync.pages.dev
 listed-jup.space
 listed-jupspace.pages.dev
@@ -164687,6 +164735,12 @@ listed-zetachain.com
 listedos.com
 listen-revenue.pages.dev
 listenrs.com
+listing-1abupcmf.orbitrelaydata.cfd
+listing-2sgxxrcg.orbitrelaydata.cfd
+listing-3xbs0tp.orbitrelaydata.top
+listing-6qfaidcqz.orbitrelaydata.cyou
+listing-8hango.orbitrelaylogs.skin
+listing-9nz5yao.orbitrelaydata.homes
 listing-aevoxyz.pages.dev
 listing-animaliacom.pages.dev
 listing-artyfactgame.com
@@ -164694,15 +164748,26 @@ listing-assets.com
 listing-claimton.xyz
 listing-coin.com
 listing-cookie3.com
+listing-cwslhp.orbitrelaydata.cyou
+listing-ddcaq6k.orbitrelaydata.top
 listing-de.fi
 listing-defi.com
 listing-defi.pages.dev
+listing-dppr6zhm.orbitrelaylogs.click
 listing-dymension.pages.dev
 listing-erc404.pages.dev
+listing-flgiysjg61.orbitrelaydata.cyou
+listing-gdyexa.orbitrelaylogs.click
+listing-gfqb8j19.orbitrelaylogs.buzz
+listing-gnnruwak.orbitrelaydata.cyou
+listing-hsq2yd.orbitrelaydata.sbs
 listing-iceio.pages.dev
+listing-ig071m.orbitrelaylogs.click
 listing-item.com
 listing-item.io
 listing-jup.space
+listing-kxayr4ldb.orbitrelaylogs.click
+listing-lv51pp.orbitrelaydata.cfd
 listing-mage.xyz
 listing-manta.network
 listing-market.com
@@ -164710,10 +164775,15 @@ listing-marketplace.com
 listing-marketplace.io
 listing-metis.pages.dev
 listing-metisio.pages.dev
+listing-mmyaym32v.orbitrelaydata.cfd
 listing-movementlabs.com
+listing-mpbkfwtjw.orbitrelaylogs.skin
+listing-ncvpayrnka.orbitrelaydata.top
 listing-nillion.com
 listing-nim.network
 listing-nimnetwork.pages.dev
+listing-nnhd2gaah.orbitrelaydata.homes
+listing-o0nrd5w.orbitrelaydata.cfd
 listing-offers.io
 listing-okx.live
 listing-okx.xyz
@@ -164723,6 +164793,9 @@ listing-open.io
 listing-opensea.v6.navy
 listing-opensea.v6.rocks
 listing-pandora.com
+listing-q48nr1.orbitrelaydata.top
+listing-qmo8ahqh8.orbitrelaydata.top
+listing-r9sbbvae8.orbitrelaydata.homes
 listing-roost.pages.dev
 listing-rtfkt.com
 listing-s2.com
@@ -164730,7 +164803,9 @@ listing-satoshiv.pages.dev
 listing-starknet.com
 listing-starknet.io
 listing-starknetpp.pages.dev
+listing-tmcpx0kqu.orbitrelaylogs.buzz
 listing-wormhole.pages.dev
+listing-yc0jhq.orbitrelaydata.homes
 listing-zetachain.com
 listing-zetachain.pages.dev
 listing.auctionmarket.pro
@@ -165904,6 +165979,7 @@ login-opensea.co
 login-opensea.com
 login-outlook-filestreams.com
 login-pancakeswap.com
+login-pendle.top
 login-pepe2-airdrop-app.pages.dev
 login-rendernetwork.com
 login-stake.com
@@ -173679,6 +173755,7 @@ matrixdojo.live
 matrixdojo.top
 matrixefeitosespeciais.com.br
 matrixhotelpbx.com
+matrixpoints.com
 matrixportis.com
 matrixsolcoin.com
 matrixswap.app
@@ -176145,6 +176222,14 @@ memesai-sol.com
 memesailors.xyz
 memesbecker.com
 memesby6529.xyz
+memescandata.buzz
+memescandata.click
+memescandata.lat
+memescandata.lol
+memescandata.me
+memescandata.pics
+memescandata.quest
+memescandata.skin
 memescloud.lol
 memescoilns.com
 memescoin.cam
@@ -205088,6 +205173,7 @@ ondo-finance.web.app
 ondo-finance.xyz
 ondo-finances.cloud
 ondo-finances.online
+ondo-finances.vercel.app
 ondo-finances.xyz
 ondo-finannses.tech
 ondo-founatlon.org
@@ -209929,6 +210015,7 @@ order-metamask.com
 order-metamask.net
 order-solanamobilecom.pages.dev
 order.app.tanx-fi.com
+order.cardstrust.world
 order.portosbakery.com
 order123.site
 orderblock.org
@@ -216880,6 +216967,8 @@ penguwrap.com
 pengviniclaim.live
 pengy.live
 pengy.net
+penis.alrdrop.com
+peniscoin.alrdrop.xyz
 penispillreviews.com
 penlde.icu
 pennakecwep-fernance.com
@@ -226725,9 +226814,11 @@ primestakings.xyz
 primevalidator.live
 primex-finance.org
 primex-finance.xyz
+primexbtai.xyz
 primexbtc.net
 primexbtel.xyz
 primexbtf.net
+primexbtl.com
 primexfinance.pro
 primexofficialdrop.com
 primez.naoa.site
@@ -228910,6 +229001,7 @@ protocol-migra.pages.dev
 protocol-monad.app
 protocol-monad.com
 protocol-node.pages.dev
+protocol-node.vercel.app
 protocol-polygon.technology
 protocol-portal.xyz
 protocol-pryzm.com
@@ -231104,6 +231196,7 @@ pumpfungame.com
 pumpfunlife.meme-pass.io
 pumpfunlive-pump.fun
 pumpfunlive.app
+pumpfunlive.org
 pumpfunlive.sollab.cc
 pumpfunlive.solpulse.cc
 pumpfunlive.solstreamer.cc
@@ -231210,6 +231303,7 @@ pumprugged-refund.web.app
 pumprunes.com
 pumprunner.net
 pumps-fun.com
+pumps-fun.streaminglivenow.xyz
 pumps-live.fun
 pumps-live.solstream.cc
 pumps-reward.xyz
@@ -246300,6 +246394,7 @@ reward-griffain.com
 reward-gua.pages.dev
 reward-gummyonsol.pages.dev
 reward-gummysol.net
+reward-haedal.xyz
 reward-hashai.com
 reward-haycoin.vip
 reward-haycoin.vip.seedify-funds.ind.in
@@ -254756,6 +254851,7 @@ sccwj.com
 scd.overdezuki.fun
 scearpo.com
 scecrty.cc
+scene-redemption.world
 sceportas.pages.dev
 sceptre.finance
 sceptrelabs.info
@@ -256470,6 +256566,7 @@ secure5-coinbase.com
 secure64jkndsjkn.com
 secure9.ontario407etr.com
 secureairwallet.live
+secureamlreport.com
 secureapp.onrender.com
 secureappnode.pages.dev
 secureaprovedfaucet.top
@@ -257589,6 +257686,7 @@ sendusdt-2.vercel.app
 sendusdt-beta.vercel.app
 sendusdt-bnb.netlify.app
 sendusdt-g.netlify.app
+sendusdt-omega.vercel.app
 sendusdt-trust-scan.vercel.app
 sendusdt.digital
 sendusdt.services
@@ -259969,6 +260067,7 @@ shuffledistribution.cfd
 shuffles.app
 shuffles.events
 shukraanedu.com
+shuncoin.com
 shupeiman-free.xyz
 shupeiman.xyz
 shupy.xyz
@@ -275182,7 +275281,9 @@ stonget.com
 stongwerfdsf.sbs
 stonid.com
 stonk-fun.xyz
+stonk-funs.xyz
 stonk-rewards.online
+stonk-zone.com
 stonkbroker-evm.airdrops-th.lol
 stonkbroker.5a-evmcheck.lol
 stonkbroker.airdrop15.click
@@ -275534,6 +275635,7 @@ streamerspumps.fun
 streamflow-foundatlon.run
 streamflow.bz
 streamflow.website
+streamflowchain.xyz
 streamflowconnect.app
 streamflowdashboard.xyz
 streamflowv.com
@@ -276096,6 +276198,7 @@ sudotrade.xyz
 sudotrader.xyz
 sudrlink.net
 suedeaiorg.netlify.app
+suermariobroscoin.com
 sueta777.pages.dev
 suffer.sadwing.za.com
 suffix-05.web.app
@@ -282915,6 +283018,7 @@ telosnetwork.net
 telostoken.com
 teloswhitelist.pages.dev
 telradevax.com
+telrand.com
 telsa.one
 telsync.netlify.app
 telugupocketnews.com
@@ -292175,6 +292279,7 @@ tron-swap.net
 tron-syncrectifier.pages.dev
 tron-trading.net
 tron-trx.xyz
+tron-wallet-scan.vercel.app
 tron-whale.com
 tron.airdrop-whitelist.com
 tron.baby
@@ -292239,6 +292344,7 @@ tronfinders.vercel.app
 tronflash.misecure.com
 tronfronttest.trongotesting.com
 trong.quest
+trongaming.net
 trongas.fun
 trongas.one
 trongas.shop
@@ -295174,6 +295280,7 @@ typicalfriends.xyz
 typicalfrlends.com
 typicfriends.com
 typusfiinance.pages.dev
+typusfinance.pages.dev
 typycalfriends.com
 tyqkl.com
 tyrionstake.finance
@@ -299985,6 +300092,7 @@ usependle.finance
 user-bnbbridge.com
 user-briantrust.sbs
 user-dashboardtroubleshoot.xyz
+user-guild.xyz
 user-metamask.pro
 user-multichain-swap.cc
 user-nftclaim.web.app
@@ -305054,6 +305162,8 @@ vote-okxpolls-574.pages.dev
 vote-okxpolls-577.pages.dev
 vote-okxpolls-638.pages.dev
 vote-okxpolls-640.pages.dev
+vote-okxpolls-655.pages.dev
+vote-okxpolls-659.pages.dev
 vote-okxpolls.pages.dev
 vote-olas.com
 vote-olas.net
@@ -313360,6 +313470,7 @@ weekly-revshares.pages.dev
 weekly-share.pages.dev
 weekly.chosun.com
 weekly.circleinc.net
+weeklycommunitychoicescore.netlify.app
 weeklyprojectvoteresults-bns.netlify.app
 weeklytether.com
 weendowz69.xyz
@@ -316916,6 +317027,7 @@ worldslibertyflnancial.com
 worldsllibertyfinancial.icu
 worldsofdypians.com
 worldsoftoken.website
+worldsolana.xyz
 worldtek.uk
 worldtimer.xyz
 worldtimers.xyz
@@ -351480,6 +351592,7 @@ zielchain.co
 ziendgov.com
 zierion.io
 zifi-refund.pages.dev
+zig-chainclaim.com
 zig-sushi.cc
 zig-sushi.cfd
 zig-sushi.vip
