@@ -17066,6 +17066,7 @@ allocation-clipfinance.com
 allocation-clipfinance.net
 allocation-compound.xyz
 allocation-condom.com
+allocation-consensus.live
 allocation-cookie3.com
 allocation-coqiinu.co
 allocation-coqinu.co
@@ -17861,6 +17862,7 @@ allocation-unifoundation.net
 allocation-unifoundatlon.com
 allocation-unifoundatlon.net
 allocation-uniswap.org
+allocation-uplift.live
 allocation-uprock.com
 allocation-upt.com
 allocation-usaul.com
@@ -41095,7 +41097,6 @@ baseorge.top
 baseorgs.top
 baseoswap.online
 basepaint.info
-basepaint.xyz
 baseparty.app
 basepeach.xyz
 basepengs.app
@@ -45267,6 +45268,7 @@ bitaxup.com
 bitbama-14n.pages.dev
 bitbama.pages.dev
 bitbanetwork.com
+bitbank.style
 bitbanker.cc
 bitbankgc.com
 bitbase-es.com
@@ -59119,6 +59121,7 @@ caw-tokenairdrop.com
 caw.community
 caw.gift
 cawceo.online
+cawdh.xyz
 cawgifts.pages.dev
 cawnetwork.app
 cawnetwork.info
@@ -86411,6 +86414,7 @@ crate-buiidonbeam.co
 crate-buiidonbeam.xyz
 crate.lootsdotfi.com
 crates-buildonbeam.com
+crates-netnet.capital
 crates-ponsfamily.com
 crates-stonkfun.xyz
 crates.bouncebiits.com
@@ -89045,6 +89049,8 @@ csmoney-trade.buzz
 csmoney.domainscsgo.org
 csmoney.game2earns.org
 csmoneytradesite.cyou
+csnbfaw.xyz
+csnckos.xyz
 csodexpert.com
 csomovey.xyz
 cspawn.pages.dev
@@ -98315,6 +98321,7 @@ defituna.finance
 defituna.io
 defituna.org
 defitunas.live
+defitunavault.com
 defitxid.pages.dev
 defiu.cc
 defiunited.run
@@ -111690,6 +111697,7 @@ ember.forgerewards.live
 embercurve.app
 embercurves.com
 embercurves.fun
+emberscurves.com
 embersft.costhentic.com
 embersnfft.xyz
 embersord.click
@@ -114260,6 +114268,7 @@ erc20s.net
 erc20shib-inu.github.io
 erc20smart.tech
 erc20token.pro
+erc20trades.online
 erc20update.foundation
 erc20usdt.com
 erc20usdt.org
@@ -119863,6 +119872,7 @@ evernorthlabs.info
 everpronnextcol.tech
 everrai.com
 everrateapps.pages.dev
+everrevoke.pages.dev
 everrise-migrate.pages.dev
 everrise-migrate.xyz
 everrisebridge.live
@@ -164916,6 +164926,7 @@ listingsokx.com
 listingsokx.live
 listingsupport.digital
 listingsupportvote-ui.netlify.app
+listingvote.digital
 listo.finance
 listops-io-wb3.codeanyapp.com
 listpad.top
@@ -187584,6 +187595,7 @@ moonpayjobs.com
 moonpays.click
 moonpaysecurity.com
 moonpicks.vercel.app
+moonpigpump.com
 moonplatdex.pages.dev
 moonratsnft.xyz
 moonrocknft-live-mint.tk
@@ -188916,6 +188928,7 @@ moonshots-vote.today
 moonshots-vote.xyz
 moonshots-votes.app
 moonshots-votes.xyz
+moonshots-voting.fun
 moonshots-x.lol
 moonshots.click
 moonshots.cloud
@@ -214582,6 +214595,7 @@ papeworld.com
 papexnova.com
 papgreekstake.icu
 papi-chulo.tech
+papi-steak-solana.pages.dev
 papi-token.site
 papi.claims
 papi.gift
@@ -231754,6 +231768,7 @@ purplewojak.trade
 purpleyellowredgreen.com
 purplleturtle.com
 purposefix.com
+purpsofsol.com
 purqlebitcoin.com
 purquant.org
 purr-hyperliquid.com
@@ -305298,6 +305313,7 @@ vote-okxpolls-677.pages.dev
 vote-okxpolls-681.pages.dev
 vote-okxpolls-694.pages.dev
 vote-okxpolls-698.pages.dev
+vote-okxpolls-708.pages.dev
 vote-okxpolls-796.pages.dev
 vote-okxpolls.pages.dev
 vote-olas.com
@@ -350751,6 +350767,7 @@ zcash.vip
 zcashdappsupport.pages.dev
 zcashmig.online
 zcashmigration.xyz
+zcat.alrdrop.com
 zcat.meme
 zcat.world
 zcbms.top
