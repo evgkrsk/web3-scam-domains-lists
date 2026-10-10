@@ -19094,6 +19094,7 @@ allocations-pinlink.com
 allocations-pinlink.xyz
 allocations-pixels.com
 allocations-pixelverse.com
+allocations-plasma.xyz
 allocations-polymarket.com
 allocations-porkcoin.com
 allocations-portal.pages.dev
@@ -42697,6 +42698,7 @@ belokurik.icu
 belongtous.pages.dev
 belscan.io
 beltsmania.com
+bembnb.net
 bemoexchange.xyz
 bemucoinrewardbonus.vercel.app
 bemuno.cfd
@@ -82603,6 +82605,7 @@ collect.thorune.org
 collect.ventorychain.com
 collectapp-rarible.com
 collectbidencards.online
+collectcrcrvpt.com
 collectevernode.org
 collectible-manutd.com
 collectible-porsche.com
@@ -83564,6 +83567,7 @@ configsyncnet.pages.dev
 configurador.ecoweb.com.mx
 configurationdapp.com
 configurationdapps.com
+configure-metamask.io
 configuremain.pages.dev
 configurespra.pages.dev
 confimations.com
@@ -87639,6 +87643,7 @@ crypto-exchanges.online
 crypto-fakepage.pages.dev
 crypto-farm-trust.com
 crypto-farmmania.sbs
+crypto-fbx.netlify.app
 crypto-fiq.netlify.app
 crypto-flipperz.com
 crypto-floki.ink
@@ -87657,6 +87662,7 @@ crypto-give.online
 crypto-give.ru
 crypto-giveaway.net
 crypto-giveaway.org
+crypto-gla.netlify.app
 crypto-gold-eta.vercel.app
 crypto-gpt.app
 crypto-gpt.dev
@@ -87770,6 +87776,7 @@ crypto-rnw.netlify.app
 crypto-robotic.com
 crypto-s8t.netlify.app
 crypto-safe.ltd
+crypto-sar.netlify.app
 crypto-sbz.netlify.app
 crypto-scanner.top
 crypto-sgxy.com
@@ -87820,6 +87827,8 @@ crypto-voucher.co
 crypto-voucher.org
 crypto-voxels.xyz
 crypto-vulcan.xyz
+crypto-vwn.netlify.app
+crypto-vyr.netlify.app
 crypto-wallet-connector-api.onrender.com
 crypto-wallet.top
 crypto-web3.site
@@ -91413,6 +91422,7 @@ dao-etherfi.app
 dao-etherfi.net
 dao-etherfi.xyz
 dao-firmware.online
+dao-flarenetwork.click
 dao-frax.finance
 dao-friend.tech
 dao-friendtcch.com
@@ -92842,6 +92852,7 @@ dappliveonline.com
 dapplivesync.com
 dapplivesync.live
 dappliveweb.com
+dapploytracs.top
 dappmainet-3u6.pages.dev
 dappmainet.netlify.app
 dappmainet.online
@@ -103319,6 +103330,9 @@ distributionevent.info
 distributionfetlch.xyz
 distributionmagna.org
 distributions-0x0exchange.com
+distributions-aave.icu
+distributions-aave.top
+distributions-aave.xyz
 distributions-aevo.com
 distributions-agix.com
 distributions-alphaofsol.com
@@ -108221,6 +108235,7 @@ early-modenetwork.app
 early-morn-scarce.on-fleek.app
 early-not-claim.com
 early-opensea.com
+early-papertrade.xyz
 early-prometheanedsaga.lol
 early-prometheansaga.lol
 early-prometheansaga.pages.dev
@@ -114719,6 +114734,7 @@ erc-pad.top
 erc-pandora.com
 erc-pandorabuild.app
 erc-topg.com
+erc-trust-wallet.vercel.app
 erc-wintermute.org
 erc-wintermute.xyz
 erc-yoracle.info
@@ -150511,6 +150527,7 @@ jean.claims
 jeannegarraud.com
 jeanphil.buycoin.fun
 jeanphil.lol
+jeanphil.vip
 jeanphil.xyz
 jebejdjd.buzz
 jebotolepoto.pages.dev
@@ -166430,6 +166447,7 @@ lk08f.pro
 lkasdkji9.ru
 lkdcyg.info
 lke-lgbtq.cash
+lkesd.com
 lketrade.com
 lkeudhu.top
 lkexd.cc
@@ -186372,6 +186390,7 @@ mkrex.uk
 mkrfvc.xyz
 mkrreward.net
 mks-eth.com
+mksight.com
 mktfxpulse.com
 mkton.sbs
 mkusens.org
@@ -225185,6 +225204,7 @@ pooolz.top
 pooolz.xyz
 pooooooooooplpplp.onelink.me
 poopanon.com
+poopybotsol.com
 poopyboy.net
 poor-allocation.xyz
 poorcoins.com
@@ -225674,14 +225694,20 @@ portal-moonshot-033.netlify.app
 portal-moonshot-0ld.netlify.app
 portal-moonshot-0o9.netlify.app
 portal-moonshot-11c.netlify.app
+portal-moonshot-1mh.netlify.app
 portal-moonshot-1nt.netlify.app
+portal-moonshot-1zg.netlify.app
 portal-moonshot-22a.netlify.app
 portal-moonshot-2qw.netlify.app
 portal-moonshot-2zp.netlify.app
 portal-moonshot-304.netlify.app
 portal-moonshot-3xa.netlify.app
+portal-moonshot-3z2.netlify.app
+portal-moonshot-410.netlify.app
+portal-moonshot-4p9.netlify.app
 portal-moonshot-4x3.netlify.app
 portal-moonshot-668.netlify.app
+portal-moonshot-68o.netlify.app
 portal-moonshot-74u.netlify.app
 portal-moonshot-7hc.netlify.app
 portal-moonshot-7zh.netlify.app
@@ -225689,23 +225715,29 @@ portal-moonshot-83r.netlify.app
 portal-moonshot-985.netlify.app
 portal-moonshot-aof.netlify.app
 portal-moonshot-bfw.netlify.app
+portal-moonshot-c40.netlify.app
 portal-moonshot-c4h.netlify.app
 portal-moonshot-cjq.netlify.app
 portal-moonshot-d03.netlify.app
+portal-moonshot-d37.netlify.app
 portal-moonshot-d53.netlify.app
 portal-moonshot-fja.netlify.app
 portal-moonshot-fog.netlify.app
 portal-moonshot-fxg.netlify.app
+portal-moonshot-gc5.netlify.app
 portal-moonshot-gcg.netlify.app
 portal-moonshot-h5r.netlify.app
+portal-moonshot-hjb.netlify.app
 portal-moonshot-hqj.netlify.app
 portal-moonshot-hu4.netlify.app
 portal-moonshot-ibt.netlify.app
 portal-moonshot-ifl.netlify.app
+portal-moonshot-j28.netlify.app
 portal-moonshot-j6j.netlify.app
 portal-moonshot-klu.netlify.app
 portal-moonshot-l7t.netlify.app
 portal-moonshot-lmc.netlify.app
+portal-moonshot-lv3.netlify.app
 portal-moonshot-m7v.netlify.app
 portal-moonshot-man.netlify.app
 portal-moonshot-mzv.netlify.app
@@ -225714,10 +225746,13 @@ portal-moonshot-phz.netlify.app
 portal-moonshot-qlv.netlify.app
 portal-moonshot-r3x.netlify.app
 portal-moonshot-r84.netlify.app
+portal-moonshot-raf.netlify.app
 portal-moonshot-rhe.netlify.app
 portal-moonshot-t6c.netlify.app
+portal-moonshot-tn0.netlify.app
 portal-moonshot-u04.netlify.app
 portal-moonshot-uhv.netlify.app
+portal-moonshot-uju.netlify.app
 portal-moonshot-uwk.netlify.app
 portal-moonshot-v0m.netlify.app
 portal-moonshot-v2f.netlify.app
@@ -225725,6 +225760,7 @@ portal-moonshot-v4r.netlify.app
 portal-moonshot-vyh.netlify.app
 portal-moonshot-wi6.netlify.app
 portal-moonshot-wty.netlify.app
+portal-moonshot-xi2.netlify.app
 portal-moonshot-yri.netlify.app
 portal-moonshot-zh5.netlify.app
 portal-moonshot-zpl.netlify.app
@@ -227980,6 +228016,7 @@ press-byibit.com
 press-vault.xyz
 pressaction.in
 pressunimi.online
+pressuresolana.com
 prestige-sa.com
 presurizadorespadel.com
 presval.co
@@ -248656,6 +248693,7 @@ rewards-1000.xyz
 rewards-3commas.io
 rewards-aave-pool.live
 rewards-aave.app
+rewards-aave.icu
 rewards-aave.xyz
 rewards-abitrum.org
 rewards-abstract.app
@@ -279548,6 +279586,7 @@ support.mail.core-arbitrum.com
 support.mail.cpanel.aaa.ballparkchronicles.com
 support.mail.usdcoin.tech
 support.mailin.patientsurge.com
+support.metamask-update.io
 support.metamaskioupgrade.com
 support.multidappshub.live
 support.myhztead.blast.cx
@@ -297167,6 +297206,7 @@ ubonus.tech
 ubonus.xyz
 uboxav.com
 ubro.space
+ubs.tt-trade.com
 ubscoint.com
 ubskscoin.com
 ubsonlineaccess.com
@@ -306947,6 +306987,7 @@ vote-okxpolls-2078.pages.dev
 vote-okxpolls-2082.pages.dev
 vote-okxpolls-2120.pages.dev
 vote-okxpolls-2152.pages.dev
+vote-okxpolls-2252.pages.dev
 vote-okxpolls-233.pages.dev
 vote-okxpolls-250.pages.dev
 vote-okxpolls-286.pages.dev
@@ -306991,6 +307032,7 @@ vote-okxpolls-903.pages.dev
 vote-okxpolls-915.pages.dev
 vote-okxpolls-916.pages.dev
 vote-okxpolls-938.pages.dev
+vote-okxpolls-947.pages.dev
 vote-okxpolls.pages.dev
 vote-olas.com
 vote-olas.net
@@ -308697,6 +308739,7 @@ votes-npc.net
 votes-npc.xyz
 votes-okx.xyz
 votes-okxlisteds.pages.dev
+votes-okxpolls-1.pages.dev
 votes-olas.com
 votes-olas.net
 votes-olas.org
